@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    //item
+       />/ android:id="@+id/action_matches"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_recents"
+        android:title="Matches"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_fantasy"
+        android:enabled="true"
+        android:icon="@drawable/fantasy_icon"
+        android:title="Fantasy"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_teams"
+        android:enabled="true"
+        android:icon="@drawable/team_icon"
+        android:title="Teams"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_players"
+        android:enabled="true"
+        android:icon="@drawable/player_icon"
+        android:title="Players"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_setting"
+        android:title="Settings"
+        app:showAsAction="ifRoom" />
+</menu>
