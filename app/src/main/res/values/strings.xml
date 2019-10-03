@@ -14,4 +14,8 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string-array name="teams">
+        <item>Team 1 test</item>
+        <item>Team 2 test</item>
+    </string-array>
 </resources>

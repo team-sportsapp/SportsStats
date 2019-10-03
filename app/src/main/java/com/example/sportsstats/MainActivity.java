@@ -26,6 +26,16 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(startIntent);
             }
         });
+
+        Button teamsBtn = (Button)findViewById(R.id.teamsBtn);
+        teamsBtn.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View view) {
+                Intent startIntent2 = new Intent(getApplicationContext(),TeamsActivity.class);
+                startActivity(startIntent2);
+            }
+        });
     }
 
     @Override
