@@ -19,9 +19,17 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         userEntry = findViewById(R.id.usernameEntry);
-
-
+        passEntry = findViewById(R.id.passwordEntry);
         Button loginBtn = findViewById(R.id.loginBtn);
+        Button matchesBtn = findViewById(R.id.matchesBtn);
+        matchesBtn.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View view) {
+                Intent startIntent = new Intent(getApplicationContext(), MatchesActivity.class);
+                startActivity(startIntent);
+            }
+        });
         loginBtn.setOnClickListener(new View.OnClickListener() {
 
             @Override
@@ -29,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 onLogin(view);
             }
         });
+
     }
     public void onLogin(View view){
             String username = userEntry.getText().toString();
