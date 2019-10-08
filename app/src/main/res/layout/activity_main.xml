@@ -133,5 +133,5 @@
         android:text="Login"
         android:textColor="#fff"
         android:textSize="18sp" />
-    android:onClick="OnLogin"/>/>
+        android:onClick="OnLogin"/>/>
 </RelativeLayout>

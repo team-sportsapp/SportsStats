@@ -18,27 +18,24 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Button matchesBtn = findViewById(R.id.loginBtn);
-        matchesBtn.setOnClickListener(new View.OnClickListener() {
+        userEntry = findViewById(R.id.usernameEntry);
+
+
+        Button loginBtn = findViewById(R.id.loginBtn);
+        loginBtn.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
-                Intent startIntent = new Intent(getApplicationContext(),MatchesActivity.class);
-                startActivity(startIntent);
+                onLogin(view);
             }
-
         });
-
-        userEntry = findViewById(R.id.usernameEntry);
-        passEntry = findViewById(R.id.passwordEntry);
-
     }
     public void onLogin(View view){
-        String username = userEntry.getText().toString();
-        String password = passEntry.getText().toString();
-        String type = "login";
+            String username = userEntry.getText().toString();
+            String password = passEntry.getText().toString();
+            String type = "login";
 
-        BackgroundWorker backgroundWorker = new BackgroundWorker(this);
-        backgroundWorker.execute(type,username,password);
+            BackgroundWorker backgroundWorker = new BackgroundWorker(this);
+            backgroundWorker.execute(type,username,password);
+        }
     }
-}
