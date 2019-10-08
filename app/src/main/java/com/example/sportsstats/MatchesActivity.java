@@ -29,8 +29,6 @@ public class MatchesActivity extends AppCompatActivity implements BottomNavigati
             return true;
         }
         return false;
-
-
     }
 
 
