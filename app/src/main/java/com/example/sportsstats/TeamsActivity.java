@@ -17,11 +17,11 @@ public class TeamsActivity extends AppCompatActivity {
         setContentView(R.layout.activity_teams);
 
         Resources res = getResources();
-        //teamsListView = (ListView) findViewById(R.id.teamsListView);
-      //  teams = res.getStringArray(R.array.teams);
+        teamsListView = (ListView) findViewById(R.id.teamsListView);
+        teams = res.getStringArray(R.array.teams);
 
-    //    teamsListView.setAdapter(new ArrayAdapter<String>(this, R.layout.activity_teams, teams));
+        teamsListView.setAdapter(new ArrayAdapter<String>(this, R.layout.activity_teams, teams));
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, R.layout.activity_teams, teams);
+        //ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, R.layout.activity_teams, teams);
     }
 }
