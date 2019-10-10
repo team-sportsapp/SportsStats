@@ -14,5 +14,6 @@ public class PlayersFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         return inflater.inflate(R.layout.fragment_players, null);
+        System.out.print.ln("hello world");
     }
 }
