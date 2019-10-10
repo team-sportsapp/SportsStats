@@ -14,4 +14,10 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+
+    <!-- Strings related to Player Names -->
+
+    <string name="player_one">Player 1</string>
+    <string name="player_two">Player 2</string>
+
 </resources>
