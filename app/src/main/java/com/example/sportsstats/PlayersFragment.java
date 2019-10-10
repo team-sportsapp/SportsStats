@@ -20,8 +20,6 @@ public class PlayersFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_players, null);
 
-        //System.out.print("Andy's Test");
-
         //players array
         String playersArray[] = new String[] {"a", "b", "c", "yii", "oscar", "llm", "jjja", "hm", "ii", "gk", "fc", "ed", "lo", "ki", "ko",
                 "la", "zz", "ae", "pe", "pa", "op", "p",
