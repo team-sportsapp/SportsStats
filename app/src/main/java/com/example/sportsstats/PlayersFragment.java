@@ -10,6 +10,9 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import java.util.Collections;
+import java.util.Comparator;
+
 
 public class PlayersFragment extends Fragment {
     @Nullable
@@ -18,7 +21,10 @@ public class PlayersFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_players, null);
 
         //players array
-        String playersArray[] = new String[] {"player_one", "player_two"};
+        String playersArray[] = new String[] {"a", "b", "c", "yii", "oscar", "llm", "jjja", "hm", "ii", "gk", "fc", "ed", "lo", "ki", "ko",
+                "la", "zz", "ae", "pe", "pa", "op", "p",
+                "t", "s", "k", "b", "y", "z"};
+
 
         ListView listView = (ListView) view.findViewById(R.id.playerList);
 
@@ -29,6 +35,13 @@ public class PlayersFragment extends Fragment {
                 playersArray);
         //adapter setter
         listView.setAdapter(listViewAdapter);
+
+        listViewAdapter.sort(new Comparator<String>() {
+            @Override
+            public int compare(String lhs, String rhs) {
+                return lhs.compareTo(rhs);
+            }
+        });
 
         return view;
 
