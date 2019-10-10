@@ -15,7 +15,7 @@
         completions."
     </string>
     <string-array name="teams">
-        <item>Team 1 test</item>
-        <item>Team 2 test</item>
+        <item>Team Facebook</item>
+        <item>Team Instagram</item>
     </string-array>
 </resources>
