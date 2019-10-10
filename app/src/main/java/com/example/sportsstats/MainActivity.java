@@ -10,46 +10,41 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
+import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
-
+    EditText userEntry, passEntry;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Button matchesBtn = (Button)findViewById(R.id.matchesBtn);
+        userEntry = findViewById(R.id.usernameEntry);
+        passEntry = findViewById(R.id.passwordEntry);
+        Button loginBtn = findViewById(R.id.loginBtn);
+        Button matchesBtn = findViewById(R.id.matchesBtn);
         matchesBtn.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View view) {
-                Intent startIntent = new Intent(getApplicationContext(),MatchesActivity.class);
+                Intent startIntent = new Intent(getApplicationContext(), MatchesActivity.class);
                 startActivity(startIntent);
             }
         });
+        loginBtn.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View view) {
+                onLogin(view);
+            }
+        });
+
     }
+    public void onLogin(View view){
+            String username = userEntry.getText().toString();
+            String password = passEntry.getText().toString();
+            String type = "login";
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
+            BackgroundWorker backgroundWorker = new BackgroundWorker(this);
+            backgroundWorker.execute(type,username,password);
         }
-
-        return super.onOptionsItemSelected(item);
     }
-
-
-
-}

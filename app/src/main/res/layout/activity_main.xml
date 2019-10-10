@@ -123,4 +123,15 @@
         android:layout_marginRight="35dp"
         android:text="Matches" />
 
+    <Button
+        android:id="@+id/loginBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/passwordEntry"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-90dp"
+        android:text="Login"
+        android:textColor="#fff"
+        android:textSize="18sp" />
+        android:onClick="OnLogin"/>/>
 </RelativeLayout>
