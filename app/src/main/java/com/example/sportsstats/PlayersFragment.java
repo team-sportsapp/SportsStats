@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-
+//https://www.youtube.com/watch?v=edZwD54xfbk
 import java.util.Collections;
 import java.util.Comparator;
 
@@ -23,7 +23,7 @@ public class PlayersFragment extends Fragment {
         //players array
         String playersArray[] = new String[] {"a", "b", "c", "yii", "oscar", "llm", "jjja", "hm", "ii", "gk", "fc", "ed", "lo", "ki", "ko",
                 "la", "zz", "ae", "pe", "pa", "op", "p",
-                "t", "s", "k", "b", "y", "z"};
+                    "t", "s", "k", "b", "y", "z"};
 
 
         ListView listView = (ListView) view.findViewById(R.id.playerList);
@@ -33,6 +33,7 @@ public class PlayersFragment extends Fragment {
                 getActivity(),
                 android.R.layout.simple_list_item_1,
                 playersArray);
+
         //adapter setter
         listView.setAdapter(listViewAdapter);
 
@@ -42,9 +43,6 @@ public class PlayersFragment extends Fragment {
                 return lhs.compareTo(rhs);
             }
         });
-
         return view;
-
-
     }
 }
