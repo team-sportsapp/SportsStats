@@ -22,7 +22,7 @@
 
     <string-array name="teams">
         <item>team 1</item>
-        <item>teams 2</item>
+        <item>team 2</item>
     </string-array>
 
 </resources>

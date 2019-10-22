@@ -22,9 +22,9 @@ public class TeamsFragment extends Fragment {
         View viewTwo = inflater.inflate(R.layout.fragment_teams, null);
 
         //players array
-        String teamArray[] = new String[] {"team 1", "team 2"};
+        //String teamArray[] = new String[] {"team 1", "team 2"};
 
-      // String[] team = getResources().getStringArray(R.array.teams);
+       String[] team = getResources().getStringArray(R.array.teams);
 
         ListView listViewTwo = (ListView) viewTwo.findViewById(R.id.teamsListView);
 
@@ -32,7 +32,7 @@ public class TeamsFragment extends Fragment {
         ArrayAdapter<String> listViewAdapterTwo = new ArrayAdapter<String>(
                 getActivity(),
                 android.R.layout.simple_list_item_1,
-                teamArray);
+                team);
 
         //adapter setter
         listViewTwo.setAdapter(listViewAdapterTwo);
