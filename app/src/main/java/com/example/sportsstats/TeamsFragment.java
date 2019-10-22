@@ -19,31 +19,31 @@ public class TeamsFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View viewTwo = inflater.inflate(R.layout.fragment_teams, null);
+        View view = inflater.inflate(R.layout.fragment_teams, null);
 
         //players array
         //String teamArray[] = new String[] {"team 1", "team 2"};
 
        String[] team = getResources().getStringArray(R.array.teams);
 
-        ListView listViewTwo = (ListView) viewTwo.findViewById(R.id.teamsListView);
+        ListView listView = (ListView) view.findViewById(R.id.teamsListView);
 
         //array adapter
-        ArrayAdapter<String> listViewAdapterTwo = new ArrayAdapter<String>(
+        ArrayAdapter<String> listViewAdapter = new ArrayAdapter<String>(
                 getActivity(),
                 android.R.layout.simple_list_item_1,
                 team);
 
         //adapter setter
-        listViewTwo.setAdapter(listViewAdapterTwo);
+        listView.setAdapter(listViewAdapter);
 
-        listViewAdapterTwo.sort(new Comparator<String>() {
+        listViewAdapter.sort(new Comparator<String>() {
             @Override
             public int compare(String lhs, String rhs) {
                 return lhs.compareTo(rhs);
             }
         });
-        return viewTwo;
+        return view;
 
 
 
