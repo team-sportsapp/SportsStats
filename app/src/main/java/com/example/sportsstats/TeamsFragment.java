@@ -3,74 +3,54 @@ package com.example.sportsstats;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
+
 import android.support.v4.app.Fragment;
-import android.support.v4.app.ListFragment;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.ListView;
-import android.widget.SimpleAdapter;
-import android.widget.Toast;
 
-import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.Comparator;
 
-import javax.security.auth.Subject;
 
-public class TeamsFragment extends ListFragment {
-    // use .png for image files
-    // listview with images and text in fragment
-    //https://www.tutorialspoint.com/how-to-display-a-list-of-images-and-text-in-a-listview-in-android
-    /*
-    String[] teams;
-    int[] images= {R.drawable.facebook, R.drawable.instagram};
-
-    ArrayList<HashMap<String, String>> data = new ArrayList<HashMap<String, String>>();
-    SimpleAdapter adapter;
-    */
+public class TeamsFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-    /*
-        //MAP
-        HashMap<String, String> map = new HashMap<String, String>();
+        View viewTwo = inflater.inflate(R.layout.fragment_teams, null);
 
-        //FILL THE MAP
-        for(int i=0;i<teams.length;i++){
-            map = new HashMap<String, String>();
-            map.put("Team", teams[i]);
-            map.put("Images", Integer.toString(images[i]));
+        //players array
+        String teamArray[] = new String[] {"team 1", "team 2"};
 
-            data.add(map);
-        }
+      // String[] team = getResources().getStringArray(R.array.teams);
 
-        //KEYS IN MAP
-        String[] from = {"Team", "Images"};
+        ListView listViewTwo = (ListView) viewTwo.findViewById(R.id.teamsListView);
 
-        //IDS OF VIEWS
-        int[] to={R.id.teamNameTextView, R.id.teamLogoImageView};
+        //array adapter
+        ArrayAdapter<String> listViewAdapterTwo = new ArrayAdapter<String>(
+                getActivity(),
+                android.R.layout.simple_list_item_1,
+                teamArray);
 
-        //ADAPTER
-        adapter = new SimpleAdapter(getActivity(), data, R.layout.fragment_teams, from, to);
-        setListAdapter(adapter);
-    */
-        return super.onCreateView(inflater, container, savedInstanceState);
-    }
-    /*
-    @Override
-    public void onStart(){
-        super.onStart();
+        //adapter setter
+        listViewTwo.setAdapter(listViewAdapterTwo);
 
-        getListView().setOnItemClickListener(new AdapterView.OnItemClickListener() {
+        listViewAdapterTwo.sort(new Comparator<String>() {
             @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int pos, long id) {
-                Toast.makeText(getActivity(), data.get(pos).get("Team"), Toast.LENGTH_SHORT).show();
+            public int compare(String lhs, String rhs) {
+                return lhs.compareTo(rhs);
             }
         });
+        return viewTwo;
+
+
+
+
+
+
+
+
     }
-    */
-
-
-
 }

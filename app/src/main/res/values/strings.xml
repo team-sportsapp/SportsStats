@@ -20,4 +20,9 @@
     <string name="player_one">Player 1</string>
     <string name="player_two">Player 2</string>
 
+    <string-array name="teams">
+        <item>team 1</item>
+        <item>teams 2</item>
+    </string-array>
+
 </resources>

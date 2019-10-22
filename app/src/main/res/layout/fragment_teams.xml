@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent" android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/teamLogoImageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
+    <ListView
+        android:id="@+id/teamsListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_alignParentTop="true"
-        android:layout_marginLeft="30dp"
-        android:layout_marginTop="28dp"
-        app:srcCompat="@drawable/facebook" />
-
-    <TextView
-        android:id="@+id/teamNameTextView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
-        android:layout_alignTop="@+id/teamLogoImageView"
-        android:layout_marginTop="77dp"
-        android:padding="10dp"
-        android:layout_toRightOf="@+id/teamLogoImageView"
-        android:text="TextView" />
-
+        android:layout_marginTop="0dp" />
 </RelativeLayout>
