@@ -12,7 +12,10 @@ import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.EditText;
 
+
+
 public class MainActivity extends AppCompatActivity {
+   // public static String fillUp;
     EditText userEntry, passEntry;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,8 +29,11 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View view) {
+
                 Intent startIntent = new Intent(getApplicationContext(), MatchesActivity.class);
                 startActivity(startIntent);
+
+
             }
         });
         loginBtn.setOnClickListener(new View.OnClickListener() {
@@ -39,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
+
     public void onLogin(View view){
             String username = userEntry.getText().toString();
             String password = passEntry.getText().toString();
@@ -46,5 +53,6 @@ public class MainActivity extends AppCompatActivity {
 
             BackgroundWorker backgroundWorker = new BackgroundWorker(this);
             backgroundWorker.execute(type,username,password);
+
         }
     }
