@@ -9,10 +9,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
-//https://www.youtube.com/watch?v=edZwD54xfbk
 import java.util.Collections;
 import java.util.Comparator;
 
+//https://www.youtube.com/watch?v=edZwD54xfbk
 
 public class PlayersFragment extends Fragment {
     @Nullable
