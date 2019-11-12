@@ -9,6 +9,8 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -23,11 +25,27 @@ public class HomeFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+        View view = inflater.inflate(R.layout.fragment_home,container, false);
 
         //load matches list
         readMatchesData();
 
-        return inflater.inflate(R.layout.fragment_home, null);
+        //List view
+        ListView listView =(ListView) view.findViewById(R.id.matchesList);
+
+        //arrayadapter
+        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                getActivity(),
+                android.R.layout.simple_list_item_1,
+                matchesSamples
+        );
+
+        //tell list view to use adapter for screen
+        listView.setAdapter(listViewAdapter);
+
+
+        //return inflater.inflate(R.layout.fragment_home, null);
+        return view;
     }
 
     List<MatchesSample> matchesSamples = new ArrayList<>();
@@ -68,7 +86,10 @@ public class HomeFragment extends Fragment {
         Log.d("MyActivity", "asdf" + matchesSamples);
         Log.d("MyActivity", "END ARRAY LIST");
 
-        return;
+
+
+
+
     }
 }
 

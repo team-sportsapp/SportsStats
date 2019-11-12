@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A2B0B8">
+
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="this is showing fragment_home.xml"
+        android:layout_above="@+id/bottom_navigation">
+
+    </FrameLayout>
+
+    <ListView
+        android:id="@+id/matchesList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+
+<!--
+    <TextView
+        android:id="@+id/matchesList"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text="fragment_home.xml Text view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+-->
+
+</RelativeLayout>
