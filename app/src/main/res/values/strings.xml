@@ -17,13 +17,10 @@
 
     <!-- Strings related to Player Names -->
 
-    <string name="player_one">Player 1</string>
-    <string name="player_two">Player 2</string>
-
     <string-array name="teams">
         <item>Atlanta Hawks</item>
         <item>Boston Celtics</item>
-       <item> Brooklyn Nets</item>
+        <item>Brooklyn Nets</item>
         <item>Charlotte Hornets</item>
         <item>Chicago Bulls</item>
         <item>Cleveland Cavaliers</item>
@@ -48,6 +45,9 @@
         <item>Portland Trail Blazers</item>
         <item>Sacramento Kings</item>
         <item>San Antonio Spurs</item>
+        <item>Toronto Raptors</item>
+        <item>Utah Jazz</item>
+        <item>Washington Wizards</item>
     </string-array>
 
 </resources>
