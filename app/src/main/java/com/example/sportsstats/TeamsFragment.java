@@ -125,101 +125,101 @@ public class TeamsFragment extends Fragment {
                 FragmentManager fragmentManager = getActivity().getSupportFragmentManager();
                 FragmentTransaction transaction = fragmentManager.beginTransaction();
 
-                if (i ==0){
+                if (i ==0){ //Atlanta Hawks
                     Fragment playersFragment = new PlayersFragment();
                     transaction.replace(R.id.fragment_container, playersFragment);
                     transaction.addToBackStack(null);
                     transaction.commit();
                 }
-                else if (i == 1){
+                else if (i == 1){ //Boston Celtics
                     Fragment settingsFragment = new SettingsFragment();
                     transaction.replace(R.id.fragment_container, settingsFragment);
                     transaction.addToBackStack(null);
                     transaction.commit();
                 }
-                else if (i == 2){
+                else if (i == 2){ //Brooklyn Nets
                     Intent intent = new Intent(getActivity(), MainActivity.class);
                     startActivity(intent);
                 }
-                else if (i == 3){
+                else if (i == 3){ //Charlotte Hornets
 
                 }
-                else if (i == 4){
+                else if (i == 4){ //Chicago Bulls
 
                 }
-                else if (i == 5){
+                else if (i == 5){ //Cleveland Cavaliers
 
                 }
-                else if (i == 6){
+                else if (i == 6){ //Dallas Mavericks
 
                 }
-                else if (i == 7){
+                else if (i == 7){ //Denver Nuggets
 
                 }
-                else if (i == 8){
+                else if (i == 8){ //Detroit Pistons
 
                 }
-                else if (i == 9){
+                else if (i == 9){ //Golden State Warriors
 
                 }
-                else if (i == 10){
+                else if (i == 10){ //Houston Rockets
 
                 }
-                else if (i == 11){
+                else if (i == 11){ //Indiana Pacers
 
                 }
-                else if (i == 12){
+                else if (i == 12){ //LA Clippers
 
                 }
-                else if (i == 13){
+                else if (i == 13){ //LA Lakers
 
                 }
-                else if (i == 14){
+                else if (i == 14){ //Memphis Grizzlies
 
                 }
-                else if (i == 15){
+                else if (i == 15){ //Miami Heat
 
                 }
-                else if (i == 16){
+                else if (i == 16){ //Milwaukee Bucks
 
                 }
-                else if (i == 17){
+                else if (i == 17){ //Minnesota Timberwolves
 
                 }
-                else if (i == 18){
+                else if (i == 18){ //New Orleans Pelicans
 
                 }
-                else if (i == 19){
+                else if (i == 19){ //New York Knicks
 
                 }
-                else if (i == 20){
+                else if (i == 20){ //Oklahoma City Thunder
 
                 }
-                else if (i == 21){
+                else if (i == 21){ //Orlando Magic
 
                 }
-                else if (i == 22){
+                else if (i == 22){ //Philadelphia Sixers
 
                 }
-                else if (i == 23){
+                else if (i == 23){ //Phoenix Suns
 
                 }
-                else if (i == 24){
+                else if (i == 24){ //Portland Tail Blazers
 
                 }
-                else if (i == 25){
+                else if (i == 25){ //Sacramento Kings
 
                 }
-                else if (i == 26){
+                else if (i == 26){ //San Antonio Spurs
 
                 }
-                else if (i == 27){
+                else if (i == 27){ //Toronto Raptors
 
                 }
-                else if (i == 28){
+                else if (i == 28){ //Utah Jazz
 
                 }
-                else if (i == 29){
+                else if (i == 29){ //Washington Wizards
 
                 }
             }
