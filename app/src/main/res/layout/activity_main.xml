@@ -19,7 +19,7 @@
         android:layout_centerHorizontal="true" />
 
     <EditText
-        android:id="@+id/usernameEntry"
+        android:id="@+id/etUserName"
         android:layout_width="250dp"
         android:layout_height="40dp"
         android:background="#11000000"
@@ -29,11 +29,11 @@
         android:inputType="textPersonName"
         android:textSize="16dp"
         android:layout_marginBottom="35dp"
-        android:layout_above="@+id/passwordEntry"
+        android:layout_above="@+id/etPassword"
         android:layout_centerHorizontal="true" />
 
     <EditText
-        android:id="@+id/passwordEntry"
+        android:id="@+id/etPassword"
         android:layout_width="250dp"
         android:layout_height="40dp"
         android:background="#11000000"
@@ -43,8 +43,8 @@
         android:inputType="textPassword"
         android:layout_marginBottom="130dp"
         android:layout_alignBottom="@+id/cardView"
-        android:layout_alignLeft="@+id/usernameEntry"
-        android:layout_alignStart="@+id/usernameEntry" />
+        android:layout_alignLeft="@+id/etUserName"
+        android:layout_alignStart="@+id/etUserName" />
 
     <android.support.v7.widget.CardView
         android:layout_width="300dp"
@@ -57,19 +57,6 @@
         android:layout_above="@+id/textView2"
         android:layout_centerHorizontal="true">
 
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-            <TextView
-                android:id="@+id/loginButton"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_centerInParent="true"
-                android:text="Login"
-                android:textColor="#fff"
-                android:textSize="18sp" />
-        </RelativeLayout>
     </android.support.v7.widget.CardView>
 
     <TextView
@@ -127,11 +114,24 @@
         android:id="@+id/loginBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/passwordEntry"
+        android:layout_below="@+id/etPassword"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="-90dp"
         android:text="Login"
         android:textColor="#fff"
-        android:textSize="18sp" />
-        android:onClick="OnLogin"/>/>
+        android:textSize="18sp"
+        android:onClick="OnLogin"/>
+
+    <Button
+        android:id="@+id/regBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etPassword"
+        android:layout_marginStart="14dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="37dp"
+        android:layout_toEndOf="@+id/loginBtn"
+        android:layout_toRightOf="@+id/loginBtn"
+        android:text="Register"
+        android:onClick="OnReg"/>
 </RelativeLayout>

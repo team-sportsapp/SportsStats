@@ -13,15 +13,17 @@ import android.widget.Button;
 import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
-    EditText userEntry, passEntry;
+    EditText UsernameEt, PasswordEt;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        userEntry = findViewById(R.id.usernameEntry);
-        passEntry = findViewById(R.id.passwordEntry);
+        UsernameEt = (EditText) findViewById(R.id.etUserName);
+        PasswordEt = (EditText) findViewById(R.id.etPassword);
         Button loginBtn = findViewById(R.id.loginBtn);
         Button matchesBtn = findViewById(R.id.matchesBtn);
+        Button registerBtn = findViewById(R.id.regBtn);
         matchesBtn.setOnClickListener(new View.OnClickListener() {
 
             @Override
@@ -34,17 +36,30 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onClick(View view) {
-                onLogin(view);
+                OnLogin(view);
             }
         });
 
-    }
-    public void onLogin(View view){
-            String username = userEntry.getText().toString();
-            String password = passEntry.getText().toString();
-            String type = "login";
+        registerBtn.setOnClickListener(new View.OnClickListener() {
 
-            BackgroundWorker backgroundWorker = new BackgroundWorker(this);
-            backgroundWorker.execute(type,username,password);
-        }
+            @Override
+            public void onClick(View view) {
+                Intent startIntent = new Intent(getApplicationContext(), Register.class);
+                startActivity(startIntent);
+            }
+        });
     }
+
+    public void OnLogin(View view) {
+        String username = UsernameEt.getText().toString();
+        String password = PasswordEt.getText().toString();
+        String type = "login";
+        BackgroundWorker backgroundWorker = new BackgroundWorker(this);
+        backgroundWorker.execute(type, username, password);
+    }
+
+    public void OnReg(View view)
+    {
+        startActivity(new Intent(this, Register.class));
+    }
+}
