@@ -16,7 +16,6 @@ import android.widget.ListView;
 
 import java.util.Comparator;
 
-//https://www.youtube.com/watch?v=edZwD54xfbk
 
 public class PlayersFragment extends Fragment {
     @Nullable
