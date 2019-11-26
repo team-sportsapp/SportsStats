@@ -1,60 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent" android:layout_height="match_parent">
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 
-    <HorizontalScrollView
+    <Button
+        android:id="@+id/btnTest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:text="Button" />
+    <EditText
+        android:id="@+id/playerSearch"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:background="#11000000"
+        android:drawableLeft="@drawable/ic_action_user"
+        android:ems="10"
+        android:hint="Username"
+        android:inputType="textPersonName"
+        android:textSize="16dp"
+        android:layout_marginBottom="35dp"
+        android:layout_centerHorizontal="true" />
+
+    <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
         <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:orientation="vertical" >
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
 
-            <ScrollView
+            <HorizontalScrollView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
 
                 <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
                     android:orientation="vertical">
 
                     <TableLayout
-                        android:id="@+id/playerTable"
+                        android:id="@+id/table"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
 
                         <TableRow
                             android:layout_width="match_parent"
+                            android:layout_height="match_parent" />
+
+                        <TableRow
+                            android:id="@+id/tr1"
+                            android:layout_width="match_parent"
                             android:layout_height="match_parent">
 
                             <TextView
-                                android:id="@+id/playerName"
-                                android:layout_width="93dp"
-                                android:layout_height="match_parent"
-                                android:text="Player" />
+                                android:id="@+id/playername"
+                                android:layout_width="wrap_content"
+                                android:layout_height="40dp"
+                                android:text="Player Name"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
 
                             <TextView
                                 android:id="@+id/position"
                                 android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:text="Position" />
+                                android:layout_height="40dp"
+                                android:text="Position"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
 
+                            <TextView
+                                android:id="@+id/fg"
+                                android:layout_width="13dp"
+                                android:layout_height="40dp"
+                                android:text="FG%"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/threes"
+                                android:layout_width="wrap_content"
+                                android:layout_height="40dp"
+                                android:text="3PTM"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <EditText
+                                android:id="@+id/Pts"
+                                android:layout_width="49dp"
+                                android:layout_height="match_parent"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:text="PTS"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <EditText
+                                android:id="@+id/reb"
+                                android:layout_width="52dp"
+                                android:layout_height="wrap_content"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:text="REB"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <EditText
+                                android:id="@+id/ast"
+                                android:layout_width="46dp"
+                                android:layout_height="wrap_content"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:text="AST"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/st"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="ST"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/blk"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="BLK"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/to"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="TO"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/ft"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="FT%"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
 
                         </TableRow>
 
-                    </TableLayout>
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
 
-                    <Button
-                        android:id="@+id/addPlayerBtn"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:text="Add Player" />
+                            <android.support.v7.widget.CardView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content" />
+                        </TableRow>
+                    </TableLayout>
                 </LinearLayout>
-            </ScrollView>
+            </HorizontalScrollView>
+
         </LinearLayout>
-    </HorizontalScrollView>
+    </ScrollView>
 
 </RelativeLayout>
