@@ -148,6 +148,39 @@ public class PlayersFragment extends Fragment {
                 else if (i == 29){ //Washington Wizards
 
                 }
+                else if (i == 30){ //Washington Wizards
+
+                }
+                else if (i == 31){ //Washington Wizards
+
+                }
+                else if (i == 32){ //Washington Wizards
+
+                }
+                else if (i == 33){ //Washington Wizards
+
+                }
+                else if (i == 34){ //Washington Wizards
+
+                }
+                else if (i == 35){ //Washington Wizards
+
+                }
+                else if (i == 36){ //Washington Wizards
+
+                }
+                else if (i == 37){ //Washington Wizards
+
+                }
+                else if (i == 38){ //Washington Wizards
+
+                }
+                else if (i == 39){ //Washington Wizards
+
+                }
+                else if (i == 40){ //Washington Wizards
+
+                }
             }
         });
 
