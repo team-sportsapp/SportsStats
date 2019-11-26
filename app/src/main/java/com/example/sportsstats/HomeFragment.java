@@ -1,5 +1,6 @@
 package com.example.sportsstats;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -17,7 +18,14 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.List;
+
+import devs.mulham.horizontalcalendar.HorizontalCalendar;
+import devs.mulham.horizontalcalendar.HorizontalLayoutManager;
+import devs.mulham.horizontalcalendar.model.CalendarEvent;
+import devs.mulham.horizontalcalendar.utils.CalendarEventsPredicate;
+import devs.mulham.horizontalcalendar.utils.HorizontalCalendarListener;
 
 public class HomeFragment extends Fragment {
 
@@ -26,6 +34,30 @@ public class HomeFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_home,container, false);
+
+        /* starts before 1 month from now */
+        Calendar startDate = Calendar.getInstance();
+        startDate.add(Calendar.MONTH, -1);
+
+        /* ends after 1 month from now */
+        Calendar endDate = Calendar.getInstance();
+        endDate.add(Calendar.MONTH, 1);
+
+        HorizontalCalendar horizontalCalendar = new HorizontalCalendar.Builder(view, R.id.calendarView)
+                .range(startDate, endDate)
+                .datesNumberOnScreen(5)
+                .build();
+
+
+
+        horizontalCalendar.setCalendarListener(new HorizontalCalendarListener() {
+            @Override
+            public void onDateSelected(Calendar date, int position) {
+                //do something
+            }
+        });
+
+
 
         //load matches list
         readMatchesData();
@@ -66,12 +98,14 @@ public class HomeFragment extends Fragment {
 
                 //read data
                 MatchesSample sample = new MatchesSample();
-                sample.setDate(tokens[0]);
-                sample.setTime(tokens[1]);
-                sample.setAway(tokens[2]);
-                sample.setHome(tokens[3]);
 
-                matchesSamples.add(sample);
+                if(tokens[0].contains("Oct")) {
+                    sample.setDate(tokens[0]);
+                    sample.setTime(tokens[1]);
+                    sample.setAway(tokens[2]);
+                    sample.setHome(tokens[3]);
+                    matchesSamples.add(sample);
+                }
 
 
                 Log.d("MyActivity", "Just Created: " + sample);
@@ -81,14 +115,6 @@ public class HomeFragment extends Fragment {
             Log.wtf("MyActivity", "Error reading data file on line " + line, e);
             e.printStackTrace();
         }
-        //testArray = new String [t];
-        Log.d("MyActivity", "FULL ARRAY LIST");
-        Log.d("MyActivity", "asdf" + matchesSamples);
-        Log.d("MyActivity", "END ARRAY LIST");
-
-
-
-
 
     }
 }
