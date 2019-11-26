@@ -227,12 +227,5 @@ public class TeamsFragment extends Fragment {
 
         return view;
 
-
-
-
-
-
-
-
     }
 }
