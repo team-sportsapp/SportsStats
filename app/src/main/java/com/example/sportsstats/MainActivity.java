@@ -1,57 +1,40 @@
 package com.example.sportsstats;
 
 import android.content.Intent;
-import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
-import android.view.View;
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.Button;
+import android.view.View;
 import android.widget.EditText;
-
+import android.widget.Toast;
 
 
 public class MainActivity extends AppCompatActivity {
-    EditText userEntry, passEntry;
+    EditText UsernameEt, PasswordEt,EmailEt;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        userEntry = findViewById(R.id.usernameEntry);
-        passEntry = findViewById(R.id.passwordEntry);
-        Button loginBtn = findViewById(R.id.loginBtn);
-        Button matchesBtn = findViewById(R.id.matchesBtn);
-        matchesBtn.setOnClickListener(new View.OnClickListener() {
-
-            @Override
-            public void onClick(View view) {
-
-                Intent startIntent = new Intent(getApplicationContext(), MatchesActivity.class);
-                startActivity(startIntent);
-
-
-            }
-        });
-        loginBtn.setOnClickListener(new View.OnClickListener() {
-
-            @Override
-            public void onClick(View view) {
-                onLogin(view);
-            }
-        });
-
+        UsernameEt = (EditText)findViewById(R.id.etUserName);
+        PasswordEt = (EditText)findViewById(R.id.etPassword);
+        EmailEt = (EditText)findViewById(R.id.et_email);
     }
 
-    public void onLogin(View view){
-            String username = userEntry.getText().toString();
-            String password = passEntry.getText().toString();
-            String type = "login";
-
-            BackgroundWorker backgroundWorker = new BackgroundWorker(this);
-            backgroundWorker.execute(type,username,password);
-
-        }
+    public void OnLogin(View view) {
+        String username = UsernameEt.getText().toString();
+        String password = PasswordEt.getText().toString();
+        String type = "login";
+        BackgroundWorker backgroundWorker = new BackgroundWorker(this);
+        backgroundWorker.execute(type, username, password);
     }
+
+    public void OpenReg(View view) {
+        startActivity(new Intent(this,Register.class));
+    }
+
+    public void OnMatches(View view){
+        startActivity(new Intent(this,MatchesActivity.class));
+    }
+}
