@@ -40,10 +40,13 @@ public class HomeFragment extends Fragment {
     ListView listView;
     Calendar instanceDate;
 
+
+
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment_home,container, false);
+        final View view = inflater.inflate(R.layout.fragment_home,container, false);
+       // final ViewTwo = inflater.inflate(R.layout.fragment_home,container, false);
 
         //sam[ple text view
         textView = (TextView) view.findViewById(R.id.textView);
@@ -70,7 +73,7 @@ public class HomeFragment extends Fragment {
         readMatchesData();
 
 
-
+/*
 
 
         //arrayadapter
@@ -86,6 +89,9 @@ public class HomeFragment extends Fragment {
         //tell list view to use adapter for screen
         listView.setAdapter(listViewAdapter);
 
+ */
+
+
 
 
 
@@ -93,9 +99,12 @@ public class HomeFragment extends Fragment {
         horizontalCalendar.setCalendarListener(new HorizontalCalendarListener() {
             @Override
             public void onDateSelected(final java.util.Calendar date, int position) {
+
+
                 //do something
                 //Toast.makeText(getContext(), DateFormat.format("EEE, MMM d, yyyy", date) + " is selected!", Toast.LENGTH_SHORT).show();
                 //String str = s
+
                 Calendar currDate = date;
                 Date test2 = currDate.getTime();
                 //Date test = date.getTime();
@@ -107,7 +116,32 @@ public class HomeFragment extends Fragment {
                 Log.d("MyActivity", "CLICKED DATE " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
                 //Log.d("MyActivity", "DATEFORMAT CURR DATE " + dateFormat.format(currDate.DATE + "\n\n\n\n\n@@@@@@@@@@\n\n"));
                 int x = Integer.parseInt(userDate);
+                if(x == 9){
+
+
+                    //Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+
+                    //arrayadapter
+                    ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                            getActivity(),
+                            android.R.layout.simple_list_item_1,
+                            decemberNineSamples
+                    );
+
+                    //tell list view to use adapter for screen
+                    listView.setAdapter(listViewAdapter);
+
+                   // Log.d("MyActivity", "x = 10 " + matchesSamples);
+                    // inflater.inflate(R.layout.the_child_view, parent);
+
+
+                    // listView.addView(   )
+
+                }
+
                 if(x == 10){
+
+
                     Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
 
                         //arrayadapter
@@ -120,6 +154,36 @@ public class HomeFragment extends Fragment {
                         //tell list view to use adapter for screen
                         listView.setAdapter(listViewAdapter);
 
+                        Log.d("MyActivity", "x = 10 " + matchesSamples);
+                       // inflater.inflate(R.layout.the_child_view, parent);
+
+
+                    // listView.addView(   )
+
+                }
+
+
+                if(x == 11){
+
+
+                    Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+
+                    //arrayadapter
+                    ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                            getActivity(),
+                            android.R.layout.simple_list_item_1,
+                            decemberElevenSamples
+                    );
+
+                    //tell list view to use adapter for screen
+                    listView.setAdapter(listViewAdapter);
+
+                    //Log.d("MyActivity", "x = 10 " + matchesSamples);
+                    // inflater.inflate(R.layout.the_child_view, parent);
+
+
+                    // listView.addView(   )
+
                 }
 
 
@@ -131,7 +195,7 @@ public class HomeFragment extends Fragment {
 
                 /*
 
- //arrayadapter
+                    //arrayadapter
                     ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
                             getActivity(),
                             android.R.layout.simple_list_item_1,
@@ -156,15 +220,10 @@ public class HomeFragment extends Fragment {
             }
         });
 
-
-
-
-
-
-
-
         //return inflater.inflate(R.layout.fragment_home, null);
+        Log.d("MyActivity", "VIEW ID:" + view);
         return view;
+
     }
 
 
@@ -175,6 +234,9 @@ public class HomeFragment extends Fragment {
 
         List<MatchesSample> matchesSamples = new ArrayList<>();
         List<MatchesSample> decemberElevenSamples = new ArrayList<>();
+        List<MatchesSample> decemberNineSamples = new ArrayList<>();
+
+
 
     private void readMatchesData(){
         InputStream inputStream = getResources().openRawResource(R.raw.december2019);
@@ -193,9 +255,20 @@ public class HomeFragment extends Fragment {
                 //read data
                     MatchesSample decemberTen = new MatchesSample();
                     MatchesSample decemberEleven = new MatchesSample();
+                MatchesSample decemberNine = new MatchesSample();
+
+
 
                 //MatchesSample novemberSchedule = new MatchesSample();
 
+                //dec 9
+                if(tokens[0].contains("Dec 9 2019")) {
+                    decemberNine.setDate(tokens[0]);
+                    decemberNine.setTime(tokens[1]);
+                    decemberNine.setAway(tokens[2]);
+                    decemberNine.setHome(tokens[3]);
+                    decemberNineSamples.add(decemberNine);
+                }
                 //dec 10
                 if(tokens[0].contains("Dec 10 2019")) {
                     decemberTen.setDate(tokens[0]);
