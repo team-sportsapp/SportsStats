@@ -58,15 +58,15 @@ Sun Dec 8 2019,6:00p,Los Angeles Clippers,Washington Wizards
 Sun Dec 8 2019,7:00p,Sacramento Kings,Dallas Mavericks
 Sun Dec 8 2019,9:00p,Oklahoma City Thunder,Portland Trail Blazers
 Sun Dec 8 2019,9:30p,Minnesota Timberwolves,Los Angeles Lakers
-Mon Dec 9 2019,7:00p,Los Angeles Clippers,Indiana Pacers
-Mon Dec 9 2019,7:30p,Cleveland Cavaliers,Boston Celtics
-Mon Dec 9 2019,8:00p,Toronto Raptors,Chicago Bulls
-Mon Dec 9 2019,8:00p,Sacramento Kings,Houston Rockets
-Mon Dec 9 2019,8:00p,Orlando Magic,Milwaukee Bucks
-Mon Dec 9 2019,8:00p,Detroit Pistons,New Orleans Pelicans
-Mon Dec 9 2019,9:00p,Minnesota Timberwolves,Phoenix Suns
-Mon Dec 9 2019,9:00p,Oklahoma City Thunder,Utah Jazz
-Mon Dec 9 2019,10:30p,Memphis Grizzlies,Golden State Warriors
+Mon Dec 9 2019,7:00p,Los Angeles Clippers,Indiana Pacers,1,9
+Mon Dec 9 2019,7:30p,Cleveland Cavaliers,Boston Celtics,2,10
+Mon Dec 9 2019,8:00p,Toronto Raptors,Chicago Bulls,3,11
+Mon Dec 9 2019,8:00p,Sacramento Kings,Houston Rockets,4,12
+Mon Dec 9 2019,8:00p,Orlando Magic,Milwaukee Bucks,5,13
+Mon Dec 9 2019,8:00p,Detroit Pistons,New Orleans Pelicans,6,14
+Mon Dec 9 2019,9:00p,Minnesota Timberwolves,Phoenix Suns,7,15
+Mon Dec 9 2019,9:00p,Oklahoma City Thunder,Utah Jazz,7,16
+Mon Dec 9 2019,10:30p,Memphis Grizzlies,Golden State Warriors,8,17
 Tue Dec 10 2019,7:00p,Washington Wizards,Charlotte Hornets
 Tue Dec 10 2019,7:00p,Denver Nuggets,Philadelphia 76ers
 Tue Dec 10 2019,8:00p,Atlanta Hawks,Miami Heat

@@ -267,6 +267,8 @@ public class HomeFragment extends Fragment {
                     decemberNine.setTime(tokens[1]);
                     decemberNine.setAway(tokens[2]);
                     decemberNine.setHome(tokens[3]);
+                    decemberNine.setHomeWin(tokens[4]);
+                    decemberNine.setAwayWin(tokens[5]);
                     decemberNineSamples.add(decemberNine);
                 }
                 //dec 10
