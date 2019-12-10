@@ -40,11 +40,19 @@ public class MatchesSample{
 
     @Override
     public String toString() {
+        return date + '\n' +
+                time + '\n' +
+                home + '\n' +
+                away;
+
+          /*
         return "MatchesSample{" +
                 "date='" + date + '\'' +
                 ", time='" + time + '\'' +
                 ", away='" + away + '\'' +
                 ", home='" + home + '\'' +
                 '}';
+
+         */
     }
 }
