@@ -1,5 +1,6 @@
 package com.example.sportsstats;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -22,6 +23,9 @@ public void OnReg(View view){
     String type = "register";
     BackgroundWorker backgroundWorker = new BackgroundWorker(this);
     backgroundWorker.execute(type, str_username, str_password,str_email);
+
+    startActivity(new Intent(this,MainActivity.class));
+
 }
 
 }

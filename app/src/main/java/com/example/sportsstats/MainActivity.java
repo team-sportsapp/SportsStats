@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         String type = "login";
         BackgroundWorker backgroundWorker = new BackgroundWorker(this);
         backgroundWorker.execute(type, username, password);
+        startActivity(new Intent(this,MatchesActivity.class));
     }
 
     public void OpenReg(View view) {
