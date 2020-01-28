@@ -24,6 +24,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.HashMap;
 import java.util.List;
 
 import devs.mulham.horizontalcalendar.HorizontalCalendar;
@@ -67,15 +68,12 @@ public class HomeFragment extends Fragment {
                 .datesNumberOnScreen(5)
                 .build();
 
-
-
         //load matches list
         readMatchesData();
 
 
+
 /*
-
-
         //arrayadapter
         ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
                 getActivity(),
@@ -90,11 +88,6 @@ public class HomeFragment extends Fragment {
         listView.setAdapter(listViewAdapter);
 
  */
-
-
-
-
-
 
         horizontalCalendar.setCalendarListener(new HorizontalCalendarListener() {
             @Override
