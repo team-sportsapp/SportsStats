@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/addPlayer"
+        android:layout_width="243dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:layout_toStartOf="@+id/btnTest"
+        android:layout_toLeftOf="@+id/btnTest"
+        android:hint="Player Name" />
+
+    <Button
+        android:id="@+id/btnTest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="19dp"
+        android:layout_marginRight="19dp"
+        android:text="Add Player" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="414dp"
+        android:layout_below="@+id/addPlayer"
+        android:layout_marginTop="46dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TableLayout
+                        android:id="@+id/table2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="50dp"
+                        android:layout_marginEnd="50dp"
+                        android:layout_marginRight="323dp"
+                        android:layout_marginBottom="55dp">
+
+                        <TableRow
+                            android:id="@+id/teamHeader"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="#DEDEDE">
+
+                            <TextView
+                                android:id="@+id/playername2"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/textView"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+
+                            <TextView
+                                android:id="@+id/fg2"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="FG%"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/ft2"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="FT%"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/threes2"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="3PTM"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/Pts2"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:text="PTS"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/reb2"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:text="REB"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/ast2"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:text="AST"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/st2"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="ST"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/blk2"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="BLK"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/to2"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="TO"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                        </TableRow>
+
+                        <TableRow
+                            android:id="@+id/teamStatsRow"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:id="@+id/teamstats"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="Team Stats"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/textView2"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content" />
+
+                            <TextView
+                                android:id="@+id/teamFieldGoalPercentage"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/teamFreeThrowPercentage"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/teamThreePointers"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/teamPoints"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/teamRebounds"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/teamAssist"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/teamSteals"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/teamBlocks"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/teamTurnovers"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                        </TableRow>
+
+                    </TableLayout>
+
+                    <TableLayout
+                        android:id="@+id/table"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TableRow
+                            android:id="@+id/tr1"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="#DEDEDE"
+                            android:visibility="visible">
+
+                            <TextView
+                                android:id="@+id/playername"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="Player Name"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/position"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="Position"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/fg"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="FG%"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/ft"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="FT%"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/threes"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="3PTM"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/Pts"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:text="PTS"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/reb"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:text="REB"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/ast"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:ems="10"
+                                android:inputType="textPersonName"
+                                android:text="AST"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/st"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="ST"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/blk"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="BLK"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/to"
+                                android:layout_width="100dp"
+                                android:layout_height="wrap_content"
+                                android:text="TO"
+                                android:textColor="#0C0C0C"
+                                android:textSize="14sp" />
+
+                        </TableRow>
+
+                    </TableLayout>
+                </LinearLayout>
+            </HorizontalScrollView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

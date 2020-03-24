@@ -1,33 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:background="@drawable/gradient"
+    tools:context=".LoginActivity">
 
-    <android.support.design.widget.AppBarLayout
-        android:layout_width="match_parent"
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="120dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="40dp"
+        app:srcCompat="@drawable/samplelogo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/etUserName"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:background="#11000000"
+        android:drawableLeft="@drawable/ic_action_user"
+        android:ems="10"
+        android:hint="Username"
+        android:inputType="textPersonName"
+        android:textSize="16dp"
+        android:layout_marginBottom="35dp"
+        android:layout_above="@+id/etPassword"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_above="@+id/loginBtn"
+        android:layout_alignStart="@+id/etUserName"
+        android:layout_alignLeft="@+id/etUserName"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginBottom="31dp"
+        android:background="#11000000"
+        android:drawableLeft="@drawable/ic_action_password"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/logo"
+        android:layout_alignStart="@+id/logo"
+        android:id="@+id/linearLayout">
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/twitter" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            app:srcCompat="@drawable/instagram" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            app:srcCompat="@drawable/facebook" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/loginBtn"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
-        android:theme="@style/AppTheme.AppBarOverlay">
+        android:layout_alignBottom="@+id/linearLayout"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="70dp"
+        android:layout_marginLeft="92dp"
+        android:layout_marginBottom="130dp"
+        android:onClick="OnLogin"
+        android:text="Login"
+        android:textColor="#fff"
+        android:textSize="18sp" />
 
-        <android.support.v7.widget.Toolbar
-            android:id="@+id/toolbar"
-            android:layout_width="match_parent"
-            android:layout_height="?attr/actionBarSize"
-            android:background="?attr/colorPrimary"
-            app:popupTheme="@style/AppTheme.PopupOverlay" />
-
-    </android.support.design.widget.AppBarLayout>
-
-    <include layout="@layout/content_main" />
-
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab"
+    <Button
+        android:id="@+id/regBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom|end"
-        android:layout_margin="@dimen/fab_margin"
-        app:srcCompat="@android:drawable/ic_dialog_email" />
-
-</android.support.design.widget.CoordinatorLayout>
+        android:layout_alignBottom="@+id/linearLayout"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="70dp"
+        android:layout_marginRight="93dp"
+        android:layout_marginBottom="130dp"
+        android:onClick="OpenReg"
+        android:text="Register"
+        android:textColor="#fff"
+        android:textSize="18sp" />
+</RelativeLayout>
