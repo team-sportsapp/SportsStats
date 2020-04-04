@@ -37,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
         regbtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
+                //startActivity(new Intent(getApplicationContext(),Register.class));
                 String email = memail.getText().toString().trim();
                 String password = mpassword.getText().toString().trim();
                 if(TextUtils.isEmpty(email)){
@@ -98,8 +100,6 @@ public class MainActivity extends AppCompatActivity {
                         }
                     }
                 });
-
-
             }
         });
 
