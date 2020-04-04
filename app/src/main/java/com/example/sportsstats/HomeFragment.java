@@ -63,6 +63,12 @@ public class HomeFragment extends Fragment {
         Calendar endDate = Calendar.getInstance();
         endDate.add(Calendar.MONTH, 6);
 
+        /*Hash Map*/
+        //HashMap<String, String> eventDate = new HashMap<String, String>();
+
+
+
+
         HorizontalCalendar horizontalCalendar = new HorizontalCalendar.Builder(view, R.id.calendarView)
                 .range(startDate, endDate)
                 .datesNumberOnScreen(5)
@@ -178,6 +184,28 @@ public class HomeFragment extends Fragment {
                     // listView.addView(   )
 
                 }
+                if(x == 1){
+
+
+                    Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+
+                    //arrayadapter
+                    ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                            getActivity(),
+                            android.R.layout.simple_list_item_1,
+                            decemberFifteentSamples
+                    );
+
+                    //tell list view to use adapter for screen
+                    listView.setAdapter(listViewAdapter);
+
+                    //Log.d("MyActivity", "x = 10 " + matchesSamples);
+                    // inflater.inflate(R.layout.the_child_view, parent);
+
+
+                    // listView.addView(   )
+
+                }
 
 
 
@@ -228,13 +256,17 @@ public class HomeFragment extends Fragment {
         List<MatchesSample> matchesSamples = new ArrayList<>();
         List<MatchesSample> decemberElevenSamples = new ArrayList<>();
         List<MatchesSample> decemberNineSamples = new ArrayList<>();
+        List<MatchesSample> decemberFifteentSamples = new ArrayList<>();
 
 
 
-    private void readMatchesData(){
+
+    public void readMatchesData(){
         InputStream inputStream = getResources().openRawResource(R.raw.december2019);
         BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
 
+
+        //HashMap<String, Integer> eventDate = new HashMap<String, Integer>();
 
         String line = "";
         try{
@@ -246,13 +278,27 @@ public class HomeFragment extends Fragment {
                 String[] tokens = line.split(",");
 
                 //read data
-                    MatchesSample decemberTen = new MatchesSample();
-                    MatchesSample decemberEleven = new MatchesSample();
+                MatchesSample decemberTen = new MatchesSample();
+                MatchesSample decemberEleven = new MatchesSample();
                 MatchesSample decemberNine = new MatchesSample();
+                MatchesSample decemberFifteen = new MatchesSample();
 
 
 
                 //MatchesSample novemberSchedule = new MatchesSample();
+                //(date, Home
+                //eventDate.put("December", )
+
+                //dec 1
+                if(tokens[0].contains("Dec 15 2019")){
+                    decemberFifteen.setDate(tokens[0]);
+                    decemberFifteen.setTime(tokens[1]);
+                    decemberFifteen.setAway(tokens[2]);
+                    decemberFifteen.setHome(tokens[3]);
+                   // decemberFifteen.setHomeWin(tokens[4]);
+                    //decemberFifteen.setAwayWin(tokens[5]);
+                    decemberFifteentSamples.add(decemberFifteen);
+                }
 
                 //dec 9
                 if(tokens[0].contains("Dec 9 2019")) {
