@@ -2,8 +2,11 @@ package com.example.sportsstats;
 
 import android.app.AlertDialog;
 import android.content.Context;
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.util.Log;
+import android.view.View;
+import android.widget.EditText;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -29,8 +32,8 @@ public class BackgroundWorker extends AsyncTask<String,Void,String> {
     @Override
     protected String doInBackground(String... params) {
         String type = params[0];
-        String login_url = "http://172.28.116.82/login.php";
-        String reg_url = "http://172.28.116.82/register.php";
+        String login_url = "http://192.168.86.34/login.php";
+        String reg_url = "http://192.168.86.34/register.php";
         if(type.equals("login")) {
             try {
                 String user_name = params[1];
@@ -60,7 +63,8 @@ public class BackgroundWorker extends AsyncTask<String,Void,String> {
                 inputStream.close();
                 httpURLConnection.disconnect();
                 return result;
-            } catch (MalformedURLException e) {
+            }
+            catch (MalformedURLException e) {
                 e.printStackTrace();
             } catch (IOException e) {
                 e.printStackTrace();
