@@ -106,4 +106,5 @@
         android:text="Register"
         android:textColor="#fff"
         android:textSize="18sp" />
+
 </RelativeLayout>
