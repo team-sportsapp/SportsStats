@@ -6,9 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradient"
-    tools:context=".LoginActivity">
-
-
+    tools:context=".MainActivity">
+/>
     <ImageView
         android:id="@+id/logo"
         android:layout_width="120dp"
@@ -22,15 +21,17 @@
         android:id="@+id/etUserName"
         android:layout_width="250dp"
         android:layout_height="40dp"
+        android:layout_above="@+id/etPassword"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="89dp"
+        android:layout_marginBottom="35dp"
         android:background="#11000000"
         android:drawableLeft="@drawable/ic_action_user"
         android:ems="10"
         android:hint="Username"
         android:inputType="textPersonName"
-        android:textSize="16dp"
-        android:layout_marginBottom="35dp"
-        android:layout_above="@+id/etPassword"
-        android:layout_centerHorizontal="true" />
+        android:textSize="16dp" />
 
     <EditText
         android:id="@+id/etPassword"
@@ -88,7 +89,6 @@
         android:layout_marginStart="70dp"
         android:layout_marginLeft="92dp"
         android:layout_marginBottom="130dp"
-        android:onClick="OnLogin"
         android:text="Login"
         android:textColor="#fff"
         android:textSize="18sp" />
@@ -103,7 +103,6 @@
         android:layout_marginEnd="70dp"
         android:layout_marginRight="93dp"
         android:layout_marginBottom="130dp"
-        android:onClick="OpenReg"
         android:text="Register"
         android:textColor="#fff"
         android:textSize="18sp" />
