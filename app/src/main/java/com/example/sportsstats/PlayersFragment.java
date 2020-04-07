@@ -38,12 +38,14 @@ public class PlayersFragment extends Fragment {
         //adapter setter
         listView.setAdapter(listViewAdapter);
 
+        /*
         listViewAdapter.sort(new Comparator<String>() {
             @Override
             public int compare(String lhs, String rhs) {
                 return lhs.compareTo(rhs);
             }
         });
+        */
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                                             @Override
@@ -65,32 +67,6 @@ public class PlayersFragment extends Fragment {
                                             }
                                         });
         return view;
-
-
-                //transaction.replace(R.id.fragment_container, playersFragment);
-                //transaction.addToBackStack(null);
-                //transaction.commit();
-
-
-
-
-
-                //if (i ==0){
-                    /*
-                    Fragment teamsFragment = new TeamsFragment();
-                    transaction.replace(R.id.fragment_container, teamsFragment);
-                    transaction.addToBackStack(null);
-                    transaction.commit();
-                    */
-
-                    /*
-                    Fragment playersPopupFragment = new PlayersPopupFragment();
-                    transaction.replace(R.id.fragment_container, playersPopupFragment);
-                    transaction.addToBackStack(null);
-                    transaction.commit();
-                    */
-                //Fragment playersPopupFragment = (Fragment) getSupportFragmentManager.
-
 
     }
 }
