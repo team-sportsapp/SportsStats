@@ -29,7 +29,6 @@ public class MainActivity extends AppCompatActivity {//test
         mpassword = (EditText) findViewById(R.id.etPassword);
         memail = (EditText) findViewById(R.id.etUserName);
         regbtn = findViewById(R.id.regBtn);
-        bypass = findViewById(R.id.byPass);
         loginBtn = findViewById(R.id.loginBtn);
         fAuth = FirebaseAuth.getInstance();//gets the current database from firebase
         //EmailEt = (EditText)findViewById(R.id.et_email);
@@ -99,13 +98,6 @@ public class MainActivity extends AppCompatActivity {//test
                         }
                     }
                 });
-            }
-        });
-
-        regbtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivity(new Intent(getApplicationContext(), MainActivity.class));
             }
         });
     }
