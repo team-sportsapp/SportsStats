@@ -140,6 +140,17 @@ public class HomeFragment extends Fragment {
 
                 //december
                 if(currMonth == 12) {
+                    if (x == 8) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                decemberEightSamples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
                     if (x == 9) {
 
 
@@ -242,10 +253,7 @@ public class HomeFragment extends Fragment {
                 //march
                 if(currMonth == 3){
                     if (x == 11) {
-
-
-                        Log.d("MyActivity", "Date Selected " + userDate);
-
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
                         //arrayadapter
                         ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
                                 getActivity(),
@@ -269,13 +277,14 @@ public class HomeFragment extends Fragment {
         //october
         //november
         //december
+        List<MatchesSample> decemberEightSamples = new ArrayList<>();
         List<MatchesSample> decemberNineSamples = new ArrayList<>();
         List<MatchesSample> decemberTenSamples = new ArrayList<>();
         List<MatchesSample> decemberElevenSamples = new ArrayList<>();
         List<MatchesSample> decemberFifteenthSamples = new ArrayList<>();
         //january
         //february
-         //march
+        //march
         List<MatchesSample> marchElevenSamples = new ArrayList<>();
 
 
@@ -298,6 +307,16 @@ public class HomeFragment extends Fragment {
 
                 //******** READ DATA BY MONTHS/DATES*********
                 //december
+                MatchesSample decemberEight = new MatchesSample();
+                if (tokens[0].contains("Dec 8 2019")) {
+                    decemberEight.setDate(tokens[0]);
+                    decemberEight.setTime(tokens[1]);
+                    decemberEight.setAway(tokens[2]);
+                    decemberEight.setHome(tokens[3]);
+                    decemberEight.setHomeWin(tokens[4]);
+                    decemberEight.setAwayWin(tokens[5]);
+                    decemberEightSamples.add(decemberEight);
+                }
                 MatchesSample decemberNine = new MatchesSample();
                 if (tokens[0].contains("Dec 9 2019")) {
                     decemberNine.setDate(tokens[0]);
@@ -341,22 +360,15 @@ public class HomeFragment extends Fragment {
 
                 //march
                 MatchesSample marchEleven = new MatchesSample();
-                if (tokens[0].contains("Mar 11 2019")) {
-                    decemberFifteen.setDate(tokens[0]);
-                    decemberFifteen.setTime(tokens[1]);
-                    decemberFifteen.setAway(tokens[2]);
-                    decemberFifteen.setHome(tokens[3]);
-                    decemberFifteen.setHomeWin(tokens[4]);
-                    decemberFifteen.setAwayWin(tokens[5]);
+                if (tokens[0].contains("Mar 11 2020")) {
+                    marchEleven.setDate(tokens[0]);
+                    marchEleven.setTime(tokens[1]);
+                    marchEleven.setAway(tokens[2]);
+                    marchEleven.setHome(tokens[3]);
+                    marchEleven.setHomeWin(tokens[4]);
+                    marchEleven.setAwayWin(tokens[5]);
                     marchElevenSamples.add(marchEleven);
                 }
-
-
-
-
-
-
-
 
             }
         }catch (IOException e){
