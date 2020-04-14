@@ -21,6 +21,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.text.SimpleDateFormat;
+import java.time.Month;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
@@ -36,7 +37,7 @@ import devs.mulham.horizontalcalendar.utils.HorizontalCalendarListener;
 import static android.icu.util.Calendar.DATE;
 
 public class HomeFragment extends Fragment {
-
+    //int month;
     TextView textView;
     ListView listView;
     Calendar instanceDate;
@@ -47,32 +48,33 @@ public class HomeFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         final View view = inflater.inflate(R.layout.fragment_home,container, false);
-       // final ViewTwo = inflater.inflate(R.layout.fragment_home,container, false);
 
-        //sam[ple text view
+        //sample text view
         textView = (TextView) view.findViewById(R.id.textView);
         //List view
         listView =(ListView) view.findViewById(R.id.matchesList);
 
 
-        /* starts before 1 month from now */
+        /* starts before 5 month from now */
         Calendar startDate = Calendar.getInstance();
-        startDate.add(Calendar.MONTH, -2);
+        startDate.add(Calendar.MONTH, -5);
 
-        /* ends after 1 month from now */
+        /* ends after 6 month from now */
         Calendar endDate = Calendar.getInstance();
         endDate.add(Calendar.MONTH, 6);
-
-        /*Hash Map*/
-        //HashMap<String, String> eventDate = new HashMap<String, String>();
-
-
-
 
         HorizontalCalendar horizontalCalendar = new HorizontalCalendar.Builder(view, R.id.calendarView)
                 .range(startDate, endDate)
                 .datesNumberOnScreen(5)
                 .build();
+
+        /*
+        final java.util.Calendar date;
+        Calendar currDateWrapper = date;
+        int currMonthWrapper = currDateWrapper.getTime().getMonth();
+         */
+
+
 
         //load matches list
         readMatchesData();
@@ -95,6 +97,9 @@ public class HomeFragment extends Fragment {
 
  */
 
+
+
+
         horizontalCalendar.setCalendarListener(new HorizontalCalendarListener() {
             @Override
             public void onDateSelected(final java.util.Calendar date, int position) {
@@ -106,163 +111,177 @@ public class HomeFragment extends Fragment {
 
                 Calendar currDate = date;
                 Date test2 = currDate.getTime();
+                int currMonth = currDate.getTime().getMonth();
+                //add 1 to test3 so its not 0 through 11
+                currMonth += 1;
+                //Log.d("MyActivity", "CURRENT MONTH ISSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS: " + month);
+                Log.d("MyActivity", "CURRENT MONTH FROM GET TIME IS........:" + test2);
+                Log.d("MyActivity", "CURRENT MONTH FROM GET MONTH IS........:" + currMonth);
                 //Date test = date.getTime();
+               // Date monthTest = date.getMonth();
                 SimpleDateFormat dateFormat = new SimpleDateFormat("dd");
 
                 String userDate = dateFormat.format(currDate.getTime());
 
 
-                Log.d("MyActivity", "CLICKED DATE " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                Log.d("MyActivity", "CLICKED DATE " + userDate);
                 //Log.d("MyActivity", "DATEFORMAT CURR DATE " + dateFormat.format(currDate.DATE + "\n\n\n\n\n@@@@@@@@@@\n\n"));
                 int x = Integer.parseInt(userDate);
-                if(x == 9){
 
-
-                    //Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
-
-                    //arrayadapter
-                    ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
-                            getActivity(),
-                            android.R.layout.simple_list_item_1,
-                            decemberNineSamples
-                    );
-
-                    //tell list view to use adapter for screen
-                    listView.setAdapter(listViewAdapter);
-
-                   // Log.d("MyActivity", "x = 10 " + matchesSamples);
-                    // inflater.inflate(R.layout.the_child_view, parent);
-
-
-                    // listView.addView(   )
+                //october
+                if(currMonth == 10){
 
                 }
 
-                if(x == 10){
+                //november
+                if(currMonth == 11){
+
+                }
+
+                //december
+                if(currMonth == 12) {
+                    if (x == 9) {
 
 
-                    Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
 
                         //arrayadapter
                         ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
                                 getActivity(),
                                 android.R.layout.simple_list_item_1,
-                                matchesSamples
+                                decemberNineSamples
                         );
 
                         //tell list view to use adapter for screen
                         listView.setAdapter(listViewAdapter);
 
-                        Log.d("MyActivity", "x = 10 " + matchesSamples);
-                       // inflater.inflate(R.layout.the_child_view, parent);
+                        // Log.d("MyActivity", "x = 10 " + matchesSamples);
+                        // inflater.inflate(R.layout.the_child_view, parent);
 
 
-                    // listView.addView(   )
+                        // listView.addView(   )
+
+                    }
+
+
+                    if (x == 10) {
+                        Log.d("MyActivity", "Date Selected " + userDate + "\n\n\n\n\n@@@@@@@@@@\n\n");
+
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                decemberTenSamples
+                        );
+
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+
+                        //Log.d("MyActivity", "x = 10 " + matchesSamples);
+
+
+                    }
+
+
+                    if (x == 11) {
+
+
+                        Log.d("MyActivity", "Date Selected " + userDate + "\n\n\n\n\n@@@@@@@@@@\n\n");
+
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                decemberElevenSamples
+                        );
+
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+
+                        //Log.d("MyActivity", "x = 10 " + matchesSamples);
+                        // inflater.inflate(R.layout.the_child_view, parent);
+
+
+                        // listView.addView(   )
+
+                    }
+                    if (x == 15) {
+
+
+                        Log.d("MyActivity", "Date Selected " + userDate + "\n\n\n\n\n@@@@@@@@@@\n\n");
+
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                decemberFifteenthSamples
+                        );
+
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+
+                        //Log.d("MyActivity", "x = 10 " + matchesSamples);
+                        // inflater.inflate(R.layout.the_child_view, parent);
+
+
+                        // listView.addView(   )
+
+                    }
+                }
+
+                //january
+                if(currMonth == 1){
 
                 }
 
-
-                if(x == 11){
-
-
-                    Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
-
-                    //arrayadapter
-                    ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
-                            getActivity(),
-                            android.R.layout.simple_list_item_1,
-                            decemberElevenSamples
-                    );
-
-                    //tell list view to use adapter for screen
-                    listView.setAdapter(listViewAdapter);
-
-                    //Log.d("MyActivity", "x = 10 " + matchesSamples);
-                    // inflater.inflate(R.layout.the_child_view, parent);
-
-
-                    // listView.addView(   )
-
-                }
-                if(x == 1){
-
-
-                    Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
-
-                    //arrayadapter
-                    ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
-                            getActivity(),
-                            android.R.layout.simple_list_item_1,
-                            decemberFifteentSamples
-                    );
-
-                    //tell list view to use adapter for screen
-                    listView.setAdapter(listViewAdapter);
-
-                    //Log.d("MyActivity", "x = 10 " + matchesSamples);
-                    // inflater.inflate(R.layout.the_child_view, parent);
-
-
-                    // listView.addView(   )
+                //february
+                if(currMonth == 2){
 
                 }
 
+                //march
+                if(currMonth == 3){
+                    if (x == 11) {
 
 
+                        Log.d("MyActivity", "Date Selected " + userDate);
 
-
-
-
-
-                /*
-
-                    //arrayadapter
-                    ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
-                            getActivity(),
-                            android.R.layout.simple_list_item_1,
-                            matchesSamples
-                    );
-
-                    //tell list view to use adapter for screen
-                    listView.setAdapter(listViewAdapter);
-                if(date == 11){
-                    //arrayadapter
-                    ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
-                            getActivity(),
-                            android.R.layout.simple_list_item_1,
-                            decemberElevenSamples
-                    );
-
-                    //tell list view to use adapter for screen
-                    listView.setAdapter(listViewAdapter);
-
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                marchElevenSamples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
                 }
-                */
-            }
-        });
 
+            }//end onDateSelected
+        });//end CalendarListener
         //return inflater.inflate(R.layout.fragment_home, null);
         Log.d("MyActivity", "VIEW ID:" + view);
         return view;
+    }//end OnCreateView
 
-    }
-
-
-
-
-
-
-
-        List<MatchesSample> matchesSamples = new ArrayList<>();
-        List<MatchesSample> decemberElevenSamples = new ArrayList<>();
+    //Samples made here as arrays
+    //List<MatchesSample> matchesSamples = new ArrayList<>();
+        //october
+        //november
+        //december
         List<MatchesSample> decemberNineSamples = new ArrayList<>();
-        List<MatchesSample> decemberFifteentSamples = new ArrayList<>();
+        List<MatchesSample> decemberTenSamples = new ArrayList<>();
+        List<MatchesSample> decemberElevenSamples = new ArrayList<>();
+        List<MatchesSample> decemberFifteenthSamples = new ArrayList<>();
+        //january
+        //february
+         //march
+        List<MatchesSample> marchElevenSamples = new ArrayList<>();
 
 
-
-
+        //read matches data method
     public void readMatchesData(){
-        InputStream inputStream = getResources().openRawResource(R.raw.december2019);
+        InputStream inputStream = getResources().openRawResource(R.raw.season19_20new);
         BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
 
 
@@ -277,31 +296,10 @@ public class HomeFragment extends Fragment {
                 //split by commas
                 String[] tokens = line.split(",");
 
-                //read data
-                MatchesSample decemberTen = new MatchesSample();
-                MatchesSample decemberEleven = new MatchesSample();
+                //******** READ DATA BY MONTHS/DATES*********
+                //december
                 MatchesSample decemberNine = new MatchesSample();
-                MatchesSample decemberFifteen = new MatchesSample();
-
-
-
-                //MatchesSample novemberSchedule = new MatchesSample();
-                //(date, Home
-                //eventDate.put("December", )
-
-                //dec 1
-                if(tokens[0].contains("Dec 15 2019")){
-                    decemberFifteen.setDate(tokens[0]);
-                    decemberFifteen.setTime(tokens[1]);
-                    decemberFifteen.setAway(tokens[2]);
-                    decemberFifteen.setHome(tokens[3]);
-                   // decemberFifteen.setHomeWin(tokens[4]);
-                    //decemberFifteen.setAwayWin(tokens[5]);
-                    decemberFifteentSamples.add(decemberFifteen);
-                }
-
-                //dec 9
-                if(tokens[0].contains("Dec 9 2019")) {
+                if (tokens[0].contains("Dec 9 2019")) {
                     decemberNine.setDate(tokens[0]);
                     decemberNine.setTime(tokens[1]);
                     decemberNine.setAway(tokens[2]);
@@ -310,29 +308,55 @@ public class HomeFragment extends Fragment {
                     decemberNine.setAwayWin(tokens[5]);
                     decemberNineSamples.add(decemberNine);
                 }
-                //dec 10
-                if(tokens[0].contains("Dec 10 2019")) {
+                MatchesSample decemberTen = new MatchesSample();
+                if (tokens[0].contains("Dec 10 2019")) {
                     decemberTen.setDate(tokens[0]);
                     decemberTen.setTime(tokens[1]);
                     decemberTen.setAway(tokens[2]);
                     decemberTen.setHome(tokens[3]);
-                    matchesSamples.add(decemberTen);
+                    decemberTen.setHomeWin(tokens[4]);
+                    decemberTen.setAwayWin(tokens[5]);
+                    decemberTenSamples.add(decemberTen);
                 }
-
-                //dec 11
-                if(tokens[0].contains("Dec 11 2019")){
+                MatchesSample decemberEleven = new MatchesSample();
+                if (tokens[0].contains("Dec 11 2019")) {
                     decemberEleven.setDate(tokens[0]);
                     decemberEleven.setTime(tokens[1]);
                     decemberEleven.setAway(tokens[2]);
                     decemberEleven.setHome(tokens[3]);
+                    decemberEleven.setHomeWin(tokens[4]);
+                    decemberEleven.setAwayWin(tokens[5]);
                     decemberElevenSamples.add(decemberEleven);
+                }
+                MatchesSample decemberFifteen = new MatchesSample();
+                if (tokens[0].contains("Dec 15 2019")) {
+                    decemberFifteen.setDate(tokens[0]);
+                    decemberFifteen.setTime(tokens[1]);
+                    decemberFifteen.setAway(tokens[2]);
+                    decemberFifteen.setHome(tokens[3]);
+                    decemberFifteen.setHomeWin(tokens[4]);
+                    decemberFifteen.setAwayWin(tokens[5]);
+                    decemberFifteenthSamples.add(decemberFifteen);
+                }
+
+                //march
+                MatchesSample marchEleven = new MatchesSample();
+                if (tokens[0].contains("Mar 11 2019")) {
+                    decemberFifteen.setDate(tokens[0]);
+                    decemberFifteen.setTime(tokens[1]);
+                    decemberFifteen.setAway(tokens[2]);
+                    decemberFifteen.setHome(tokens[3]);
+                    decemberFifteen.setHomeWin(tokens[4]);
+                    decemberFifteen.setAwayWin(tokens[5]);
+                    marchElevenSamples.add(marchEleven);
                 }
 
 
 
 
 
-                //Log.d("MyActivity", "Just Created: " + decemberSchedule);
+
+
 
             }
         }catch (IOException e){

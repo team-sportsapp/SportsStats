@@ -1,0 +1,972 @@
+Date,Start (ET),Visitor/Neutral,Home/Neutral,home_perc,away_perc
+Tue Oct 22 2019,8:00p,New Orleans Pelicans,Toronto Raptors,0.736501276,0.263498694
+Tue Oct 22 2019,10:30p,Los Angeles Lakers,Los Angeles Clippers,0.731533349,0.268466622
+Wed Oct 23 2019,7:00p,Chicago Bulls,Charlotte Hornets,0.778501272,0.221498743
+Wed Oct 23 2019,7:00p,Detroit Pistons,Indiana Pacers,0.756938756,0.243061244
+Wed Oct 23 2019,7:00p,Cleveland Cavaliers,Orlando Magic,0.766156137,0.233843938
+Wed Oct 23 2019,7:30p,Minnesota Timberwolves,Brooklyn Nets,0.672428191,0.327571839
+Wed Oct 23 2019,7:30p,Memphis Grizzlies,Miami Heat,0.647868395,0.352131546
+Wed Oct 23 2019,7:30p,Boston Celtics,Philadelphia 76ers,0.624978423,0.375021517
+Wed Oct 23 2019,8:30p,Washington Wizards,Dallas Mavericks,0.621486902,0.378513068
+Wed Oct 23 2019,8:30p,New York Knicks,San Antonio Spurs,0.813350797,0.186649188
+Wed Oct 23 2019,9:00p,Oklahoma City Thunder,Utah Jazz,0.709728122,0.290271908
+Wed Oct 23 2019,10:00p,Sacramento Kings,Phoenix Suns,0.479189068,0.520810962
+Wed Oct 23 2019,10:00p,Denver Nuggets,Portland Trail Blazers,0.742513537,0.257486492
+Thu Oct 24 2019,7:00p,Atlanta Hawks,Detroit Pistons,0.671870649,0.328129351
+Thu Oct 24 2019,8:00p,Milwaukee Bucks,Houston Rockets,0.572515666,0.427484334
+Thu Oct 24 2019,10:30p,Los Angeles Clippers,Golden State Warriors,0.615478277,0.384521693
+Fri Oct 25 2019,7:00p,Toronto Raptors,Boston Celtics,0.495780826,0.504219174
+Fri Oct 25 2019,7:00p,Minnesota Timberwolves,Charlotte Hornets,0.60362798,0.39637211
+Fri Oct 25 2019,7:30p,New York Knicks,Brooklyn Nets,0.676606715,0.323393226
+Fri Oct 25 2019,8:00p,Chicago Bulls,Memphis Grizzlies,0.558801234,0.441198766
+Fri Oct 25 2019,8:00p,Dallas Mavericks,New Orleans Pelicans,0.447624773,0.552375257
+Fri Oct 25 2019,8:00p,Washington Wizards,Oklahoma City Thunder,0.633166611,0.366833389
+Fri Oct 25 2019,9:00p,Phoenix Suns,Denver Nuggets,0.567186117,0.432813853
+Fri Oct 25 2019,10:00p,Portland Trail Blazers,Sacramento Kings,0.543776691,0.456223249
+Fri Oct 25 2019,10:30p,Utah Jazz,Los Angeles Lakers,0.362877399,0.637122691
+Sat Oct 26 2019,5:00p,Miami Heat,Milwaukee Bucks,0.679668963,0.320331037
+Sat Oct 26 2019,7:00p,Philadelphia 76ers,Detroit Pistons,0.322009832,0.677990198
+Sat Oct 26 2019,7:30p,Orlando Magic,Atlanta Hawks,0.571957231,0.428042859
+Sat Oct 26 2019,7:30p,Boston Celtics,New York Knicks,0.325900435,0.674099565
+Sat Oct 26 2019,8:00p,Toronto Raptors,Chicago Bulls,0.41406998,0.585930049
+Sat Oct 26 2019,8:00p,Indiana Pacers,Cleveland Cavaliers,0.387993068,0.612006843
+Sat Oct 26 2019,8:00p,New Orleans Pelicans,Houston Rockets,0.627345383,0.372654587
+Sat Oct 26 2019,8:30p,Washington Wizards,San Antonio Spurs,0.785994172,0.214005843
+Sat Oct 26 2019,9:00p,Sacramento Kings,Utah Jazz,0.780938566,0.219061404
+Sat Oct 26 2019,10:00p,Los Angeles Clippers,Phoenix Suns,0.312693536,0.687306404
+Sun Oct 27 2019,3:30p,Golden State Warriors,Oklahoma City Thunder,0.444534808,0.555465162
+Sun Oct 27 2019,6:00p,Brooklyn Nets,Memphis Grizzlies,0.334837466,0.665162504
+Sun Oct 27 2019,7:00p,Portland Trail Blazers,Dallas Mavericks,0.687880754,0.312119275
+Sun Oct 27 2019,7:00p,Miami Heat,Minnesota Timberwolves,0.500261962,0.499738038
+Sun Oct 27 2019,9:30p,Charlotte Hornets,Los Angeles Lakers,0.687586427,0.312413573
+Mon Oct 28 2019,7:00p,Chicago Bulls,New York Knicks,0.468212038,0.531787992
+Mon Oct 28 2019,7:00p,Indiana Pacers,Detroit Pistons,0.602439106,0.397560835
+Mon Oct 28 2019,7:30p,Orlando Magic,Toronto Raptors,0.800271988,0.199727938
+Mon Oct 28 2019,7:30p,Philadelphia 76ers,Atlanta Hawks,0.474737495,0.525262535
+Mon Oct 28 2019,8:00p,Oklahoma City Thunder,Houston Rockets,0.709055841,0.290944099
+Mon Oct 28 2019,8:00p,Cleveland Cavaliers,Milwaukee Bucks,0.773154616,0.226845324
+Mon Oct 28 2019,8:00p,Golden State Warriors,New Orleans Pelicans,0.504393101,0.495606869
+Mon Oct 28 2019,8:30p,Portland Trail Blazers,San Antonio Spurs,0.716985166,0.283014864
+Mon Oct 28 2019,10:00p,Utah Jazz,Phoenix Suns,0.624534249,0.375465751
+Mon Oct 28 2019,10:00p,Denver Nuggets,Sacramento Kings,0.263765246,0.736234844
+Mon Oct 28 2019,10:30p,Charlotte Hornets,Los Angeles Clippers,0.82022959,0.17977041
+Tue Oct 29 2019,7:30p,Atlanta Hawks,Miami Heat,0.557494879,0.442505151
+Tue Oct 29 2019,9:00p,Dallas Mavericks,Denver Nuggets,0.686801553,0.313198388
+Tue Oct 29 2019,10:30p,Memphis Grizzlies,Los Angeles Lakers,0.795195878,0.204804122
+Wed Oct 30 2019,7:00p,Chicago Bulls,Cleveland Cavaliers,0.639524937,0.360475063
+Wed Oct 30 2019,7:00p,New York Knicks,Orlando Magic,0.77001977,0.229980201
+Wed Oct 30 2019,7:00p,Minnesota Timberwolves,Philadelphia 76ers,0.641111374,0.358888656
+Wed Oct 30 2019,7:30p,Milwaukee Bucks,Boston Celtics,0.424236208,0.575763822
+Wed Oct 30 2019,7:30p,Indiana Pacers,Brooklyn Nets,0.754762292,0.245237634
+Wed Oct 30 2019,7:30p,Detroit Pistons,Toronto Raptors,0.773907959,0.2260921
+Wed Oct 30 2019,8:00p,Portland Trail Blazers,Oklahoma City Thunder,0.508183479,0.491816521
+Wed Oct 30 2019,8:00p,Houston Rockets,Washington Wizards,0.403537422,0.596462607
+Wed Oct 30 2019,10:00p,Charlotte Hornets,Sacramento Kings,0.411337197,0.588662863
+Wed Oct 30 2019,10:00p,Los Angeles Clippers,Utah Jazz,0.526516259,0.473483682
+Wed Oct 30 2019,10:30p,Phoenix Suns,Golden State Warriors,0.600788295,0.399211705
+Thu Oct 31 2019,7:00p,Miami Heat,Atlanta Hawks,0.403980821,0.596019149
+Thu Oct 31 2019,9:30p,Denver Nuggets,New Orleans Pelicans,0.38719663,0.6128034
+Thu Oct 31 2019,10:30p,San Antonio Spurs,Los Angeles Clippers,0.709009886,0.290990084
+Fri Nov 1 2019,7:00p,Houston Rockets,Brooklyn Nets,0.301874518,0.698125482
+Fri Nov 1 2019,7:00p,Cleveland Cavaliers,Indiana Pacers,0.553019404,0.446980596
+Fri Nov 1 2019,7:00p,Milwaukee Bucks,Orlando Magic,0.410630882,0.589369178
+Fri Nov 1 2019,7:30p,New York Knicks,Boston Celtics,0.837039649,0.162960321
+Fri Nov 1 2019,8:00p,Detroit Pistons,Chicago Bulls,0.334896863,0.665103137
+Fri Nov 1 2019,9:30p,Los Angeles Lakers,Dallas Mavericks,0.583374977,0.416625082
+Fri Nov 1 2019,10:00p,Utah Jazz,Sacramento Kings,0.254282892,0.745717108
+Fri Nov 1 2019,10:30p,San Antonio Spurs,Golden State Warriors,0.519760549,0.480239481
+Sat Nov 2 2019,5:00p,New Orleans Pelicans,Oklahoma City Thunder,0.493879706,0.506120324
+Sat Nov 2 2019,7:00p,Brooklyn Nets,Detroit Pistons,0.414416105,0.585583866
+Sat Nov 2 2019,7:00p,Denver Nuggets,Orlando Magic,0.454111576,0.545888424
+Sat Nov 2 2019,8:00p,Phoenix Suns,Memphis Grizzlies,0.370242625,0.629757345
+Sat Nov 2 2019,8:00p,Toronto Raptors,Milwaukee Bucks,0.600383878,0.399616092
+Sat Nov 2 2019,8:00p,Minnesota Timberwolves,Washington Wizards,0.429383308,0.570616722
+Sat Nov 2 2019,8:30p,Charlotte Hornets,Golden State Warriors,0.544543445,0.455456614
+Sat Nov 2 2019,10:00p,Philadelphia 76ers,Portland Trail Blazers,0.359355539,0.640644431
+Sun Nov 3 2019,5:00p,Chicago Bulls,Indiana Pacers,0.7024858,0.2975142
+Sun Nov 3 2019,6:00p,Houston Rockets,Miami Heat,0.691801727,0.308198273
+Sun Nov 3 2019,6:00p,Sacramento Kings,New York Knicks,0.604947448,0.395052522
+Sun Nov 3 2019,7:00p,Los Angeles Lakers,San Antonio Spurs,0.665785789,0.334214181
+Sun Nov 3 2019,7:30p,Dallas Mavericks,Cleveland Cavaliers,0.373250365,0.626749635
+Sun Nov 3 2019,9:00p,Utah Jazz,Los Angeles Clippers,0.709351778,0.290648222
+Mon Nov 4 2019,7:00p,Detroit Pistons,Washington Wizards,0.461503774,0.538496196
+Mon Nov 4 2019,7:30p,New Orleans Pelicans,Brooklyn Nets,0.631372511,0.368627459
+Mon Nov 4 2019,8:00p,Houston Rockets,Memphis Grizzlies,0.345486611,0.654513419
+Mon Nov 4 2019,8:00p,Milwaukee Bucks,Minnesota Timberwolves,0.524236679,0.475763351
+Mon Nov 4 2019,9:00p,Philadelphia 76ers,Phoenix Suns,0.41579017,0.5842098
+Mon Nov 4 2019,10:30p,Portland Trail Blazers,Golden State Warriors,0.326695889,0.673304081
+Tue Nov 5 2019,7:00p,Indiana Pacers,Charlotte Hornets,0.539414883,0.460585117
+Tue Nov 5 2019,7:00p,Boston Celtics,Cleveland Cavaliers,0.347698033,0.652301908
+Tue Nov 5 2019,7:30p,San Antonio Spurs,Atlanta Hawks,0.409047961,0.590952039
+Tue Nov 5 2019,8:00p,Los Angeles Lakers,Chicago Bulls,0.319784671,0.680215418
+Tue Nov 5 2019,8:00p,Orlando Magic,Oklahoma City Thunder,0.68606776,0.3139323
+Tue Nov 5 2019,9:00p,Miami Heat,Denver Nuggets,0.354050547,0.645949423
+Wed Nov 6 2019,7:00p,New York Knicks,Detroit Pistons,0.772618234,0.227381796
+Wed Nov 6 2019,7:00p,Washington Wizards,Indiana Pacers,0.581413627,0.418586314
+Wed Nov 6 2019,7:30p,Chicago Bulls,Atlanta Hawks,0.706452072,0.293547928
+Wed Nov 6 2019,7:30p,Golden State Warriors,Houston Rockets,0.723842859,0.276157111
+Wed Nov 6 2019,7:30p,Sacramento Kings,Toronto Raptors,0.83732599,0.16267398
+Wed Nov 6 2019,8:00p,Minnesota Timberwolves,Memphis Grizzlies,0.339102417,0.660897613
+Wed Nov 6 2019,8:30p,Orlando Magic,Dallas Mavericks,0.794321895,0.205678105
+Wed Nov 6 2019,9:00p,Philadelphia 76ers,Utah Jazz,0.506630957,0.493369043
+Wed Nov 6 2019,10:00p,Milwaukee Bucks,Los Angeles Clippers,0.461409807,0.538590193
+Thu Nov 7 2019,8:00p,Boston Celtics,Charlotte Hornets,0.410335571,0.589664459
+Thu Nov 7 2019,8:30p,Oklahoma City Thunder,San Antonio Spurs,0.742085636,0.257914394
+Thu Nov 7 2019,9:00p,Miami Heat,Phoenix Suns,0.547892809,0.452107251
+Thu Nov 7 2019,10:30p,Portland Trail Blazers,Los Angeles Clippers,0.669959903,0.330040127
+Fri Nov 8 2019,7:00p,Detroit Pistons,Indiana Pacers,0.570668936,0.429331064
+Fri Nov 8 2019,7:00p,Memphis Grizzlies,Orlando Magic,0.603044808,0.396955162
+Fri Nov 8 2019,7:00p,Cleveland Cavaliers,Washington Wizards,0.685757995,0.314241976
+Fri Nov 8 2019,7:30p,Sacramento Kings,Atlanta Hawks,0.65580219,0.34419778
+Fri Nov 8 2019,8:00p,Golden State Warriors,Minnesota Timberwolves,0.746475935,0.253524035
+Fri Nov 8 2019,8:00p,Toronto Raptors,New Orleans Pelicans,0.330086768,0.669913232
+Fri Nov 8 2019,8:30p,New York Knicks,Dallas Mavericks,0.82074517,0.17925483
+Fri Nov 8 2019,9:00p,Philadelphia 76ers,Denver Nuggets,0.527716696,0.472283274
+Fri Nov 8 2019,9:00p,Milwaukee Bucks,Utah Jazz,0.371195793,0.628804207
+Fri Nov 8 2019,10:00p,Brooklyn Nets,Portland Trail Blazers,0.409103125,0.590896845
+Fri Nov 8 2019,10:30p,Miami Heat,Los Angeles Lakers,0.596299767,0.403700233
+Sat Nov 9 2019,5:00p,Boston Celtics,San Antonio Spurs,0.508811414,0.491188645
+Sat Nov 9 2019,7:00p,New Orleans Pelicans,Charlotte Hornets,0.560934305,0.439065725
+Sat Nov 9 2019,8:00p,Houston Rockets,Chicago Bulls,0.335171014,0.664828956
+Sat Nov 9 2019,8:00p,Dallas Mavericks,Memphis Grizzlies,0.31048426,0.689515769
+Sat Nov 9 2019,8:00p,Golden State Warriors,Oklahoma City Thunder,0.70459938,0.295400649
+Sun Nov 10 2019,3:30p,Denver Nuggets,Minnesota Timberwolves,0.605197251,0.394802779
+Sun Nov 10 2019,6:00p,Indiana Pacers,Orlando Magic,0.49293229,0.50706774
+Sun Nov 10 2019,6:00p,Charlotte Hornets,Philadelphia 76ers,0.772834182,0.227165878
+Sun Nov 10 2019,7:00p,Milwaukee Bucks,Oklahoma City Thunder,0.364424706,0.635575354
+Sun Nov 10 2019,7:30p,Cleveland Cavaliers,New York Knicks,0.489601523,0.510398507
+Sun Nov 10 2019,8:00p,Brooklyn Nets,Phoenix Suns,0.497033834,0.502966166
+Sun Nov 10 2019,9:00p,Atlanta Hawks,Portland Trail Blazers,0.59684968,0.403150231
+Sun Nov 10 2019,9:30p,Toronto Raptors,Los Angeles Lakers,0.54988414,0.450115889
+Mon Nov 11 2019,7:00p,Minnesota Timberwolves,Detroit Pistons,0.5852198,0.4147802
+Mon Nov 11 2019,7:30p,Dallas Mavericks,Boston Celtics,0.746835172,0.253164768
+Mon Nov 11 2019,7:30p,Memphis Grizzlies,San Antonio Spurs,0.782304585,0.217695445
+Mon Nov 11 2019,8:00p,Houston Rockets,New Orleans Pelicans,0.317021996,0.682977974
+Mon Nov 11 2019,10:30p,Utah Jazz,Golden State Warriors,0.378088981,0.621910989
+Mon Nov 11 2019,10:30p,Toronto Raptors,Los Angeles Clippers,0.424031138,0.575968802
+Tue Nov 12 2019,7:00p,Oklahoma City Thunder,Indiana Pacers,0.718543231,0.281456769
+Tue Nov 12 2019,7:00p,Cleveland Cavaliers,Philadelphia 76ers,0.782567263,0.217432752
+Tue Nov 12 2019,7:30p,Detroit Pistons,Miami Heat,0.787129045,0.212871
+Tue Nov 12 2019,8:00p,New York Knicks,Chicago Bulls,0.628472328,0.371527672
+Tue Nov 12 2019,9:00p,Atlanta Hawks,Denver Nuggets,0.750293374,0.249706581
+Tue Nov 12 2019,9:00p,Los Angeles Lakers,Phoenix Suns,0.68391484,0.31608519
+Tue Nov 12 2019,9:00p,Brooklyn Nets,Utah Jazz,0.673038781,0.326961219
+Tue Nov 12 2019,10:00p,Portland Trail Blazers,Sacramento Kings,0.435260892,0.564739108
+Wed Nov 13 2019,7:00p,Memphis Grizzlies,Charlotte Hornets,0.548205256,0.451794714
+Wed Nov 13 2019,7:00p,Philadelphia 76ers,Orlando Magic,0.372830421,0.62716949
+Wed Nov 13 2019,7:30p,Washington Wizards,Boston Celtics,0.860195875,0.139804065
+Wed Nov 13 2019,7:30p,Los Angeles Clippers,Houston Rockets,0.74467963,0.25532037
+Wed Nov 13 2019,8:00p,San Antonio Spurs,Minnesota Timberwolves,0.710484982,0.289514989
+Wed Nov 13 2019,10:00p,Golden State Warriors,Los Angeles Lakers,0.823782206,0.176217824
+Wed Nov 13 2019,10:00p,Toronto Raptors,Portland Trail Blazers,0.335879952,0.664120078
+Thu Nov 14 2019,6:00p,Miami Heat,Cleveland Cavaliers,0.316599727,0.683400214
+Thu Nov 14 2019,8:00p,Chicago Bulls,Milwaukee Bucks,0.827771306,0.172228709
+Thu Nov 14 2019,8:00p,Los Angeles Clippers,New Orleans Pelicans,0.473047405,0.526952624
+Thu Nov 14 2019,8:00p,Dallas Mavericks,New York Knicks,0.271975487,0.728024542
+Thu Nov 14 2019,9:00p,Atlanta Hawks,Phoenix Suns,0.774030209,0.225969806
+Thu Nov 14 2019,10:30p,Brooklyn Nets,Denver Nuggets,0.563549399,0.436450601
+Fri Nov 15 2019,7:00p,Detroit Pistons,Charlotte Hornets,0.375947773,0.624052286
+Fri Nov 15 2019,7:00p,San Antonio Spurs,Orlando Magic,0.530941308,0.469058722
+Fri Nov 15 2019,8:00p,Indiana Pacers,Houston Rockets,0.804130971,0.195869029
+Fri Nov 15 2019,8:00p,Utah Jazz,Memphis Grizzlies,0.430899709,0.569100261
+Fri Nov 15 2019,8:00p,Washington Wizards,Minnesota Timberwolves,0.822829366,0.177170649
+Fri Nov 15 2019,8:00p,Philadelphia 76ers,Oklahoma City Thunder,0.503928602,0.496071398
+Fri Nov 15 2019,10:30p,Boston Celtics,Golden State Warriors,0.232886955,0.76711303
+Fri Nov 15 2019,10:30p,Sacramento Kings,Los Angeles Lakers,0.823347926,0.176652089
+Sat Nov 16 2019,6:00p,Brooklyn Nets,Chicago Bulls,0.411227047,0.588772953
+Sat Nov 16 2019,7:00p,Milwaukee Bucks,Indiana Pacers,0.421105683,0.578894317
+Sat Nov 16 2019,7:30p,Charlotte Hornets,New York Knicks,0.429769337,0.570230722
+Sat Nov 16 2019,8:00p,New Orleans Pelicans,Miami Heat,0.81307137,0.18692863
+Sat Nov 16 2019,8:00p,Houston Rockets,Minnesota Timberwolves,0.380672365,0.619327605
+Sat Nov 16 2019,8:30p,Toronto Raptors,Dallas Mavericks,0.399909586,0.600090384
+Sat Nov 16 2019,8:30p,Portland Trail Blazers,San Antonio Spurs,0.694643974,0.305356055
+Sat Nov 16 2019,10:30p,Atlanta Hawks,Los Angeles Clippers,0.751656651,0.248343319
+Sun Nov 17 2019,3:00p,Philadelphia 76ers,Cleveland Cavaliers,0.418942541,0.581057429
+Sun Nov 17 2019,3:30p,Boston Celtics,Sacramento Kings,0.259997725,0.740002275
+Sun Nov 17 2019,6:00p,Denver Nuggets,Memphis Grizzlies,0.50526917,0.49473086
+Sun Nov 17 2019,6:00p,Washington Wizards,Orlando Magic,0.613396704,0.386603266
+Sun Nov 17 2019,7:00p,Golden State Warriors,New Orleans Pelicans,0.722190142,0.277809858
+Sun Nov 17 2019,9:30p,Atlanta Hawks,Los Angeles Lakers,0.846366048,0.153634012
+Mon Nov 18 2019,7:00p,Cleveland Cavaliers,New York Knicks,0.542934418,0.457065582
+Mon Nov 18 2019,7:30p,Indiana Pacers,Brooklyn Nets,0.680113912,0.319886059
+Mon Nov 18 2019,7:30p,Charlotte Hornets,Toronto Raptors,0.798063159,0.201936841
+Mon Nov 18 2019,8:00p,Milwaukee Bucks,Chicago Bulls,0.248531744,0.751468182
+Mon Nov 18 2019,8:00p,Portland Trail Blazers,Houston Rockets,0.838492811,0.161507234
+Mon Nov 18 2019,8:30p,San Antonio Spurs,Dallas Mavericks,0.750887871,0.249112085
+Mon Nov 18 2019,9:00p,Boston Celtics,Phoenix Suns,0.535257936,0.464742035
+Mon Nov 18 2019,9:00p,Minnesota Timberwolves,Utah Jazz,0.684209943,0.315790057
+Mon Nov 18 2019,10:30p,Oklahoma City Thunder,Los Angeles Clippers,0.769619405,0.230380639
+Tue Nov 19 2019,8:00p,Golden State Warriors,Memphis Grizzlies,0.697326958,0.302673072
+Tue Nov 19 2019,8:00p,Portland Trail Blazers,New Orleans Pelicans,0.626224399,0.373775572
+Tue Nov 19 2019,10:00p,Phoenix Suns,Sacramento Kings,0.335417718,0.664582193
+Tue Nov 19 2019,10:30p,Oklahoma City Thunder,Los Angeles Lakers,0.828952014,0.171047971
+Wed Nov 20 2019,7:00p,New York Knicks,Philadelphia 76ers,0.81072861,0.189271435
+Wed Nov 20 2019,7:00p,San Antonio Spurs,Washington Wizards,0.598155975,0.401843935
+Wed Nov 20 2019,7:30p,Milwaukee Bucks,Atlanta Hawks,0.227592841,0.772407234
+Wed Nov 20 2019,7:30p,Charlotte Hornets,Brooklyn Nets,0.677952349,0.322047621
+Wed Nov 20 2019,7:30p,Golden State Warriors,Dallas Mavericks,0.808223546,0.19177644
+Wed Nov 20 2019,7:30p,Cleveland Cavaliers,Miami Heat,0.852698743,0.147301301
+Wed Nov 20 2019,7:30p,Orlando Magic,Toronto Raptors,0.837483168,0.162516922
+Wed Nov 20 2019,8:00p,Detroit Pistons,Chicago Bulls,0.39159593,0.6084041
+Wed Nov 20 2019,8:00p,Utah Jazz,Minnesota Timberwolves,0.61267966,0.387320369
+Wed Nov 20 2019,9:00p,Houston Rockets,Denver Nuggets,0.469090998,0.530909061
+Wed Nov 20 2019,10:00p,Boston Celtics,Los Angeles Clippers,0.520261109,0.479738861
+Thu Nov 21 2019,8:00p,Portland Trail Blazers,Milwaukee Bucks,0.853572488,0.146427572
+Thu Nov 21 2019,10:30p,New Orleans Pelicans,Phoenix Suns,0.641340137,0.358659834
+Fri Nov 22 2019,7:00p,Atlanta Hawks,Detroit Pistons,0.67430681,0.32569319
+Fri Nov 22 2019,7:00p,Charlotte Hornets,Washington Wizards,0.692630887,0.307369143
+Fri Nov 22 2019,7:30p,Sacramento Kings,Brooklyn Nets,0.59948349,0.40051648
+Fri Nov 22 2019,8:00p,Miami Heat,Chicago Bulls,0.283886999,0.716113031
+Fri Nov 22 2019,8:00p,Los Angeles Lakers,Oklahoma City Thunder,0.391143382,0.608856618
+Fri Nov 22 2019,8:00p,San Antonio Spurs,Philadelphia 76ers,0.778170764,0.221829146
+Fri Nov 22 2019,8:30p,Cleveland Cavaliers,Dallas Mavericks,0.826853395,0.173146576
+Fri Nov 22 2019,9:00p,Boston Celtics,Denver Nuggets,0.544426978,0.455573052
+Fri Nov 22 2019,9:00p,Golden State Warriors,Utah Jazz,0.800501823,0.199498206
+Fri Nov 22 2019,10:30p,Houston Rockets,Los Angeles Clippers,0.544966877,0.455033123
+Sat Nov 23 2019,5:00p,Phoenix Suns,Minnesota Timberwolves,0.459512234,0.540487766
+Sat Nov 23 2019,7:00p,Chicago Bulls,Charlotte Hornets,0.547779679,0.45222038
+Sat Nov 23 2019,7:00p,Orlando Magic,Indiana Pacers,0.748740613,0.251259446
+Sat Nov 23 2019,7:30p,Toronto Raptors,Atlanta Hawks,0.255908936,0.744091034
+Sat Nov 23 2019,7:30p,San Antonio Spurs,New York Knicks,0.505912483,0.494087458
+Sat Nov 23 2019,7:30p,Miami Heat,Philadelphia 76ers,0.42885679,0.57114321
+Sat Nov 23 2019,8:00p,Portland Trail Blazers,Cleveland Cavaliers,0.406317502,0.593682528
+Sat Nov 23 2019,8:00p,Los Angeles Lakers,Memphis Grizzlies,0.329102159,0.670897841
+Sat Nov 23 2019,8:30p,Detroit Pistons,Milwaukee Bucks,0.843364,0.156635955
+Sat Nov 23 2019,9:00p,New Orleans Pelicans,Utah Jazz,0.645186901,0.354813069
+Sun Nov 24 2019,3:30p,Dallas Mavericks,Houston Rockets,0.634983778,0.365016252
+Sun Nov 24 2019,6:00p,Brooklyn Nets,New York Knicks,0.390271544,0.609728396
+Sun Nov 24 2019,6:00p,Sacramento Kings,Washington Wizards,0.701943517,0.298056483
+Sun Nov 24 2019,8:00p,Phoenix Suns,Denver Nuggets,0.58504194,0.41495806
+Sun Nov 24 2019,9:00p,New Orleans Pelicans,Los Angeles Clippers,0.712535262,0.287464768
+Mon Nov 25 2019,7:00p,Brooklyn Nets,Cleveland Cavaliers,0.3542355,0.64576447
+Mon Nov 25 2019,7:00p,Orlando Magic,Detroit Pistons,0.667811632,0.332188427
+Mon Nov 25 2019,7:00p,Memphis Grizzlies,Indiana Pacers,0.711268783,0.288731217
+Mon Nov 25 2019,7:30p,Minnesota Timberwolves,Atlanta Hawks,0.347807735,0.652192295
+Mon Nov 25 2019,7:30p,Sacramento Kings,Boston Celtics,0.780266583,0.219733372
+Mon Nov 25 2019,7:30p,Charlotte Hornets,Miami Heat,0.83800596,0.16199407
+Mon Nov 25 2019,7:30p,Philadelphia 76ers,Toronto Raptors,0.750576675,0.249423325
+Mon Nov 25 2019,8:00p,Portland Trail Blazers,Chicago Bulls,0.554051518,0.445948511
+Mon Nov 25 2019,8:00p,Utah Jazz,Milwaukee Bucks,0.795116723,0.204883233
+Mon Nov 25 2019,8:30p,Los Angeles Lakers,San Antonio Spurs,0.35157305,0.64842695
+Mon Nov 25 2019,10:30p,Oklahoma City Thunder,Golden State Warriors,0.466316223,0.533683777
+Tue Nov 26 2019,8:30p,Los Angeles Clippers,Dallas Mavericks,0.744546771,0.255453259
+Tue Nov 26 2019,9:00p,Washington Wizards,Denver Nuggets,0.733984172,0.266015857
+Wed Nov 27 2019,7:00p,Brooklyn Nets,Boston Celtics,0.769799769,0.230200246
+Wed Nov 27 2019,7:00p,Detroit Pistons,Charlotte Hornets,0.374035537,0.625964522
+Wed Nov 27 2019,7:00p,Orlando Magic,Cleveland Cavaliers,0.558467209,0.441532791
+Wed Nov 27 2019,7:00p,Utah Jazz,Indiana Pacers,0.609591424,0.390408605
+Wed Nov 27 2019,7:00p,Sacramento Kings,Philadelphia 76ers,0.741053641,0.258946359
+Wed Nov 27 2019,7:30p,New York Knicks,Toronto Raptors,0.856747031,0.143252939
+Wed Nov 27 2019,8:00p,Miami Heat,Houston Rockets,0.495699584,0.504300416
+Wed Nov 27 2019,8:00p,Los Angeles Clippers,Memphis Grizzlies,0.375067472,0.624932528
+Wed Nov 27 2019,8:00p,Atlanta Hawks,Milwaukee Bucks,0.872204125,0.12779589
+Wed Nov 27 2019,8:30p,Minnesota Timberwolves,San Antonio Spurs,0.459494501,0.540505469
+Wed Nov 27 2019,9:00p,Washington Wizards,Phoenix Suns,0.66751951,0.33248052
+Wed Nov 27 2019,9:30p,Los Angeles Lakers,New Orleans Pelicans,0.373303592,0.626696348
+Wed Nov 27 2019,10:00p,Oklahoma City Thunder,Portland Trail Blazers,0.574266613,0.425733417
+Wed Nov 27 2019,10:30p,Chicago Bulls,Golden State Warriors,0.469996244,0.530003786
+Fri Nov 29 2019,12:00p,Boston Celtics,Brooklyn Nets,0.496646225,0.503353715
+Fri Nov 29 2019,7:00p,Charlotte Hornets,Detroit Pistons,0.627404034,0.372595966
+Fri Nov 29 2019,7:00p,Toronto Raptors,Orlando Magic,0.348039418,0.651960611
+Fri Nov 29 2019,7:30p,Milwaukee Bucks,Cleveland Cavaliers,0.214888841,0.785111129
+Fri Nov 29 2019,7:30p,Philadelphia 76ers,New York Knicks,0.336439699,0.663560331
+Fri Nov 29 2019,8:00p,Atlanta Hawks,Indiana Pacers,0.830771387,0.169228584
+Fri Nov 29 2019,8:00p,Utah Jazz,Memphis Grizzlies,0.403475732,0.596524239
+Fri Nov 29 2019,8:00p,Golden State Warriors,Miami Heat,0.852162659,0.147837341
+Fri Nov 29 2019,8:00p,New Orleans Pelicans,Oklahoma City Thunder,0.550546765,0.449453235
+Fri Nov 29 2019,8:30p,Los Angeles Clippers,San Antonio Spurs,0.38413462,0.61586535
+Fri Nov 29 2019,9:00p,Dallas Mavericks,Phoenix Suns,0.394877166,0.605122805
+Fri Nov 29 2019,10:00p,Chicago Bulls,Portland Trail Blazers,0.687263966,0.312736034
+Fri Nov 29 2019,10:30p,Washington Wizards,Los Angeles Lakers,0.822288752,0.177711233
+Sat Nov 30 2019,5:00p,Denver Nuggets,Sacramento Kings,0.379427165,0.620572805
+Sat Nov 30 2019,7:00p,Indiana Pacers,Philadelphia 76ers,0.690092564,0.309907466
+Sat Nov 30 2019,8:00p,Atlanta Hawks,Houston Rockets,0.856044769,0.143955246
+Sat Nov 30 2019,8:00p,Charlotte Hornets,Milwaukee Bucks,0.855394959,0.144605011
+Sun Dec 1 2019,3:00p,Miami Heat,Brooklyn Nets,0.408850193,0.591149867
+Sun Dec 1 2019,3:30p,Memphis Grizzlies,Minnesota Timberwolves,0.736923635,0.263076335
+Sun Dec 1 2019,3:30p,Boston Celtics,New York Knicks,0.326560736,0.673439264
+Sun Dec 1 2019,4:00p,Dallas Mavericks,Los Angeles Lakers,0.749192417,0.250807583
+Sun Dec 1 2019,5:00p,San Antonio Spurs,Detroit Pistons,0.581061065,0.418938875
+Sun Dec 1 2019,5:00p,Oklahoma City Thunder,New Orleans Pelicans,0.601346672,0.398653299
+Sun Dec 1 2019,6:00p,Golden State Warriors,Orlando Magic,0.763048589,0.236951485
+Sun Dec 1 2019,6:00p,Utah Jazz,Toronto Raptors,0.802493334,0.197506696
+Sun Dec 1 2019,10:30p,Washington Wizards,Los Angeles Clippers,0.7500844,0.24991554
+Mon Dec 2 2019,7:00p,Phoenix Suns,Charlotte Hornets,0.370313019,0.629686952
+Mon Dec 2 2019,7:00p,Utah Jazz,Philadelphia 76ers,0.740284145,0.259715855
+Mon Dec 2 2019,7:30p,Golden State Warriors,Atlanta Hawks,0.490942508,0.509057522
+Mon Dec 2 2019,8:00p,Indiana Pacers,Memphis Grizzlies,0.467686594,0.532313406
+Mon Dec 2 2019,8:00p,New York Knicks,Milwaukee Bucks,0.880311608,0.119688436
+Mon Dec 2 2019,10:00p,Chicago Bulls,Sacramento Kings,0.649888873,0.350111157
+Tue Dec 3 2019,7:00p,Detroit Pistons,Cleveland Cavaliers,0.341842562,0.658157468
+Tue Dec 3 2019,7:00p,Orlando Magic,Washington Wizards,0.695454359,0.304545671
+Tue Dec 3 2019,7:30p,Dallas Mavericks,New Orleans Pelicans,0.351522416,0.648477554
+Tue Dec 3 2019,7:30p,Miami Heat,Toronto Raptors,0.697987139,0.302012801
+Tue Dec 3 2019,8:30p,Houston Rockets,San Antonio Spurs,0.354621023,0.645378888
+Tue Dec 3 2019,9:00p,Los Angeles Lakers,Denver Nuggets,0.50553602,0.49446398
+Tue Dec 3 2019,10:00p,Portland Trail Blazers,Los Angeles Clippers,0.79858768,0.201412246
+Wed Dec 4 2019,7:00p,Golden State Warriors,Charlotte Hornets,0.665888608,0.334111392
+Wed Dec 4 2019,7:00p,Milwaukee Bucks,Detroit Pistons,0.295378417,0.704621494
+Wed Dec 4 2019,7:00p,Phoenix Suns,Orlando Magic,0.548355758,0.451644301
+Wed Dec 4 2019,7:30p,Brooklyn Nets,Atlanta Hawks,0.318108737,0.681891203
+Wed Dec 4 2019,7:30p,Miami Heat,Boston Celtics,0.510237873,0.489762068
+Wed Dec 4 2019,8:00p,Memphis Grizzlies,Chicago Bulls,0.506577492,0.493422538
+Wed Dec 4 2019,8:00p,Indiana Pacers,Oklahoma City Thunder,0.531799674,0.468200356
+Wed Dec 4 2019,8:30p,Minnesota Timberwolves,Dallas Mavericks,0.746122003,0.253877968
+Wed Dec 4 2019,9:00p,Los Angeles Lakers,Utah Jazz,0.439988703,0.560011327
+Wed Dec 4 2019,10:00p,Sacramento Kings,Portland Trail Blazers,0.655749023,0.344250917
+Thu Dec 5 2019,7:00p,Philadelphia 76ers,Washington Wizards,0.410973936,0.589026093
+Thu Dec 5 2019,7:30p,Denver Nuggets,New York Knicks,0.334705651,0.66529429
+Thu Dec 5 2019,7:30p,Houston Rockets,Toronto Raptors,0.706716239,0.293283761
+Thu Dec 5 2019,8:00p,Phoenix Suns,New Orleans Pelicans,0.451170206,0.548829734
+Fri Dec 6 2019,7:00p,Brooklyn Nets,Charlotte Hornets,0.362376601,0.637623429
+Fri Dec 6 2019,7:00p,Orlando Magic,Cleveland Cavaliers,0.38199833,0.61800164
+Fri Dec 6 2019,7:00p,Indiana Pacers,Detroit Pistons,0.49752605,0.50247395
+Fri Dec 6 2019,8:00p,Denver Nuggets,Boston Celtics,0.694984376,0.305015624
+Fri Dec 6 2019,8:00p,Golden State Warriors,Chicago Bulls,0.722093523,0.277906477
+Fri Dec 6 2019,8:00p,Washington Wizards,Miami Heat,0.798127711,0.201872304
+Fri Dec 6 2019,8:00p,Minnesota Timberwolves,Oklahoma City Thunder,0.545678556,0.454321504
+Fri Dec 6 2019,8:30p,Los Angeles Clippers,Milwaukee Bucks,0.795492113,0.204507902
+Fri Dec 6 2019,8:30p,Sacramento Kings,San Antonio Spurs,0.705974042,0.294025987
+Fri Dec 6 2019,10:30p,Los Angeles Lakers,Portland Trail Blazers,0.404492378,0.595507562
+Sat Dec 7 2019,2:00p,New Orleans Pelicans,Dallas Mavericks,0.820850432,0.179149583
+Sat Dec 7 2019,7:30p,Indiana Pacers,New York Knicks,0.336627185,0.663372815
+Sat Dec 7 2019,7:30p,Cleveland Cavaliers,Philadelphia 76ers,0.837004304,0.162995622
+Sat Dec 7 2019,8:00p,Phoenix Suns,Houston Rockets,0.73821491,0.26178506
+Sat Dec 7 2019,10:00p,Memphis Grizzlies,Utah Jazz,0.712496102,0.287503898
+Sun Dec 8 2019,3:00p,Denver Nuggets,Brooklyn Nets,0.606741428,0.393258601
+Sun Dec 8 2019,5:00p,Atlanta Hawks,Charlotte Hornets,0.648439348,0.351560682
+Sun Dec 8 2019,6:00p,Chicago Bulls,Miami Heat,0.810404599,0.189595401
+Sun Dec 8 2019,6:00p,Toronto Raptors,Philadelphia 76ers,0.637540817,0.362459183
+Sun Dec 8 2019,6:00p,Los Angeles Clippers,Washington Wizards,0.419489592,0.580510378
+Sun Dec 8 2019,7:00p,Sacramento Kings,Dallas Mavericks,0.841938734,0.158061191
+Sun Dec 8 2019,9:00p,Oklahoma City Thunder,Portland Trail Blazers,0.609101653,0.390898377
+Sun Dec 8 2019,9:30p,Minnesota Timberwolves,Los Angeles Lakers,0.833743691,0.166256294
+Mon Dec 9 2019,7:00p,Los Angeles Clippers,Indiana Pacers,0.629239857,0.370760143
+Mon Dec 9 2019,7:30p,Cleveland Cavaliers,Boston Celtics,0.854982793,0.145017207
+Mon Dec 9 2019,8:00p,Toronto Raptors,Chicago Bulls,0.315580428,0.684419572
+Mon Dec 9 2019,8:00p,Sacramento Kings,Houston Rockets,0.824381709,0.175618321
+Mon Dec 9 2019,8:00p,Orlando Magic,Milwaukee Bucks,0.853870451,0.146129549
+Mon Dec 9 2019,8:00p,Detroit Pistons,New Orleans Pelicans,0.419703752,0.580296218
+Mon Dec 9 2019,9:00p,Minnesota Timberwolves,Phoenix Suns,0.541734099,0.45826593
+Mon Dec 9 2019,9:00p,Oklahoma City Thunder,Utah Jazz,0.658028185,0.341971755
+Mon Dec 9 2019,10:30p,Memphis Grizzlies,Golden State Warriors,0.47689268,0.52310735
+Tue Dec 10 2019,7:00p,Washington Wizards,Charlotte Hornets,0.430731326,0.569268644
+Tue Dec 10 2019,8:00p,Atlanta Hawks,Miami Heat,0.846196294,0.153803647
+Tue Dec 10 2019,8:00p,Denver Nuggets,Philadelphia 76ers,0.755736828,0.244263187
+Tue Dec 10 2019,10:00p,New York Knicks,Portland Trail Blazers,0.77549237,0.224507675
+Wed Dec 11 2019,7:00p,Houston Rockets,Cleveland Cavaliers,0.23487635,0.765123665
+Wed Dec 11 2019,7:00p,Boston Celtics,Indiana Pacers,0.5654127,0.43458733
+Wed Dec 11 2019,7:00p,Los Angeles Lakers,Orlando Magic,0.336600691,0.663399339
+Wed Dec 11 2019,7:00p,Los Angeles Clippers,Toronto Raptors,0.712962925,0.287037075
+Wed Dec 11 2019,7:30p,Charlotte Hornets,Brooklyn Nets,0.739719093,0.260280937
+Wed Dec 11 2019,8:00p,Atlanta Hawks,Chicago Bulls,0.621306598,0.378693372
+Wed Dec 11 2019,8:00p,Utah Jazz,Minnesota Timberwolves,0.573456049,0.426543921
+Wed Dec 11 2019,9:00p,Memphis Grizzlies,Phoenix Suns,0.724051774,0.275948256
+Wed Dec 11 2019,9:30p,New Orleans Pelicans,Milwaukee Bucks,0.869154751,0.130845264
+Wed Dec 11 2019,10:00p,Oklahoma City Thunder,Sacramento Kings,0.492604017,0.507395983
+Wed Dec 11 2019,10:30p,New York Knicks,Golden State Warriors,0.638969898,0.361030132
+Thu Dec 12 2019,8:00p,Philadelphia 76ers,Boston Celtics,0.649308503,0.350691497
+Thu Dec 12 2019,8:30p,Cleveland Cavaliers,San Antonio Spurs,0.790774584,0.209225416
+Thu Dec 12 2019,9:00p,Dallas Mavericks,Detroit Pistons,0.404849142,0.595150888
+Thu Dec 12 2019,10:30p,Portland Trail Blazers,Denver Nuggets,0.69879514,0.30120486
+Fri Dec 13 2019,7:00p,Los Angeles Lakers,Miami Heat,0.599676907,0.400323123
+Fri Dec 13 2019,7:00p,Houston Rockets,Orlando Magic,0.426473618,0.573526382
+Fri Dec 13 2019,7:00p,New Orleans Pelicans,Philadelphia 76ers,0.83859849,0.161401555
+Fri Dec 13 2019,7:30p,Indiana Pacers,Atlanta Hawks,0.366812408,0.633187592
+Fri Dec 13 2019,8:00p,Charlotte Hornets,Chicago Bulls,0.512697577,0.487302423
+Fri Dec 13 2019,8:00p,Milwaukee Bucks,Memphis Grizzlies,0.231898725,0.768101215
+Fri Dec 13 2019,9:00p,Golden State Warriors,Utah Jazz,0.766476989,0.233522967
+Fri Dec 13 2019,9:30p,Los Angeles Clippers,Minnesota Timberwolves,0.395309865,0.604690135
+Fri Dec 13 2019,10:00p,New York Knicks,Sacramento Kings,0.75314939,0.246850565
+Sat Dec 14 2019,5:00p,San Antonio Spurs,Phoenix Suns,0.690397799,0.309602171
+Sat Dec 14 2019,7:30p,Brooklyn Nets,Toronto Raptors,0.723256648,0.276743382
+Sat Dec 14 2019,8:00p,Los Angeles Clippers,Chicago Bulls,0.310176104,0.689823925
+Sat Dec 14 2019,8:00p,Washington Wizards,Memphis Grizzlies,0.524525702,0.475474298
+Sat Dec 14 2019,8:30p,Miami Heat,Dallas Mavericks,0.61904788,0.38095215
+Sat Dec 14 2019,8:30p,Cleveland Cavaliers,Milwaukee Bucks,0.882148564,0.117851466
+Sat Dec 14 2019,9:00p,Oklahoma City Thunder,Denver Nuggets,0.644755185,0.355244786
+Sat Dec 14 2019,9:00p,Detroit Pistons,Houston Rockets,0.780678928,0.219321102
+Sun Dec 15 2019,3:30p,Orlando Magic,New Orleans Pelicans,0.510877788,0.489122212
+Sun Dec 15 2019,5:00p,Charlotte Hornets,Indiana Pacers,0.743376493,0.256623507
+Sun Dec 15 2019,6:00p,Los Angeles Lakers,Atlanta Hawks,0.245628655,0.754371345
+Sun Dec 15 2019,6:00p,Philadelphia 76ers,Brooklyn Nets,0.445163637,0.554836333
+Sun Dec 15 2019,8:00p,New York Knicks,Denver Nuggets,0.790022314,0.209977672
+Sun Dec 15 2019,8:30p,Sacramento Kings,Golden State Warriors,0.446577877,0.553422093
+Mon Dec 16 2019,7:00p,Washington Wizards,Detroit Pistons,0.701483905,0.298516184
+Mon Dec 16 2019,7:30p,Cleveland Cavaliers,Toronto Raptors,0.839603245,0.160396755
+Mon Dec 16 2019,8:00p,San Antonio Spurs,Houston Rockets,0.805092037,0.194908008
+Mon Dec 16 2019,8:00p,Miami Heat,Memphis Grizzlies,0.351908118,0.648091853
+Mon Dec 16 2019,8:00p,Dallas Mavericks,Milwaukee Bucks,0.798901737,0.201098293
+Mon Dec 16 2019,8:00p,Chicago Bulls,Oklahoma City Thunder,0.740338624,0.259661436
+Mon Dec 16 2019,9:00p,Portland Trail Blazers,Phoenix Suns,0.618449032,0.381550968
+Tue Dec 17 2019,7:00p,Sacramento Kings,Charlotte Hornets,0.490244418,0.509755552
+Tue Dec 17 2019,7:00p,Los Angeles Lakers,Indiana Pacers,0.419099778,0.580900192
+Tue Dec 17 2019,7:30p,Atlanta Hawks,New York Knicks,0.552612245,0.447387755
+Tue Dec 17 2019,8:00p,Brooklyn Nets,New Orleans Pelicans,0.380610138,0.619389832
+Tue Dec 17 2019,9:00p,Orlando Magic,Utah Jazz,0.671938956,0.328061074
+Tue Dec 17 2019,10:30p,Phoenix Suns,Los Angeles Clippers,0.756744087,0.243255928
+Wed Dec 18 2019,7:00p,Charlotte Hornets,Cleveland Cavaliers,0.348631829,0.651368141
+Wed Dec 18 2019,7:00p,Toronto Raptors,Detroit Pistons,0.426046431,0.573953569
+Wed Dec 18 2019,7:00p,Miami Heat,Philadelphia 76ers,0.628729105,0.371270895
+Wed Dec 18 2019,7:00p,Chicago Bulls,Washington Wizards,0.64789921,0.35210079
+Wed Dec 18 2019,8:00p,New Orleans Pelicans,Minnesota Timberwolves,0.688736022,0.311263978
+Wed Dec 18 2019,8:00p,Memphis Grizzlies,Oklahoma City Thunder,0.705408037,0.294591993
+Wed Dec 18 2019,9:00p,Orlando Magic,Denver Nuggets,0.693642199,0.306357712
+Wed Dec 18 2019,9:30p,Boston Celtics,Dallas Mavericks,0.697537541,0.302462488
+Wed Dec 18 2019,10:00p,Golden State Warriors,Portland Trail Blazers,0.786011279,0.213988751
+Thu Dec 19 2019,7:30p,Utah Jazz,Atlanta Hawks,0.302518964,0.697480977
+Thu Dec 19 2019,8:00p,Los Angeles Lakers,Milwaukee Bucks,0.722642839,0.277357161
+Thu Dec 19 2019,8:30p,Brooklyn Nets,San Antonio Spurs,0.550336778,0.449663222
+Thu Dec 19 2019,10:30p,Houston Rockets,Los Angeles Clippers,0.577998936,0.422001064
+Fri Dec 20 2019,7:00p,Memphis Grizzlies,Cleveland Cavaliers,0.365863174,0.634136856
+Fri Dec 20 2019,7:00p,Sacramento Kings,Indiana Pacers,0.770614684,0.229385257
+Fri Dec 20 2019,7:30p,Detroit Pistons,Boston Celtics,0.76952374,0.23047629
+Fri Dec 20 2019,7:30p,Washington Wizards,Toronto Raptors,0.806492925,0.193507031
+Fri Dec 20 2019,8:00p,New York Knicks,Miami Heat,0.851865828,0.148134157
+Fri Dec 20 2019,8:00p,Phoenix Suns,Oklahoma City Thunder,0.704907596,0.295092434
+Fri Dec 20 2019,8:00p,Dallas Mavericks,Philadelphia 76ers,0.625182629,0.374817342
+Fri Dec 20 2019,9:00p,Minnesota Timberwolves,Denver Nuggets,0.71867913,0.2813209
+Fri Dec 20 2019,10:00p,Orlando Magic,Portland Trail Blazers,0.69452703,0.30547297
+Fri Dec 20 2019,10:30p,New Orleans Pelicans,Golden State Warriors,0.397016346,0.602983713
+Sat Dec 21 2019,5:00p,Utah Jazz,Charlotte Hornets,0.368745208,0.631254792
+Sat Dec 21 2019,6:00p,Atlanta Hawks,Brooklyn Nets,0.774497509,0.225502506
+Sat Dec 21 2019,7:00p,Chicago Bulls,Detroit Pistons,0.639113307,0.360886723
+Sat Dec 21 2019,7:00p,Washington Wizards,Philadelphia 76ers,0.779871047,0.220128909
+Sat Dec 21 2019,7:30p,Milwaukee Bucks,New York Knicks,0.226876885,0.773123145
+Sat Dec 21 2019,8:00p,Sacramento Kings,Memphis Grizzlies,0.628666222,0.371333808
+Sat Dec 21 2019,8:30p,Los Angeles Clippers,San Antonio Spurs,0.497900814,0.502099216
+Sat Dec 21 2019,9:00p,Houston Rockets,Phoenix Suns,0.344605416,0.655394614
+Sat Dec 21 2019,10:00p,Minnesota Timberwolves,Portland Trail Blazers,0.723598957,0.276401073
+Sun Dec 22 2019,3:30p,Dallas Mavericks,Toronto Raptors,0.585326374,0.414673597
+Sun Dec 22 2019,6:00p,Charlotte Hornets,Boston Celtics,0.807295263,0.192704782
+Sun Dec 22 2019,7:00p,Indiana Pacers,Milwaukee Bucks,0.819163918,0.180836096
+Sun Dec 22 2019,7:00p,Los Angeles Clippers,Oklahoma City Thunder,0.578438997,0.421561003
+Sun Dec 22 2019,9:30p,Denver Nuggets,Los Angeles Lakers,0.765761316,0.234238729
+Mon Dec 23 2019,7:00p,Atlanta Hawks,Cleveland Cavaliers,0.603136182,0.396863818
+Mon Dec 23 2019,7:00p,Philadelphia 76ers,Detroit Pistons,0.432249129,0.567750871
+Mon Dec 23 2019,7:00p,Toronto Raptors,Indiana Pacers,0.544610202,0.455389768
+Mon Dec 23 2019,7:00p,Washington Wizards,New York Knicks,0.44598785,0.55401212
+Mon Dec 23 2019,7:00p,Chicago Bulls,Orlando Magic,0.643568635,0.356431365
+Mon Dec 23 2019,7:30p,Utah Jazz,Miami Heat,0.765491903,0.234508052
+Mon Dec 23 2019,8:00p,San Antonio Spurs,Memphis Grizzlies,0.588681102,0.411318928
+Mon Dec 23 2019,9:00p,Denver Nuggets,Phoenix Suns,0.45154494,0.54845506
+Mon Dec 23 2019,10:00p,New Orleans Pelicans,Portland Trail Blazers,0.762091041,0.237909004
+Mon Dec 23 2019,10:00p,Houston Rockets,Sacramento Kings,0.292544007,0.707455933
+Mon Dec 23 2019,10:30p,Minnesota Timberwolves,Golden State Warriors,0.4234972,0.5765028
+Wed Dec 25 2019,12:00p,Boston Celtics,Toronto Raptors,0.673358679,0.326641351
+Wed Dec 25 2019,2:30p,Milwaukee Bucks,Philadelphia 76ers,0.446966082,0.553033888
+Wed Dec 25 2019,5:00p,Houston Rockets,Golden State Warriors,0.262148678,0.737851322
+Wed Dec 25 2019,8:00p,Los Angeles Clippers,Los Angeles Lakers,0.707861602,0.292138427
+Wed Dec 25 2019,10:30p,New Orleans Pelicans,Denver Nuggets,0.78095603,0.219044015
+Thu Dec 26 2019,7:00p,Washington Wizards,Detroit Pistons,0.534647584,0.465352386
+Thu Dec 26 2019,7:30p,New York Knicks,Brooklyn Nets,0.774175167,0.225824893
+Thu Dec 26 2019,8:00p,San Antonio Spurs,Dallas Mavericks,0.762225807,0.237774223
+Thu Dec 26 2019,8:00p,Memphis Grizzlies,Oklahoma City Thunder,0.743532658,0.256467342
+Thu Dec 26 2019,10:00p,Minnesota Timberwolves,Sacramento Kings,0.512354016,0.487645984
+Thu Dec 26 2019,10:30p,Portland Trail Blazers,Utah Jazz,0.676537871,0.323462188
+Fri Dec 27 2019,4:00p,Cleveland Cavaliers,Boston Celtics,0.837449193,0.162550777
+Fri Dec 27 2019,7:00p,Oklahoma City Thunder,Charlotte Hornets,0.444561571,0.555438399
+Fri Dec 27 2019,7:00p,Philadelphia 76ers,Orlando Magic,0.423748493,0.576251447
+Fri Dec 27 2019,7:30p,Milwaukee Bucks,Atlanta Hawks,0.212931797,0.787068248
+Fri Dec 27 2019,8:00p,Indiana Pacers,Miami Heat,0.761955082,0.238044947
+Fri Dec 27 2019,10:30p,Phoenix Suns,Golden State Warriors,0.444800109,0.555199921
+Sat Dec 28 2019,5:00p,Memphis Grizzlies,Denver Nuggets,0.677957296,0.322042644
+Sat Dec 28 2019,7:00p,Toronto Raptors,Boston Celtics,0.697465897,0.302534074
+Sat Dec 28 2019,7:00p,Indiana Pacers,New Orleans Pelicans,0.455292434,0.544707537
+Sat Dec 28 2019,8:00p,Atlanta Hawks,Chicago Bulls,0.717640281,0.28235966
+Sat Dec 28 2019,8:00p,Brooklyn Nets,Houston Rockets,0.766720116,0.233279854
+Sat Dec 28 2019,8:00p,Philadelphia 76ers,Miami Heat,0.726599813,0.273400217
+Sat Dec 28 2019,8:00p,Cleveland Cavaliers,Minnesota Timberwolves,0.693522274,0.306477785
+Sat Dec 28 2019,8:00p,New York Knicks,Washington Wizards,0.669251502,0.330748498
+Sat Dec 28 2019,8:30p,Dallas Mavericks,Golden State Warriors,0.304964602,0.695035458
+Sat Dec 28 2019,8:30p,Orlando Magic,Milwaukee Bucks,0.854444265,0.145555735
+Sat Dec 28 2019,8:30p,Detroit Pistons,San Antonio Spurs,0.675545812,0.324454248
+Sat Dec 28 2019,9:00p,Phoenix Suns,Sacramento Kings,0.443229556,0.556770384
+Sat Dec 28 2019,10:00p,Los Angeles Lakers,Portland Trail Blazers,0.446614325,0.553385675
+Sat Dec 28 2019,10:30p,Utah Jazz,Los Angeles Clippers,0.695327282,0.304672718
+Sun Dec 29 2019,6:00p,Oklahoma City Thunder,Toronto Raptors,0.750795603,0.249204338
+Sun Dec 29 2019,8:00p,Sacramento Kings,Denver Nuggets,0.786674321,0.213325649
+Sun Dec 29 2019,8:00p,Charlotte Hornets,Memphis Grizzlies,0.663485467,0.336514533
+Sun Dec 29 2019,8:00p,Houston Rockets,New Orleans Pelicans,0.346885979,0.653114021
+Sun Dec 29 2019,9:30p,Dallas Mavericks,Los Angeles Lakers,0.604632139,0.395367891
+Mon Dec 30 2019,7:00p,Atlanta Hawks,Orlando Magic,0.806671083,0.193328887
+Mon Dec 30 2019,7:00p,Miami Heat,Washington Wizards,0.30949384,0.690506101
+Mon Dec 30 2019,8:00p,Milwaukee Bucks,Chicago Bulls,0.262336016,0.737663925
+Mon Dec 30 2019,8:00p,Brooklyn Nets,Minnesota Timberwolves,0.45312658,0.54687345
+Mon Dec 30 2019,9:00p,Detroit Pistons,Utah Jazz,0.73331058,0.266689479
+Mon Dec 30 2019,10:00p,Phoenix Suns,Portland Trail Blazers,0.664150119,0.335849851
+Tue Dec 31 2019,3:00p,Boston Celtics,Charlotte Hornets,0.346691221,0.653308809
+Tue Dec 31 2019,3:00p,Philadelphia 76ers,Indiana Pacers,0.590599477,0.409400523
+Tue Dec 31 2019,5:00p,Los Angeles Clippers,Sacramento Kings,0.331478834,0.668521225
+Tue Dec 31 2019,7:00p,Denver Nuggets,Houston Rockets,0.712819815,0.287180245
+Tue Dec 31 2019,7:00p,Golden State Warriors,San Antonio Spurs,0.779401302,0.220598713
+Tue Dec 31 2019,7:00p,Cleveland Cavaliers,Toronto Raptors,0.802939475,0.197060555
+Tue Dec 31 2019,8:00p,Dallas Mavericks,Oklahoma City Thunder,0.471567601,0.528432429
+Wed Jan 1 2020,6:00p,Orlando Magic,Washington Wizards,0.653396666,0.346603394
+Wed Jan 1 2020,7:30p,Portland Trail Blazers,New York Knicks,0.420432687,0.579567313
+Wed Jan 1 2020,8:00p,Minnesota Timberwolves,Milwaukee Bucks,0.860874057,0.139125943
+Wed Jan 1 2020,10:30p,Phoenix Suns,Los Angeles Lakers,0.791491032,0.208508968
+Thu Jan 2 2020,7:00p,Charlotte Hornets,Cleveland Cavaliers,0.499688268,0.500311732
+Thu Jan 2 2020,7:00p,Denver Nuggets,Indiana Pacers,0.644451559,0.355548441
+Thu Jan 2 2020,7:30p,Toronto Raptors,Miami Heat,0.661376536,0.338623375
+Thu Jan 2 2020,8:00p,Utah Jazz,Chicago Bulls,0.37822333,0.6217767
+Thu Jan 2 2020,8:00p,Golden State Warriors,Minnesota Timberwolves,0.692088306,0.307911694
+Thu Jan 2 2020,8:30p,Brooklyn Nets,Dallas Mavericks,0.757066071,0.242933929
+Thu Jan 2 2020,8:30p,Oklahoma City Thunder,San Antonio Spurs,0.658453166,0.341546804
+Thu Jan 2 2020,10:00p,Memphis Grizzlies,Sacramento Kings,0.390475243,0.609524727
+Thu Jan 2 2020,10:30p,Detroit Pistons,Los Angeles Clippers,0.775813997,0.224186063
+Fri Jan 3 2020,7:00p,Atlanta Hawks,Boston Celtics,0.855692685,0.144307315
+Fri Jan 3 2020,7:00p,Miami Heat,Orlando Magic,0.372978568,0.627021492
+Fri Jan 3 2020,7:00p,Portland Trail Blazers,Washington Wizards,0.580680847,0.419319123
+Fri Jan 3 2020,8:00p,Philadelphia 76ers,Houston Rockets,0.747392893,0.252607077
+Fri Jan 3 2020,9:00p,New York Knicks,Phoenix Suns,0.62888962,0.37111035
+Fri Jan 3 2020,10:30p,New Orleans Pelicans,Los Angeles Lakers,0.796656489,0.203343466
+Sat Jan 4 2020,3:30p,Memphis Grizzlies,Los Angeles Clippers,0.752418399,0.247581616
+Sat Jan 4 2020,6:00p,Toronto Raptors,Brooklyn Nets,0.434796542,0.565203428
+Sat Jan 4 2020,7:00p,Utah Jazz,Orlando Magic,0.460716516,0.539283454
+Sat Jan 4 2020,7:30p,Indiana Pacers,Atlanta Hawks,0.337300003,0.662699997
+Sat Jan 4 2020,7:30p,Oklahoma City Thunder,Cleveland Cavaliers,0.380192369,0.619807661
+Sat Jan 4 2020,8:00p,Boston Celtics,Chicago Bulls,0.377142936,0.622857094
+Sat Jan 4 2020,8:00p,Denver Nuggets,Washington Wizards,0.438357085,0.561642945
+Sat Jan 4 2020,8:30p,Charlotte Hornets,Dallas Mavericks,0.812775671,0.187224343
+Sat Jan 4 2020,8:30p,Detroit Pistons,Golden State Warriors,0.472861946,0.527138054
+Sat Jan 4 2020,8:30p,San Antonio Spurs,Milwaukee Bucks,0.839702368,0.160297632
+Sat Jan 4 2020,10:00p,New Orleans Pelicans,Sacramento Kings,0.416622072,0.583377898
+Sun Jan 5 2020,3:30p,New York Knicks,Los Angeles Clippers,0.804959655,0.19504033
+Sun Jan 5 2020,6:00p,Portland Trail Blazers,Miami Heat,0.801638186,0.198361859
+Sun Jan 5 2020,7:30p,Minnesota Timberwolves,Cleveland Cavaliers,0.424918622,0.575081348
+Sun Jan 5 2020,8:00p,Memphis Grizzlies,Phoenix Suns,0.521045506,0.478954494
+Sun Jan 5 2020,10:00p,Detroit Pistons,Los Angeles Lakers,0.8132267,0.18677336
+Mon Jan 6 2020,7:00p,Indiana Pacers,Charlotte Hornets,0.416945785,0.583054185
+Mon Jan 6 2020,7:00p,Brooklyn Nets,Orlando Magic,0.657478988,0.342521012
+Mon Jan 6 2020,7:00p,Oklahoma City Thunder,Philadelphia 76ers,0.60997802,0.39002201
+Mon Jan 6 2020,7:00p,Boston Celtics,Washington Wizards,0.390966982,0.609032989
+Mon Jan 6 2020,7:30p,Denver Nuggets,Atlanta Hawks,0.353480488,0.646519482
+Mon Jan 6 2020,8:00p,Utah Jazz,New Orleans Pelicans,0.404708833,0.595291138
+Mon Jan 6 2020,8:30p,Chicago Bulls,Dallas Mavericks,0.772902191,0.227097854
+Mon Jan 6 2020,8:30p,Milwaukee Bucks,San Antonio Spurs,0.343389928,0.656610131
+Mon Jan 6 2020,10:00p,Golden State Warriors,Sacramento Kings,0.561933041,0.438067049
+Tue Jan 7 2020,7:00p,Detroit Pistons,Cleveland Cavaliers,0.38454321,0.615456879
+Tue Jan 7 2020,7:00p,Portland Trail Blazers,Toronto Raptors,0.788784862,0.211215124
+Tue Jan 7 2020,7:30p,Oklahoma City Thunder,Brooklyn Nets,0.512581289,0.487418652
+Tue Jan 7 2020,8:00p,Minnesota Timberwolves,Memphis Grizzlies,0.613526762,0.386473268
+Tue Jan 7 2020,9:00p,Sacramento Kings,Phoenix Suns,0.642017424,0.357982576
+Tue Jan 7 2020,10:30p,New York Knicks,Los Angeles Lakers,0.847680688,0.152319312
+Wed Jan 8 2020,7:00p,San Antonio Spurs,Boston Celtics,0.775237441,0.224762529
+Wed Jan 8 2020,7:00p,Toronto Raptors,Charlotte Hornets,0.337813765,0.662186205
+Wed Jan 8 2020,7:00p,Miami Heat,Indiana Pacers,0.499264598,0.500735402
+Wed Jan 8 2020,7:00p,Washington Wizards,Orlando Magic,0.705153406,0.294846535
+Wed Jan 8 2020,7:30p,Houston Rockets,Atlanta Hawks,0.260661185,0.739338815
+Wed Jan 8 2020,7:30p,Denver Nuggets,Dallas Mavericks,0.685013711,0.314986259
+Wed Jan 8 2020,8:00p,Chicago Bulls,New Orleans Pelicans,0.637095392,0.362904638
+Wed Jan 8 2020,9:00p,New York Knicks,Utah Jazz,0.820628107,0.179371923
+Wed Jan 8 2020,10:00p,Milwaukee Bucks,Golden State Warriors,0.243446663,0.756553292
+Thu Jan 9 2020,7:00p,Cleveland Cavaliers,Detroit Pistons,0.703201294,0.296798646
+Thu Jan 9 2020,7:00p,Boston Celtics,Philadelphia 76ers,0.632454157,0.367545873
+Thu Jan 9 2020,8:00p,Portland Trail Blazers,Minnesota Timberwolves,0.566906035,0.433093935
+Thu Jan 9 2020,9:30p,Houston Rockets,Oklahoma City Thunder,0.497324526,0.502675474
+Fri Jan 10 2020,7:00p,Atlanta Hawks,Washington Wizards,0.744661391,0.255338639
+Fri Jan 10 2020,7:15p,New Orleans Pelicans,New York Knicks,0.393390805,0.606609166
+Fri Jan 10 2020,7:30p,Miami Heat,Brooklyn Nets,0.338281155,0.661718786
+Fri Jan 10 2020,8:00p,Indiana Pacers,Chicago Bulls,0.455432802,0.544567108
+Fri Jan 10 2020,8:00p,San Antonio Spurs,Memphis Grizzlies,0.566108584,0.433891445
+Fri Jan 10 2020,9:00p,Orlando Magic,Phoenix Suns,0.565921664,0.434078366
+Fri Jan 10 2020,9:00p,Charlotte Hornets,Utah Jazz,0.803139806,0.196860209
+Fri Jan 10 2020,9:45p,Los Angeles Lakers,Dallas Mavericks,0.515251458,0.484748542
+Fri Jan 10 2020,10:00p,Milwaukee Bucks,Sacramento Kings,0.255057633,0.744942367
+Fri Jan 10 2020,10:30p,Golden State Warriors,Los Angeles Clippers,0.811711729,0.188288242
+Sat Jan 11 2020,5:00p,Minnesota Timberwolves,Houston Rockets,0.778279662,0.221720383
+Sat Jan 11 2020,7:00p,New Orleans Pelicans,Boston Celtics,0.743016183,0.256983787
+Sat Jan 11 2020,7:00p,Chicago Bulls,Detroit Pistons,0.619352937,0.380647033
+Sat Jan 11 2020,8:00p,Los Angeles Lakers,Oklahoma City Thunder,0.491531253,0.508468747
+Sat Jan 11 2020,8:30p,Philadelphia 76ers,Dallas Mavericks,0.638506591,0.361493438
+Sat Jan 11 2020,9:00p,Cleveland Cavaliers,Denver Nuggets,0.783026755,0.21697326
+Sat Jan 11 2020,10:00p,Milwaukee Bucks,Portland Trail Blazers,0.292720526,0.707279503
+Sun Jan 12 2020,3:30p,Miami Heat,New York Knicks,0.296098441,0.703901529
+Sun Jan 12 2020,3:30p,Utah Jazz,Washington Wizards,0.373486787,0.626513302
+Sun Jan 12 2020,6:00p,Atlanta Hawks,Brooklyn Nets,0.72182101,0.27817902
+Sun Jan 12 2020,6:00p,Golden State Warriors,Memphis Grizzlies,0.772623837,0.227376163
+Sun Jan 12 2020,6:00p,San Antonio Spurs,Toronto Raptors,0.708139181,0.291860878
+Sun Jan 12 2020,8:00p,Los Angeles Clippers,Denver Nuggets,0.545001864,0.454998165
+Sun Jan 12 2020,8:00p,Charlotte Hornets,Phoenix Suns,0.662193418,0.337806612
+Mon Jan 13 2020,7:00p,New Orleans Pelicans,Detroit Pistons,0.466453105,0.533546925
+Mon Jan 13 2020,7:00p,Philadelphia 76ers,Indiana Pacers,0.60218662,0.39781335
+Mon Jan 13 2020,7:30p,Chicago Bulls,Boston Celtics,0.787006855,0.21299313
+Mon Jan 13 2020,8:00p,Oklahoma City Thunder,Minnesota Timberwolves,0.521019101,0.478980899
+Mon Jan 13 2020,10:00p,Charlotte Hornets,Portland Trail Blazers,0.685838342,0.314161688
+Mon Jan 13 2020,10:00p,Orlando Magic,Sacramento Kings,0.505609572,0.494390398
+Mon Jan 13 2020,10:30p,Cleveland Cavaliers,Los Angeles Lakers,0.848096073,0.151903927
+Tue Jan 14 2020,7:30p,Phoenix Suns,Atlanta Hawks,0.353529602,0.646470428
+Tue Jan 14 2020,7:30p,Utah Jazz,Brooklyn Nets,0.354844004,0.645156026
+Tue Jan 14 2020,8:00p,Houston Rockets,Memphis Grizzlies,0.461073756,0.538926244
+Tue Jan 14 2020,8:00p,New York Knicks,Milwaukee Bucks,0.873921096,0.126078904
+Tue Jan 14 2020,10:30p,Dallas Mavericks,Golden State Warriors,0.280376494,0.719623506
+Tue Jan 14 2020,10:30p,Cleveland Cavaliers,Los Angeles Clippers,0.809923112,0.190076858
+Wed Jan 15 2020,7:00p,Detroit Pistons,Boston Celtics,0.78774178,0.21225822
+Wed Jan 15 2020,7:00p,Brooklyn Nets,Philadelphia 76ers,0.765550792,0.234449178
+Wed Jan 15 2020,7:30p,San Antonio Spurs,Miami Heat,0.746123195,0.253876746
+Wed Jan 15 2020,8:00p,Washington Wizards,Chicago Bulls,0.484315753,0.515684187
+Wed Jan 15 2020,8:00p,Indiana Pacers,Minnesota Timberwolves,0.563780606,0.436219364
+Wed Jan 15 2020,8:00p,Toronto Raptors,Oklahoma City Thunder,0.643464923,0.356535047
+Wed Jan 15 2020,9:00p,Charlotte Hornets,Denver Nuggets,0.779679179,0.220320806
+Wed Jan 15 2020,9:30p,Portland Trail Blazers,Houston Rockets,0.80641228,0.19358772
+Wed Jan 15 2020,10:00p,Dallas Mavericks,Sacramento Kings,0.302719265,0.697280765
+Wed Jan 15 2020,10:30p,Orlando Magic,Los Angeles Lakers,0.820421994,0.179578066
+Thu Jan 16 2020,7:30p,Phoenix Suns,New York Knicks,0.427588075,0.572411954
+Thu Jan 16 2020,8:00p,Boston Celtics,Milwaukee Bucks,0.813617051,0.186382979
+Thu Jan 16 2020,8:00p,Utah Jazz,New Orleans Pelicans,0.387594461,0.612405598
+Thu Jan 16 2020,10:30p,Denver Nuggets,Golden State Warriors,0.345681131,0.654318869
+Thu Jan 16 2020,10:30p,Orlando Magic,Los Angeles Clippers,0.742678821,0.257321209
+Fri Jan 17 2020,7:00p,Minnesota Timberwolves,Indiana Pacers,0.748120844,0.251879156
+Fri Jan 17 2020,7:00p,Chicago Bulls,Philadelphia 76ers,0.750559986,0.249440014
+Fri Jan 17 2020,7:00p,Washington Wizards,Toronto Raptors,0.767815053,0.232185006
+Fri Jan 17 2020,8:00p,Cleveland Cavaliers,Memphis Grizzlies,0.798636913,0.201363117
+Fri Jan 17 2020,8:00p,Miami Heat,Oklahoma City Thunder,0.513384521,0.48661539
+Fri Jan 17 2020,8:30p,Atlanta Hawks,San Antonio Spurs,0.81239742,0.18760255
+Fri Jan 17 2020,9:30p,Portland Trail Blazers,Dallas Mavericks,0.774414063,0.225585923
+Sat Jan 18 2020,3:30p,Los Angeles Clippers,New Orleans Pelicans,0.460184067,0.539815962
+Sat Jan 18 2020,6:00p,Milwaukee Bucks,Brooklyn Nets,0.263676792,0.736323237
+Sat Jan 18 2020,7:00p,Phoenix Suns,Boston Celtics,0.73145479,0.26854521
+Sat Jan 18 2020,7:30p,Detroit Pistons,Atlanta Hawks,0.4274185,0.57258147
+Sat Jan 18 2020,7:30p,Philadelphia 76ers,New York Knicks,0.370066047,0.629933953
+Sat Jan 18 2020,8:00p,Cleveland Cavaliers,Chicago Bulls,0.643782794,0.356217146
+Sat Jan 18 2020,8:00p,Toronto Raptors,Minnesota Timberwolves,0.3836101,0.61638993
+Sat Jan 18 2020,8:30p,Orlando Magic,Golden State Warriors,0.42191869,0.57808131
+Sat Jan 18 2020,8:30p,Los Angeles Lakers,Houston Rockets,0.461188197,0.538811803
+Sat Jan 18 2020,9:00p,Portland Trail Blazers,Oklahoma City Thunder,0.745726287,0.254273653
+Sat Jan 18 2020,9:00p,Sacramento Kings,Utah Jazz,0.799557447,0.200442612
+Sun Jan 19 2020,3:00p,Miami Heat,San Antonio Spurs,0.481876701,0.518123329
+Sun Jan 19 2020,8:00p,Indiana Pacers,Denver Nuggets,0.655928493,0.344071537
+Mon Jan 20 2020,2:00p,Detroit Pistons,Washington Wizards,0.509905934,0.490094036
+Mon Jan 20 2020,2:30p,Toronto Raptors,Atlanta Hawks,0.296880692,0.703119278
+Mon Jan 20 2020,3:00p,Philadelphia 76ers,Brooklyn Nets,0.444010198,0.555989861
+Mon Jan 20 2020,5:00p,Orlando Magic,Charlotte Hornets,0.452255845,0.547744155
+Mon Jan 20 2020,5:00p,New York Knicks,Cleveland Cavaliers,0.530089438,0.469910592
+Mon Jan 20 2020,5:00p,Oklahoma City Thunder,Houston Rockets,0.697406769,0.302593201
+Mon Jan 20 2020,5:00p,New Orleans Pelicans,Memphis Grizzlies,0.703668177,0.296331793
+Mon Jan 20 2020,5:00p,Sacramento Kings,Miami Heat,0.80410111,0.195898905
+Mon Jan 20 2020,5:00p,Chicago Bulls,Milwaukee Bucks,0.858679473,0.141320497
+Mon Jan 20 2020,7:30p,Los Angeles Lakers,Boston Celtics,0.458739638,0.541260362
+Mon Jan 20 2020,8:00p,Denver Nuggets,Minnesota Timberwolves,0.481847316,0.518152654
+Mon Jan 20 2020,9:00p,San Antonio Spurs,Phoenix Suns,0.601140618,0.398859471
+Mon Jan 20 2020,9:00p,Indiana Pacers,Utah Jazz,0.723896861,0.276103199
+Mon Jan 20 2020,10:00p,Golden State Warriors,Portland Trail Blazers,0.769634485,0.230365515
+Tue Jan 21 2020,8:30p,Los Angeles Clippers,Dallas Mavericks,0.645003796,0.354996175
+Wed Jan 22 2020,7:00p,Sacramento Kings,Detroit Pistons,0.668213129,0.331786871
+Wed Jan 22 2020,7:00p,Oklahoma City Thunder,Orlando Magic,0.593165219,0.406834751
+Wed Jan 22 2020,7:00p,Philadelphia 76ers,Toronto Raptors,0.70515424,0.29484573
+Wed Jan 22 2020,7:30p,Los Angeles Clippers,Atlanta Hawks,0.290858716,0.709141254
+Wed Jan 22 2020,7:30p,Memphis Grizzlies,Boston Celtics,0.667378545,0.332621455
+Wed Jan 22 2020,7:30p,Washington Wizards,Miami Heat,0.803342521,0.196657479
+Wed Jan 22 2020,7:30p,Los Angeles Lakers,New York Knicks,0.287583351,0.712416589
+Wed Jan 22 2020,8:00p,Minnesota Timberwolves,Chicago Bulls,0.513818741,0.486181259
+Wed Jan 22 2020,8:00p,Denver Nuggets,Houston Rockets,0.672448754,0.327551216
+Wed Jan 22 2020,9:00p,Indiana Pacers,Phoenix Suns,0.557769775,0.442230225
+Wed Jan 22 2020,9:30p,San Antonio Spurs,New Orleans Pelicans,0.605881095,0.394118905
+Wed Jan 22 2020,10:00p,Utah Jazz,Golden State Warriors,0.276845008,0.723154962
+Thu Jan 23 2020,7:00p,Washington Wizards,Cleveland Cavaliers,0.402897805,0.597102165
+Thu Jan 23 2020,8:00p,Los Angeles Lakers,Brooklyn Nets,0.338500172,0.661499858
+Thu Jan 23 2020,10:30p,Dallas Mavericks,Portland Trail Blazers,0.437308878,0.562691152
+Fri Jan 24 2020,3:00p,Milwaukee Bucks,Charlotte Hornets,0.214109659,0.7858904
+Fri Jan 24 2020,7:00p,Memphis Grizzlies,Detroit Pistons,0.517197669,0.482802361
+Fri Jan 24 2020,7:00p,Boston Celtics,Orlando Magic,0.523534417,0.476465613
+Fri Jan 24 2020,7:30p,Toronto Raptors,New York Knicks,0.292453736,0.707546294
+Fri Jan 24 2020,8:00p,Sacramento Kings,Chicago Bulls,0.622750342,0.377249658
+Fri Jan 24 2020,8:00p,Los Angeles Clippers,Miami Heat,0.701629043,0.298370957
+Fri Jan 24 2020,8:00p,Houston Rockets,Minnesota Timberwolves,0.349484861,0.650515139
+Fri Jan 24 2020,8:00p,Denver Nuggets,New Orleans Pelicans,0.576837361,0.42316258
+Fri Jan 24 2020,8:00p,Atlanta Hawks,Oklahoma City Thunder,0.813983798,0.186016172
+Fri Jan 24 2020,8:30p,Phoenix Suns,San Antonio Spurs,0.717297614,0.282702386
+Fri Jan 24 2020,10:30p,Indiana Pacers,Golden State Warriors,0.351453274,0.648546696
+Sat Jan 25 2020,5:00p,Dallas Mavericks,Utah Jazz,0.672556281,0.327443719
+Sat Jan 25 2020,7:00p,Brooklyn Nets,Detroit Pistons,0.649314106,0.350685865
+Sat Jan 25 2020,8:00p,Chicago Bulls,Cleveland Cavaliers,0.45394519,0.54605478
+Sat Jan 25 2020,8:00p,Oklahoma City Thunder,Minnesota Timberwolves,0.416652918,0.583347082
+Sat Jan 25 2020,8:30p,Los Angeles Lakers,Philadelphia 76ers,0.507239342,0.492760599
+Sun Jan 26 2020,3:30p,Houston Rockets,Denver Nuggets,0.57806915,0.421930879
+Sun Jan 26 2020,4:00p,Toronto Raptors,San Antonio Spurs,0.505588591,0.494411409
+Sun Jan 26 2020,6:00p,Washington Wizards,Atlanta Hawks,0.426980585,0.573019385
+Sun Jan 26 2020,6:00p,Phoenix Suns,Memphis Grizzlies,0.673398793,0.326601267
+Sun Jan 26 2020,6:00p,Boston Celtics,New Orleans Pelicans,0.471656501,0.528343499
+Sun Jan 26 2020,6:00p,Brooklyn Nets,New York Knicks,0.398741126,0.601258874
+Sun Jan 26 2020,6:00p,Los Angeles Clippers,Orlando Magic,0.425985396,0.574014604
+Sun Jan 26 2020,9:00p,Indiana Pacers,Portland Trail Blazers,0.475497037,0.524502933
+Mon Jan 27 2020,7:00p,Cleveland Cavaliers,Detroit Pistons,0.739281118,0.260718912
+Mon Jan 27 2020,7:30p,Orlando Magic,Miami Heat,0.784617603,0.215382382
+Mon Jan 27 2020,8:00p,San Antonio Spurs,Chicago Bulls,0.462126076,0.537873983
+Mon Jan 27 2020,8:00p,Sacramento Kings,Minnesota Timberwolves,0.604470432,0.395529568
+Mon Jan 27 2020,8:00p,Dallas Mavericks,Oklahoma City Thunder,0.597472608,0.402527392
+Mon Jan 27 2020,9:00p,Houston Rockets,Utah Jazz,0.718572974,0.281427056
+Tue Jan 28 2020,7:00p,New York Knicks,Charlotte Hornets,0.512054503,0.487945557
+Tue Jan 28 2020,7:00p,Golden State Warriors,Philadelphia 76ers,0.827132225,0.17286782
+Tue Jan 28 2020,7:30p,New Orleans Pelicans,Cleveland Cavaliers,0.341956526,0.658043504
+Tue Jan 28 2020,7:30p,Atlanta Hawks,Toronto Raptors,0.839956582,0.160043344
+Tue Jan 28 2020,8:00p,Denver Nuggets,Memphis Grizzlies,0.629689217,0.370310813
+Tue Jan 28 2020,8:00p,Boston Celtics,Miami Heat,0.69980377,0.30019626
+Tue Jan 28 2020,8:00p,Washington Wizards,Milwaukee Bucks,0.861186385,0.138813674
+Tue Jan 28 2020,8:30p,Phoenix Suns,Dallas Mavericks,0.755665362,0.244334608
+Wed Jan 29 2020,7:00p,Chicago Bulls,Indiana Pacers,0.760556877,0.239443108
+Wed Jan 29 2020,7:30p,Detroit Pistons,Brooklyn Nets,0.547762811,0.452237159
+Wed Jan 29 2020,7:30p,Memphis Grizzlies,New York Knicks,0.356588215,0.643411815
+Wed Jan 29 2020,8:30p,Utah Jazz,San Antonio Spurs,0.493891358,0.506108642
+Wed Jan 29 2020,10:00p,Houston Rockets,Portland Trail Blazers,0.479157478,0.520842493
+Wed Jan 29 2020,10:00p,Oklahoma City Thunder,Sacramento Kings,0.415570319,0.584429681
+Thu Jan 30 2020,7:00p,Toronto Raptors,Cleveland Cavaliers,0.258126915,0.741873085
+Thu Jan 30 2020,7:00p,Charlotte Hornets,Washington Wizards,0.700026631,0.299973428
+Thu Jan 30 2020,7:30p,Philadelphia 76ers,Atlanta Hawks,0.3553105,0.6446895
+Thu Jan 30 2020,8:00p,Golden State Warriors,Boston Celtics,0.838630319,0.161369696
+Thu Jan 30 2020,10:30p,Utah Jazz,Denver Nuggets,0.534579277,0.465420783
+Thu Jan 30 2020,10:30p,Sacramento Kings,Los Angeles Clippers,0.810933173,0.189066812
+Fri Jan 31 2020,7:00p,Toronto Raptors,Detroit Pistons,0.335600376,0.664399624
+Fri Jan 31 2020,7:30p,Chicago Bulls,Brooklyn Nets,0.653887987,0.346112013
+Fri Jan 31 2020,7:30p,Dallas Mavericks,Houston Rockets,0.53201133,0.46798861
+Fri Jan 31 2020,8:00p,Memphis Grizzlies,New Orleans Pelicans,0.50774169,0.492258281
+Fri Jan 31 2020,9:00p,Denver Nuggets,Milwaukee Bucks,0.821340621,0.178659365
+Fri Jan 31 2020,9:00p,Oklahoma City Thunder,Phoenix Suns,0.493389577,0.506610394
+Fri Jan 31 2020,10:30p,Portland Trail Blazers,Los Angeles Lakers,0.819123149,0.180876866
+Sat Feb 1 2020,3:30p,Minnesota Timberwolves,Los Angeles Clippers,0.800031066,0.199968979
+Sat Feb 1 2020,7:00p,New York Knicks,Indiana Pacers,0.839200675,0.16079928
+Sat Feb 1 2020,7:00p,Miami Heat,Orlando Magic,0.371570319,0.628429711
+Sat Feb 1 2020,8:00p,Golden State Warriors,Cleveland Cavaliers,0.522250414,0.477749586
+Sat Feb 1 2020,8:00p,Brooklyn Nets,Washington Wizards,0.594510794,0.405489206
+Sat Feb 1 2020,8:30p,Philadelphia 76ers,Boston Celtics,0.697804332,0.302195698
+Sat Feb 1 2020,8:30p,Atlanta Hawks,Dallas Mavericks,0.814604402,0.185395598
+Sat Feb 1 2020,9:00p,Charlotte Hornets,San Antonio Spurs,0.805975676,0.19402425
+Sat Feb 1 2020,10:00p,Los Angeles Lakers,Sacramento Kings,0.331170887,0.668829203
+Sat Feb 1 2020,10:30p,Utah Jazz,Portland Trail Blazers,0.527478158,0.472521752
+Sun Feb 2 2020,12:30p,Denver Nuggets,Detroit Pistons,0.455967247,0.544032753
+Sun Feb 2 2020,2:00p,New Orleans Pelicans,Houston Rockets,0.688558817,0.311441183
+Sun Feb 2 2020,2:00p,Phoenix Suns,Milwaukee Bucks,0.849234283,0.150765747
+Sun Feb 2 2020,3:00p,Chicago Bulls,Toronto Raptors,0.814498186,0.185501784
+Mon Feb 3 2020,7:00p,Orlando Magic,Charlotte Hornets,0.43414709,0.56585288
+Mon Feb 3 2020,7:00p,New York Knicks,Cleveland Cavaliers,0.462601095,0.537398934
+Mon Feb 3 2020,7:00p,Dallas Mavericks,Indiana Pacers,0.619893253,0.380106747
+Mon Feb 3 2020,7:00p,Golden State Warriors,Washington Wizards,0.744647324,0.255352616
+Mon Feb 3 2020,7:30p,Boston Celtics,Atlanta Hawks,0.350822538,0.649177432
+Mon Feb 3 2020,7:30p,Phoenix Suns,Brooklyn Nets,0.552517295,0.447482675
+Mon Feb 3 2020,7:30p,Philadelphia 76ers,Miami Heat,0.711309254,0.288690716
+Mon Feb 3 2020,8:00p,Detroit Pistons,Memphis Grizzlies,0.701548576,0.298451394
+Mon Feb 3 2020,10:00p,Minnesota Timberwolves,Sacramento Kings,0.517219305,0.482780665
+Mon Feb 3 2020,10:30p,San Antonio Spurs,Los Angeles Clippers,0.739195585,0.260804445
+Tue Feb 4 2020,7:30p,Milwaukee Bucks,New Orleans Pelicans,0.31992954,0.68007046
+Tue Feb 4 2020,8:00p,Charlotte Hornets,Houston Rockets,0.835665643,0.164334372
+Tue Feb 4 2020,9:00p,Portland Trail Blazers,Denver Nuggets,0.717882156,0.282117903
+Tue Feb 4 2020,10:00p,San Antonio Spurs,Los Angeles Lakers,0.773069799,0.226930231
+Wed Feb 5 2020,7:00p,Phoenix Suns,Detroit Pistons,0.505970001,0.494029969
+Wed Feb 5 2020,7:30p,Orlando Magic,Boston Celtics,0.801178873,0.198821098
+Wed Feb 5 2020,7:30p,Golden State Warriors,Brooklyn Nets,0.709564984,0.290434986
+Wed Feb 5 2020,7:30p,Indiana Pacers,Toronto Raptors,0.80030328,0.199696735
+Wed Feb 5 2020,8:00p,Atlanta Hawks,Minnesota Timberwolves,0.624760747,0.375239283
+Wed Feb 5 2020,8:00p,Cleveland Cavaliers,Oklahoma City Thunder,0.826992393,0.173007593
+Wed Feb 5 2020,8:30p,Memphis Grizzlies,Dallas Mavericks,0.690088987,0.309910983
+Wed Feb 5 2020,9:00p,Denver Nuggets,Utah Jazz,0.650810122,0.349189848
+Wed Feb 5 2020,10:00p,Miami Heat,Los Angeles Clippers,0.601508617,0.398491383
+Thu Feb 6 2020,7:30p,Orlando Magic,New York Knicks,0.502353072,0.497646958
+Thu Feb 6 2020,8:00p,New Orleans Pelicans,Chicago Bulls,0.398503065,0.601496875
+Thu Feb 6 2020,8:00p,Philadelphia 76ers,Milwaukee Bucks,0.820635974,0.179363996
+Thu Feb 6 2020,10:00p,San Antonio Spurs,Portland Trail Blazers,0.662606478,0.337393522
+Thu Feb 6 2020,10:30p,Houston Rockets,Los Angeles Lakers,0.711324632,0.288675338
+Fri Feb 7 2020,7:00p,Memphis Grizzlies,Philadelphia 76ers,0.591852665,0.408147365
+Fri Feb 7 2020,7:00p,Dallas Mavericks,Washington Wizards,0.398178905,0.601821125
+Fri Feb 7 2020,7:30p,Atlanta Hawks,Boston Celtics,0.843703151,0.156296879
+Fri Feb 7 2020,8:00p,Toronto Raptors,Indiana Pacers,0.429164678,0.570835352
+Fri Feb 7 2020,8:00p,Detroit Pistons,Oklahoma City Thunder,0.785571277,0.214428693
+Fri Feb 7 2020,9:00p,Houston Rockets,Phoenix Suns,0.36346516,0.63653481
+Fri Feb 7 2020,10:00p,Miami Heat,Sacramento Kings,0.335637361,0.664362609
+Fri Feb 7 2020,10:30p,Portland Trail Blazers,Utah Jazz,0.701925516,0.298074484
+Sat Feb 8 2020,5:00p,Milwaukee Bucks,Orlando Magic,0.256471664,0.743528366
+Sat Feb 8 2020,7:00p,Dallas Mavericks,Charlotte Hornets,0.270197481,0.729802489
+Sat Feb 8 2020,7:00p,New York Knicks,Detroit Pistons,0.687780023,0.312219948
+Sat Feb 8 2020,7:30p,New Orleans Pelicans,Indiana Pacers,0.628587008,0.371412963
+Sat Feb 8 2020,7:30p,Brooklyn Nets,Toronto Raptors,0.811323047,0.188676924
+Sat Feb 8 2020,8:00p,Los Angeles Clippers,Minnesota Timberwolves,0.314321399,0.685678542
+Sat Feb 8 2020,8:30p,Los Angeles Lakers,Golden State Warriors,0.30134657,0.69865334
+Sat Feb 8 2020,9:00p,Denver Nuggets,Phoenix Suns,0.473031908,0.526968002
+Sat Feb 8 2020,10:00p,San Antonio Spurs,Sacramento Kings,0.469494522,0.530505538
+Sun Feb 9 2020,3:30p,Boston Celtics,Oklahoma City Thunder,0.65156889,0.348431081
+Sun Feb 9 2020,6:00p,New York Knicks,Atlanta Hawks,0.571774304,0.428225726
+Sun Feb 9 2020,6:00p,Chicago Bulls,Philadelphia 76ers,0.75152725,0.24847275
+Sun Feb 9 2020,6:00p,Memphis Grizzlies,Washington Wizards,0.518315196,0.481684834
+Sun Feb 9 2020,7:00p,Utah Jazz,Houston Rockets,0.686728656,0.313271403
+Sun Feb 9 2020,7:30p,Los Angeles Clippers,Cleveland Cavaliers,0.277882218,0.722117782
+Sun Feb 9 2020,9:00p,Miami Heat,Portland Trail Blazers,0.482363015,0.517636955
+Mon Feb 10 2020,7:00p,Charlotte Hornets,Detroit Pistons,0.69021523,0.30978474
+Mon Feb 10 2020,7:00p,Brooklyn Nets,Indiana Pacers,0.670414627,0.329585373
+Mon Feb 10 2020,7:00p,Atlanta Hawks,Orlando Magic,0.695034981,0.30496496
+Mon Feb 10 2020,7:30p,Minnesota Timberwolves,Toronto Raptors,0.83889538,0.161104649
+Mon Feb 10 2020,8:00p,Sacramento Kings,Milwaukee Bucks,0.852889061,0.147110969
+Mon Feb 10 2020,8:30p,Utah Jazz,Dallas Mavericks,0.630390644,0.369609416
+Mon Feb 10 2020,9:00p,San Antonio Spurs,Denver Nuggets,0.731272459,0.268727452
+Mon Feb 10 2020,10:30p,Miami Heat,Golden State Warriors,0.30667153,0.69332844
+Mon Feb 10 2020,10:30p,Phoenix Suns,Los Angeles Lakers,0.809283137,0.190716937
+Tue Feb 11 2020,7:00p,Los Angeles Clippers,Philadelphia 76ers,0.578433394,0.421566546
+Tue Feb 11 2020,7:00p,Chicago Bulls,Washington Wizards,0.688307226,0.311692774
+Tue Feb 11 2020,8:00p,Portland Trail Blazers,New Orleans Pelicans,0.589121282,0.410878718
+Tue Feb 11 2020,8:00p,San Antonio Spurs,Oklahoma City Thunder,0.750990152,0.249009818
+Tue Feb 11 2020,9:30p,Boston Celtics,Houston Rockets,0.588816226,0.411183804
+Wed Feb 12 2020,7:00p,Atlanta Hawks,Cleveland Cavaliers,0.427767932,0.572232068
+Wed Feb 12 2020,7:00p,Detroit Pistons,Orlando Magic,0.619111478,0.380888492
+Wed Feb 12 2020,7:30p,Toronto Raptors,Brooklyn Nets,0.348662436,0.651337564
+Wed Feb 12 2020,7:30p,Milwaukee Bucks,Indiana Pacers,0.30901289,0.690987051
+Wed Feb 12 2020,7:30p,Washington Wizards,New York Knicks,0.491350323,0.508649707
+Wed Feb 12 2020,8:00p,Portland Trail Blazers,Memphis Grizzlies,0.716996968,0.283003062
+Wed Feb 12 2020,8:00p,Charlotte Hornets,Minnesota Timberwolves,0.669863224,0.330136806
+Wed Feb 12 2020,8:30p,Sacramento Kings,Dallas Mavericks,0.734552383,0.265447587
+Wed Feb 12 2020,9:00p,Golden State Warriors,Phoenix Suns,0.685296655,0.314703345
+Wed Feb 12 2020,9:00p,Miami Heat,Utah Jazz,0.547082126,0.452917844
+Wed Feb 12 2020,10:00p,Los Angeles Lakers,Denver Nuggets,0.540737748,0.459262252
+Thu Feb 13 2020,8:00p,Los Angeles Clippers,Boston Celtics,0.712100863,0.287899166
+Thu Feb 13 2020,8:00p,Oklahoma City Thunder,New Orleans Pelicans,0.561844468,0.438155532
+Thu Feb 20 2020,7:00p,Milwaukee Bucks,Detroit Pistons,0.255958706,0.744041204
+Thu Feb 20 2020,7:30p,Miami Heat,Atlanta Hawks,0.322723925,0.677276075
+Thu Feb 20 2020,8:00p,Charlotte Hornets,Chicago Bulls,0.605387509,0.394612491
+Thu Feb 20 2020,8:00p,Brooklyn Nets,Philadelphia 76ers,0.699642658,0.300357282
+Thu Feb 20 2020,10:00p,Memphis Grizzlies,Sacramento Kings,0.444969147,0.555030823
+Thu Feb 20 2020,10:30p,Houston Rockets,Golden State Warriors,0.304160923,0.695839107
+Fri Feb 21 2020,7:00p,Dallas Mavericks,Orlando Magic,0.3935211,0.60647887
+Fri Feb 21 2020,7:00p,Cleveland Cavaliers,Washington Wizards,0.776414812,0.223585129
+Fri Feb 21 2020,7:30p,Indiana Pacers,New York Knicks,0.428140581,0.571859479
+Fri Feb 21 2020,7:30p,Phoenix Suns,Toronto Raptors,0.815170705,0.18482925
+Fri Feb 21 2020,8:00p,Boston Celtics,Minnesota Timberwolves,0.353981078,0.646018922
+Fri Feb 21 2020,8:00p,Denver Nuggets,Oklahoma City Thunder,0.660379052,0.339620978
+Fri Feb 21 2020,9:00p,San Antonio Spurs,Utah Jazz,0.713515043,0.286484987
+Fri Feb 21 2020,10:30p,Memphis Grizzlies,Los Angeles Lakers,0.752016664,0.247983396
+Fri Feb 21 2020,10:30p,New Orleans Pelicans,Portland Trail Blazers,0.644567668,0.355432332
+Sat Feb 22 2020,3:30p,Sacramento Kings,Los Angeles Clippers,0.76074326,0.23925668
+Sat Feb 22 2020,7:00p,Brooklyn Nets,Charlotte Hornets,0.394562334,0.605437636
+Sat Feb 22 2020,7:30p,Dallas Mavericks,Atlanta Hawks,0.30678606,0.69321394
+Sat Feb 22 2020,8:00p,Phoenix Suns,Chicago Bulls,0.438592464,0.561407506
+Sat Feb 22 2020,8:00p,Cleveland Cavaliers,Miami Heat,0.813990295,0.186009705
+Sat Feb 22 2020,8:30p,Philadelphia 76ers,Milwaukee Bucks,0.819186151,0.180813849
+Sat Feb 22 2020,9:00p,Houston Rockets,Utah Jazz,0.514094293,0.485905766
+Sun Feb 23 2020,3:30p,Boston Celtics,Los Angeles Lakers,0.691925883,0.308074087
+Sun Feb 23 2020,6:00p,Minnesota Timberwolves,Denver Nuggets,0.786894619,0.21310541
+Sun Feb 23 2020,6:00p,Indiana Pacers,Toronto Raptors,0.802446663,0.197553366
+Sun Feb 23 2020,7:00p,Washington Wizards,Chicago Bulls,0.446987897,0.553012073
+Sun Feb 23 2020,7:00p,San Antonio Spurs,Oklahoma City Thunder,0.706610203,0.293389827
+Sun Feb 23 2020,8:30p,New Orleans Pelicans,Golden State Warriors,0.319234997,0.680765033
+Sun Feb 23 2020,9:00p,Detroit Pistons,Portland Trail Blazers,0.723608434,0.276391566
+Mon Feb 24 2020,7:00p,Miami Heat,Cleveland Cavaliers,0.290714711,0.709285319
+Mon Feb 24 2020,7:00p,Atlanta Hawks,Philadelphia 76ers,0.785558462,0.214441538
+Mon Feb 24 2020,7:00p,Milwaukee Bucks,Washington Wizards,0.302837908,0.697162032
+Mon Feb 24 2020,7:30p,Orlando Magic,Brooklyn Nets,0.680260599,0.319739372
+Mon Feb 24 2020,8:00p,New York Knicks,Houston Rockets,0.840337634,0.159662351
+Mon Feb 24 2020,8:30p,Minnesota Timberwolves,Dallas Mavericks,0.790319562,0.209680527
+Mon Feb 24 2020,9:00p,Phoenix Suns,Utah Jazz,0.696469784,0.303530246
+Mon Feb 24 2020,10:30p,Memphis Grizzlies,Los Angeles Clippers,0.673198581,0.326801449
+Tue Feb 25 2020,7:00p,Charlotte Hornets,Indiana Pacers,0.758486986,0.241512984
+Tue Feb 25 2020,7:30p,Milwaukee Bucks,Toronto Raptors,0.522437572,0.477562428
+Tue Feb 25 2020,8:00p,Oklahoma City Thunder,Chicago Bulls,0.353342026,0.646658003
+Tue Feb 25 2020,9:00p,Detroit Pistons,Denver Nuggets,0.783037484,0.216962501
+Tue Feb 25 2020,10:00p,New Orleans Pelicans,Los Angeles Lakers,0.752653241,0.247346699
+Tue Feb 25 2020,10:00p,Boston Celtics,Portland Trail Blazers,0.490270525,0.509729445
+Tue Feb 25 2020,10:30p,Sacramento Kings,Golden State Warriors,0.415879548,0.584120393
+Wed Feb 26 2020,7:00p,New York Knicks,Charlotte Hornets,0.483698666,0.516301394
+Wed Feb 26 2020,7:00p,Philadelphia 76ers,Cleveland Cavaliers,0.362080693,0.637919307
+Wed Feb 26 2020,7:00p,Brooklyn Nets,Washington Wizards,0.585266769,0.414733231
+Wed Feb 26 2020,7:30p,Orlando Magic,Atlanta Hawks,0.508969784,0.491030246
+Wed Feb 26 2020,7:30p,Minnesota Timberwolves,Miami Heat,0.794957995,0.205042034
+Wed Feb 26 2020,8:00p,Memphis Grizzlies,Houston Rockets,0.783371747,0.216628239
+Wed Feb 26 2020,8:30p,Dallas Mavericks,San Antonio Spurs,0.528179049,0.471820951
+Wed Feb 26 2020,9:00p,Los Angeles Clippers,Phoenix Suns,0.423807979,0.576192021
+Wed Feb 26 2020,10:30p,Boston Celtics,Utah Jazz,0.524228513,0.475771546
+Thu Feb 27 2020,7:00p,New York Knicks,Philadelphia 76ers,0.810417116,0.189582869
+Thu Feb 27 2020,8:00p,Portland Trail Blazers,Indiana Pacers,0.714248121,0.28575182
+Thu Feb 27 2020,8:00p,Sacramento Kings,Oklahoma City Thunder,0.779014945,0.2209851
+Thu Feb 27 2020,10:30p,Los Angeles Lakers,Golden State Warriors,0.259637564,0.740362465
+Fri Feb 28 2020,7:00p,Minnesota Timberwolves,Orlando Magic,0.705254078,0.294745952
+Fri Feb 28 2020,7:30p,Brooklyn Nets,Atlanta Hawks,0.427416772,0.572583199
+Fri Feb 28 2020,7:30p,Charlotte Hornets,Toronto Raptors,0.836550057,0.163449898
+Fri Feb 28 2020,8:00p,Sacramento Kings,Memphis Grizzlies,0.658402681,0.341597289
+Fri Feb 28 2020,8:00p,Dallas Mavericks,Miami Heat,0.556586742,0.443413228
+Fri Feb 28 2020,8:00p,Oklahoma City Thunder,Milwaukee Bucks,0.807716727,0.192283288
+Fri Feb 28 2020,8:00p,Cleveland Cavaliers,New Orleans Pelicans,0.758647621,0.241352379
+Fri Feb 28 2020,9:00p,Detroit Pistons,Phoenix Suns,0.618131459,0.381868571
+Fri Feb 28 2020,9:00p,Washington Wizards,Utah Jazz,0.694734097,0.305265903
+Fri Feb 28 2020,10:30p,Denver Nuggets,Los Angeles Clippers,0.653895378,0.346104592
+Sat Feb 29 2020,5:00p,Chicago Bulls,New York Knicks,0.580772877,0.419227123
+Sat Feb 29 2020,7:30p,Portland Trail Blazers,Atlanta Hawks,0.473731637,0.526268423
+Sat Feb 29 2020,7:30p,Brooklyn Nets,Miami Heat,0.749444783,0.250555247
+Sat Feb 29 2020,8:00p,Indiana Pacers,Cleveland Cavaliers,0.372164786,0.627835214
+Sat Feb 29 2020,8:00p,Los Angeles Lakers,Memphis Grizzlies,0.373385787,0.626614273
+Sat Feb 29 2020,8:30p,Houston Rockets,Boston Celtics,0.656342506,0.343657494
+Sat Feb 29 2020,8:30p,Orlando Magic,San Antonio Spurs,0.673042119,0.326957852
+Sat Feb 29 2020,9:00p,Golden State Warriors,Phoenix Suns,0.710087121,0.28991285
+Sun Mar 1 2020,1:00p,Milwaukee Bucks,Charlotte Hornets,0.228116259,0.771883726
+Sun Mar 1 2020,3:30p,Philadelphia 76ers,Los Angeles Clippers,0.697873831,0.302126199
+Sun Mar 1 2020,3:30p,Dallas Mavericks,Minnesota Timberwolves,0.33185491,0.66814512
+Sun Mar 1 2020,6:00p,Toronto Raptors,Denver Nuggets,0.537961304,0.462038726
+Sun Mar 1 2020,6:00p,Detroit Pistons,Sacramento Kings,0.633753181,0.366246819
+Sun Mar 1 2020,8:00p,Los Angeles Lakers,New Orleans Pelicans,0.439175367,0.560824573
+Sun Mar 1 2020,8:30p,Washington Wizards,Golden State Warriors,0.419444829,0.580555201
+Mon Mar 2 2020,7:00p,Utah Jazz,Cleveland Cavaliers,0.302400321,0.697599649
+Mon Mar 2 2020,7:00p,Houston Rockets,New York Knicks,0.308528364,0.691471636
+Mon Mar 2 2020,7:00p,Portland Trail Blazers,Orlando Magic,0.699035883,0.300964177
+Mon Mar 2 2020,7:30p,Memphis Grizzlies,Atlanta Hawks,0.474533498,0.525466502
+Mon Mar 2 2020,7:30p,Milwaukee Bucks,Miami Heat,0.391884983,0.608115077
+Mon Mar 2 2020,8:00p,Dallas Mavericks,Chicago Bulls,0.278606802,0.721393168
+Mon Mar 2 2020,8:30p,Indiana Pacers,San Antonio Spurs,0.619785488,0.380214542
+Tue Mar 3 2020,7:00p,San Antonio Spurs,Charlotte Hornets,0.39411515,0.60588479
+Tue Mar 3 2020,7:30p,Brooklyn Nets,Boston Celtics,0.794621766,0.205378264
+Tue Mar 3 2020,8:00p,Minnesota Timberwolves,New Orleans Pelicans,0.701022267,0.298977643
+Tue Mar 3 2020,8:00p,Los Angeles Clippers,Oklahoma City Thunder,0.637702703,0.362297237
+Tue Mar 3 2020,9:00p,Golden State Warriors,Denver Nuggets,0.824789047,0.175210878
+Tue Mar 3 2020,9:00p,Toronto Raptors,Phoenix Suns,0.392304838,0.607695162
+Tue Mar 3 2020,10:00p,Philadelphia 76ers,Los Angeles Lakers,0.767555237,0.232444748
+Tue Mar 3 2020,10:00p,Washington Wizards,Sacramento Kings,0.580606878,0.419393152
+Wed Mar 4 2020,7:00p,Boston Celtics,Cleveland Cavaliers,0.324749172,0.675250828
+Wed Mar 4 2020,7:00p,Oklahoma City Thunder,Detroit Pistons,0.404833972,0.595166028
+Wed Mar 4 2020,7:00p,Indiana Pacers,Milwaukee Bucks,0.816168368,0.183831647
+Wed Mar 4 2020,7:30p,Memphis Grizzlies,Brooklyn Nets,0.536985338,0.463014662
+Wed Mar 4 2020,7:30p,Utah Jazz,New York Knicks,0.766610026,0.233389974
+Wed Mar 4 2020,7:30p,Orlando Magic,Miami Heat,0.336980373,0.663019657
+Wed Mar 4 2020,8:00p,Chicago Bulls,Minnesota Timberwolves,0.663579285,0.336420745
+Wed Mar 4 2020,9:30p,New Orleans Pelicans,Dallas Mavericks,0.688219845,0.311780095
+Wed Mar 4 2020,10:00p,Washington Wizards,Portland Trail Blazers,0.651440799,0.34855929
+Thu Mar 5 2020,7:00p,Denver Nuggets,Charlotte Hornets,0.36981082,0.63018918
+Thu Mar 5 2020,8:00p,Los Angeles Clippers,Houston Rockets,0.683059931,0.316940039
+Thu Mar 5 2020,10:00p,Philadelphia 76ers,Sacramento Kings,0.518459857,0.481540173
+Thu Mar 5 2020,10:30p,Toronto Raptors,Golden State Warriors,0.301598817,0.698401213
+Fri Mar 6 2020,7:00p,Atlanta Hawks,Washington Wizards,0.698556662,0.301443279
+Fri Mar 6 2020,7:30p,San Antonio Spurs,Brooklyn Nets,0.546167254,0.453832716
+Fri Mar 6 2020,7:30p,Oklahoma City Thunder,New York Knicks,0.368781954,0.631217957
+Fri Mar 6 2020,8:00p,Indiana Pacers,Chicago Bulls,0.681290865,0.318709046
+Fri Mar 6 2020,8:00p,Orlando Magic,Minnesota Timberwolves,0.407083482,0.592916548
+Fri Mar 6 2020,8:00p,Miami Heat,New Orleans Pelicans,0.580142856,0.419857204
+Fri Mar 6 2020,8:00p,Utah Jazz,Boston Celtics,0.435382217,0.564617813
+Fri Mar 6 2020,8:30p,Memphis Grizzlies,Dallas Mavericks,0.720866263,0.279133767
+Fri Mar 6 2020,9:00p,Portland Trail Blazers,Phoenix Suns,0.502865553,0.497134447
+Fri Mar 6 2020,10:30p,Milwaukee Bucks,Los Angeles Lakers,0.565617323,0.434382677
+Sat Mar 7 2020,5:00p,Houston Rockets,Charlotte Hornets,0.305252403,0.694747567
+Sat Mar 7 2020,7:00p,Utah Jazz,Detroit Pistons,0.308682501,0.691317499
+Sat Mar 7 2020,7:30p,Denver Nuggets,Cleveland Cavaliers,0.353574961,0.646425068
+Sat Mar 7 2020,8:00p,Atlanta Hawks,Memphis Grizzlies,0.750415385,0.249584571
+Sat Mar 7 2020,8:30p,Philadelphia 76ers,Golden State Warriors,0.354698181,0.645301878
+Sat Mar 7 2020,10:00p,Sacramento Kings,Portland Trail Blazers,0.65611589,0.343884081
+Sun Mar 8 2020,3:00p,Chicago Bulls,Brooklyn Nets,0.702921093,0.297078937
+Sun Mar 8 2020,3:30p,New Orleans Pelicans,Minnesota Timberwolves,0.55684793,0.4431521
+Sun Mar 8 2020,3:30p,Los Angeles Lakers,Los Angeles Clippers,0.418959856,0.581040084
+Sun Mar 8 2020,6:00p,Oklahoma City Thunder,Boston Celtics,0.657947421,0.342052579
+Sun Mar 8 2020,6:00p,Milwaukee Bucks,Phoenix Suns,0.29863593,0.70136404
+Sun Mar 8 2020,7:00p,Miami Heat,Washington Wizards,0.738033354,0.261966646
+Sun Mar 8 2020,7:00p,Indiana Pacers,Dallas Mavericks,0.766125798,0.233874202
+Sun Mar 8 2020,7:00p,Orlando Magic,Houston Rockets,0.409235269,0.590764701
+Sun Mar 8 2020,7:30p,Detroit Pistons,New York Knicks,0.383036315,0.616963625
+Sun Mar 8 2020,7:30p,San Antonio Spurs,Cleveland Cavaliers,0.477862358,0.522137582
+Sun Mar 8 2020,9:00p,Toronto Raptors,Sacramento Kings,0.414647758,0.585352242
+Mon Mar 9 2020,7:30p,Charlotte Hornets,Atlanta Hawks,0.595901906,0.404098064
+Mon Mar 9 2020,9:00p,Milwaukee Bucks,Denver Nuggets,0.381097972,0.618902028
+Mon Mar 9 2020,9:00p,Toronto Raptors,Utah Jazz,0.537787557,0.462212414
+Tue Mar 10 2020,7:00p,New York Knicks,Washington Wizards,0.658253729,0.341746211
+Tue Mar 10 2020,7:00p,Boston Celtics,Indiana Pacers,0.734764636,0.265235364
+Tue Mar 10 2020,8:00p,Minnesota Timberwolves,Houston Rockets,0.576839983,0.423159957
+Tue Mar 10 2020,8:00p,Dallas Mavericks,San Antonio Spurs,0.789746761,0.210253254
+Tue Mar 10 2020,8:00p,Orlando Magic,Memphis Grizzlies,0.635284424,0.364715636
+Tue Mar 10 2020,8:00p,Cleveland Cavaliers,Chicago Bulls,0.525185347,0.474814653
+Tue Mar 10 2020,10:00p,Phoenix Suns,Portland Trail Blazers,0.610431075,0.389568925
+Tue Mar 10 2020,10:30p,Brooklyn Nets,Los Angeles Lakers,0.31450519,0.685494781
+Tue Mar 10 2020,10:30p,Los Angeles Clippers,Golden State Warriors,0.82523036,0.17476958
+Wed Mar 11 2020,7:00p,Detroit Pistons,Philadelphia 76ers,0.789379895,0.210620165
+Wed Mar 11 2020,7:30p,New York Knicks,Atlanta Hawks,0.673166811,0.326833189
+Wed Mar 11 2020,7:30p,Charlotte Hornets,Miami Heat,0.825819373,0.174180627
+Wed Mar 11 2020,8:00p,Denver Nuggets,Dallas Mavericks,0.677163959,0.322836041
