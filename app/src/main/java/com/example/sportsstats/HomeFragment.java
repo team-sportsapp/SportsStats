@@ -41,6 +41,7 @@ public class HomeFragment extends Fragment {
     TextView textView;
     ListView listView;
     Calendar instanceDate;
+    int i;
 
 
 
@@ -212,6 +213,347 @@ public class HomeFragment extends Fragment {
 
                 //january
                 if(currMonth == 1){
+                    if (x == 1) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j1Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 2) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j2Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 3) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j3Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 4) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j4Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 5) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j5Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 6) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j6Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 7) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j7Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 8) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j8Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 9) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j9Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }if (x == 10) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j10Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 11) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j11Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 12) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j12Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 13) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j13Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 14) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j14Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 15) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j15Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 16) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j16Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 17) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j17Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 18) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j18Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 19) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j19Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 20) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j20Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 21) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j21Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 22) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j22Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 23) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j23Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 24) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j24Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 25) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j25Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 26) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j26Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 27) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j27Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 28) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j28Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 29) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j29Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 30) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j30Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 31) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                j31Samples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+
 
                 }
 
@@ -604,7 +946,42 @@ public class HomeFragment extends Fragment {
         List<MatchesSample> decemberTenSamples = new ArrayList<>();
         List<MatchesSample> decemberElevenSamples = new ArrayList<>();
         List<MatchesSample> decemberFifteenthSamples = new ArrayList<>();
+
+
         //january
+        List<MatchesSample> j1Samples = new ArrayList<>();
+        List<MatchesSample> j2Samples = new ArrayList<>();
+        List<MatchesSample> j3Samples = new ArrayList<>();
+        List<MatchesSample> j4Samples = new ArrayList<>();
+        List<MatchesSample> j5Samples = new ArrayList<>();
+        List<MatchesSample> j6Samples = new ArrayList<>();
+        List<MatchesSample> j7Samples = new ArrayList<>();
+        List<MatchesSample> j8Samples = new ArrayList<>();
+        List<MatchesSample> j9Samples = new ArrayList<>();
+        List<MatchesSample> j10Samples = new ArrayList<>();
+        List<MatchesSample> j11Samples = new ArrayList<>();
+        List<MatchesSample> j12Samples = new ArrayList<>();
+        List<MatchesSample> j13Samples = new ArrayList<>();
+        List<MatchesSample> j14Samples = new ArrayList<>();
+        List<MatchesSample> j15Samples = new ArrayList<>();
+        List<MatchesSample> j16Samples = new ArrayList<>();
+        List<MatchesSample> j17Samples = new ArrayList<>();
+        List<MatchesSample> j18Samples = new ArrayList<>();
+        List<MatchesSample> j19Samples = new ArrayList<>();
+        List<MatchesSample> j20Samples = new ArrayList<>();
+        List<MatchesSample> j21Samples = new ArrayList<>();
+        List<MatchesSample> j22Samples = new ArrayList<>();
+        List<MatchesSample> j23Samples = new ArrayList<>();
+        List<MatchesSample> j24Samples = new ArrayList<>();
+        List<MatchesSample> j25Samples = new ArrayList<>();
+        List<MatchesSample> j26Samples = new ArrayList<>();
+        List<MatchesSample> j27Samples = new ArrayList<>();
+        List<MatchesSample> j28Samples = new ArrayList<>();
+        List<MatchesSample> j29Samples = new ArrayList<>();
+        List<MatchesSample> j30Samples = new ArrayList<>();
+        List<MatchesSample> j31Samples = new ArrayList<>();
+
+
 
         //february
         List<MatchesSample> febOneSamples = new ArrayList<>();
@@ -629,7 +1006,6 @@ public class HomeFragment extends Fragment {
         List<MatchesSample> feb26Samples = new ArrayList<>();
         List<MatchesSample> feb27Samples = new ArrayList<>();
         List<MatchesSample> feb28Samples = new ArrayList<>();
-
 
 
         //march
@@ -715,6 +1091,304 @@ public class HomeFragment extends Fragment {
                     decemberFifteen.setAwayWin(tokens[5]);
                     decemberFifteenthSamples.add(decemberFifteen);
                 }
+
+
+                //***********JANUARY*************
+                MatchesSample j1 = new MatchesSample();
+                if (tokens[0].contains("Jan 1 2020")) {
+                    j1.setDate(tokens[0]);
+                    j1.setTime(tokens[1]);
+                    j1.setAway(tokens[2]);
+                    j1.setHome(tokens[3]);
+                    j1.setHomeWin(tokens[4]);
+                    j1.setAwayWin(tokens[5]);
+                    j1Samples.add(j1);
+                }
+                MatchesSample j2 = new MatchesSample();
+                if (tokens[0].contains("Jan 2 2020")) {
+                    j2.setDate(tokens[0]);
+                    j2.setTime(tokens[1]);
+                    j2.setAway(tokens[2]);
+                    j2.setHome(tokens[3]);
+                    j2.setHomeWin(tokens[4]);
+                    j2.setAwayWin(tokens[5]);
+                    j2Samples.add(j2);
+                }
+                MatchesSample j3 = new MatchesSample();
+                if (tokens[0].contains("Jan 3 2020")) {
+                    j3.setDate(tokens[0]);
+                    j3.setTime(tokens[1]);
+                    j3.setAway(tokens[2]);
+                    j3.setHome(tokens[3]);
+                    j3.setHomeWin(tokens[4]);
+                    j3.setAwayWin(tokens[5]);
+                    j3Samples.add(j3);
+                }
+                MatchesSample j4 = new MatchesSample();
+                if (tokens[0].contains("Jan 4 2020")) {
+                    j4.setDate(tokens[0]);
+                    j4.setTime(tokens[1]);
+                    j4.setAway(tokens[2]);
+                    j4.setHome(tokens[3]);
+                    j4.setHomeWin(tokens[4]);
+                    j4.setAwayWin(tokens[5]);
+                    j4Samples.add(j4);
+                }MatchesSample j5 = new MatchesSample();
+                if (tokens[0].contains("Jan 5 2020")) {
+                    j5.setDate(tokens[0]);
+                    j5.setTime(tokens[1]);
+                    j5.setAway(tokens[2]);
+                    j5.setHome(tokens[3]);
+                    j5.setHomeWin(tokens[4]);
+                    j5.setAwayWin(tokens[5]);
+                    j5Samples.add(j5);
+                }MatchesSample j6 = new MatchesSample();
+                if (tokens[0].contains("Jan 6 2020")) {
+                    j6.setDate(tokens[0]);
+                    j6.setTime(tokens[1]);
+                    j6.setAway(tokens[2]);
+                    j6.setHome(tokens[3]);
+                    j6.setHomeWin(tokens[4]);
+                    j6.setAwayWin(tokens[5]);
+                    j6Samples.add(j6);
+                }
+                MatchesSample j7 = new MatchesSample();
+                if (tokens[0].contains("Jan 7 2020")) {
+                    j7.setDate(tokens[0]);
+                    j7.setTime(tokens[1]);
+                    j7.setAway(tokens[2]);
+                    j7.setHome(tokens[3]);
+                    j7.setHomeWin(tokens[4]);
+                    j7.setAwayWin(tokens[5]);
+                    j7Samples.add(j7);
+                }
+                MatchesSample j8 = new MatchesSample();
+                if (tokens[0].contains("Jan 8 2020")) {
+                    j8.setDate(tokens[0]);
+                    j8.setTime(tokens[1]);
+                    j8.setAway(tokens[2]);
+                    j8.setHome(tokens[3]);
+                    j8.setHomeWin(tokens[4]);
+                    j8.setAwayWin(tokens[5]);
+                    j8Samples.add(j8);
+                }
+                MatchesSample j9 = new MatchesSample();
+                if (tokens[0].contains("Jan 9 2020")) {
+                    j9.setDate(tokens[0]);
+                    j9.setTime(tokens[1]);
+                    j9.setAway(tokens[2]);
+                    j9.setHome(tokens[3]);
+                    j9.setHomeWin(tokens[4]);
+                    j9.setAwayWin(tokens[5]);
+                    j9Samples.add(j9);
+                }
+                MatchesSample j10 = new MatchesSample();
+                if (tokens[0].contains("Jan 10 2020")) {
+                    j10.setDate(tokens[0]);
+                    j10.setTime(tokens[1]);
+                    j10.setAway(tokens[2]);
+                    j10.setHome(tokens[3]);
+                    j10.setHomeWin(tokens[4]);
+                    j10.setAwayWin(tokens[5]);
+                    j10Samples.add(j10);
+                }MatchesSample j11 = new MatchesSample();
+                if (tokens[0].contains("Jan 11 2020")) {
+                    j11.setDate(tokens[0]);
+                    j11.setTime(tokens[1]);
+                    j11.setAway(tokens[2]);
+                    j11.setHome(tokens[3]);
+                    j11.setHomeWin(tokens[4]);
+                    j11.setAwayWin(tokens[5]);
+                    j11Samples.add(j11);
+                }MatchesSample j12 = new MatchesSample();
+                if (tokens[0].contains("Jan 12 2020")) {
+                    j12.setDate(tokens[0]);
+                    j12.setTime(tokens[1]);
+                    j12.setAway(tokens[2]);
+                    j12.setHome(tokens[3]);
+                    j12.setHomeWin(tokens[4]);
+                    j12.setAwayWin(tokens[5]);
+                    j12Samples.add(j12);
+                }MatchesSample j13 = new MatchesSample();
+                if (tokens[0].contains("Jan 13 2020")) {
+                    j13.setDate(tokens[0]);
+                    j13.setTime(tokens[1]);
+                    j13.setAway(tokens[2]);
+                    j13.setHome(tokens[3]);
+                    j13.setHomeWin(tokens[4]);
+                    j13.setAwayWin(tokens[5]);
+                    j13Samples.add(j13);
+                }MatchesSample j14 = new MatchesSample();
+                if (tokens[0].contains("Jan 14 2020")) {
+                    j14.setDate(tokens[0]);
+                    j14.setTime(tokens[1]);
+                    j14.setAway(tokens[2]);
+                    j14.setHome(tokens[3]);
+                    j14.setHomeWin(tokens[4]);
+                    j14.setAwayWin(tokens[5]);
+                    j14Samples.add(j14);
+                }MatchesSample j15 = new MatchesSample();
+                if (tokens[0].contains("Jan 15 2020")) {
+                    j15.setDate(tokens[0]);
+                    j15.setTime(tokens[1]);
+                    j15.setAway(tokens[2]);
+                    j15.setHome(tokens[3]);
+                    j15.setHomeWin(tokens[4]);
+                    j15.setAwayWin(tokens[5]);
+                    j15Samples.add(j15);
+                }MatchesSample j16 = new MatchesSample();
+                if (tokens[0].contains("Jan 16 2020")) {
+                    j16.setDate(tokens[0]);
+                    j16.setTime(tokens[1]);
+                    j16.setAway(tokens[2]);
+                    j16.setHome(tokens[3]);
+                    j16.setHomeWin(tokens[4]);
+                    j16.setAwayWin(tokens[5]);
+                    j16Samples.add(j16);
+                }
+                MatchesSample j17 = new MatchesSample();
+                if (tokens[0].contains("Jan 17 2020")) {
+                    j17.setDate(tokens[0]);
+                    j17.setTime(tokens[1]);
+                    j17.setAway(tokens[2]);
+                    j17.setHome(tokens[3]);
+                    j17.setHomeWin(tokens[4]);
+                    j17.setAwayWin(tokens[5]);
+                    j17Samples.add(j17);
+                }MatchesSample j18 = new MatchesSample();
+                if (tokens[0].contains("Jan 18 2020")) {
+                    j18.setDate(tokens[0]);
+                    j18.setTime(tokens[1]);
+                    j18.setAway(tokens[2]);
+                    j18.setHome(tokens[3]);
+                    j18.setHomeWin(tokens[4]);
+                    j18.setAwayWin(tokens[5]);
+                    j18Samples.add(j18);
+                }MatchesSample j19 = new MatchesSample();
+                if (tokens[0].contains("Jan 19 2020")) {
+                    j19.setDate(tokens[0]);
+                    j19.setTime(tokens[1]);
+                    j19.setAway(tokens[2]);
+                    j19.setHome(tokens[3]);
+                    j19.setHomeWin(tokens[4]);
+                    j19.setAwayWin(tokens[5]);
+                    j19Samples.add(j19);
+                }MatchesSample j20  = new MatchesSample();
+                if (tokens[0].contains("Jan 20 2020")) {
+                    j20.setDate(tokens[0]);
+                    j20.setTime(tokens[1]);
+                    j20.setAway(tokens[2]);
+                    j20.setHome(tokens[3]);
+                    j20.setHomeWin(tokens[4]);
+                    j20.setAwayWin(tokens[5]);
+                    j20Samples.add(j20);
+                }MatchesSample j21 = new MatchesSample();
+                if (tokens[0].contains("Jan 21 2020")) {
+                    j21.setDate(tokens[0]);
+                    j21.setTime(tokens[1]);
+                    j21.setAway(tokens[2]);
+                    j21.setHome(tokens[3]);
+                    j21.setHomeWin(tokens[4]);
+                    j21.setAwayWin(tokens[5]);
+                    j21Samples.add(j21);
+                }
+                MatchesSample j22 = new MatchesSample();
+                if (tokens[0].contains("Jan 22 2020")) {
+                    j22.setDate(tokens[0]);
+                    j22.setTime(tokens[1]);
+                    j22.setAway(tokens[2]);
+                    j22.setHome(tokens[3]);
+                    j22.setHomeWin(tokens[4]);
+                    j22.setAwayWin(tokens[5]);
+                    j22Samples.add(j22);
+                }MatchesSample j23 = new MatchesSample();
+                if (tokens[0].contains("Jan 23 2020")) {
+                    j23.setDate(tokens[0]);
+                    j23.setTime(tokens[1]);
+                    j23.setAway(tokens[2]);
+                    j23.setHome(tokens[3]);
+                    j23.setHomeWin(tokens[4]);
+                    j23.setAwayWin(tokens[5]);
+                    j23Samples.add(j23);
+                }
+                MatchesSample j24   = new MatchesSample();
+                if (tokens[0].contains("Jan 24 2020")) {
+                    j24.setDate(tokens[0]);
+                    j24.setTime(tokens[1]);
+                    j24.setAway(tokens[2]);
+                    j24.setHome(tokens[3]);
+                    j24.setHomeWin(tokens[4]);
+                    j24.setAwayWin(tokens[5]);
+                    j24Samples.add(j24);
+                }MatchesSample j25 = new MatchesSample();
+                if (tokens[0].contains("Jan 25 2020")) {
+                    j25.setDate(tokens[0]);
+                    j25.setTime(tokens[1]);
+                    j25.setAway(tokens[2]);
+                    j25.setHome(tokens[3]);
+                    j25.setHomeWin(tokens[4]);
+                    j25.setAwayWin(tokens[5]);
+                    j25Samples.add(j25);
+                }MatchesSample j26 = new MatchesSample();
+                if (tokens[0].contains("Jan 26 2020")) {
+                    j26.setDate(tokens[0]);
+                    j26.setTime(tokens[1]);
+                    j26.setAway(tokens[2]);
+                    j26.setHome(tokens[3]);
+                    j26.setHomeWin(tokens[4]);
+                    j26.setAwayWin(tokens[5]);
+                    j26Samples.add(j26);
+                }
+                MatchesSample j27 = new MatchesSample();
+                if (tokens[0].contains("Jan 27 2020")) {
+                    j27.setDate(tokens[0]);
+                    j27.setTime(tokens[1]);
+                    j27.setAway(tokens[2]);
+                    j27.setHome(tokens[3]);
+                    j27.setHomeWin(tokens[4]);
+                    j27.setAwayWin(tokens[5]);
+                    j27Samples.add(j27);
+                }
+                MatchesSample j28 = new MatchesSample();
+                if (tokens[0].contains("Jan 28 2020")) {
+                    j28.setDate(tokens[0]);
+                    j28.setTime(tokens[1]);
+                    j28.setAway(tokens[2]);
+                    j28.setHome(tokens[3]);
+                    j28.setHomeWin(tokens[4]);
+                    j28.setAwayWin(tokens[5]);
+                    j28Samples.add(j28);
+                }MatchesSample j29 = new MatchesSample();
+                if (tokens[0].contains("Jan 29 2020")) {
+                    j29.setDate(tokens[0]);
+                    j29.setTime(tokens[1]);
+                    j29.setAway(tokens[2]);
+                    j29.setHome(tokens[3]);
+                    j29.setHomeWin(tokens[4]);
+                    j29.setAwayWin(tokens[5]);
+                    j29Samples.add(j29);
+                }MatchesSample j30 = new MatchesSample();
+                if (tokens[0].contains("Jan 30 2020")) {
+                    j30.setDate(tokens[0]);
+                    j30.setTime(tokens[1]);
+                    j30.setAway(tokens[2]);
+                    j30.setHome(tokens[3]);
+                    j30.setHomeWin(tokens[4]);
+                    j30.setAwayWin(tokens[5]);
+                    j30Samples.add(j30);
+                }
+                MatchesSample j31 = new MatchesSample();
+                if (tokens[0].contains("Jan 31 2020")) {
+                    j31.setDate(tokens[0]);
+                    j31.setTime(tokens[1]);
+                    j31.setAway(tokens[2]);
+                    j31.setHome(tokens[3]);
+                    j31.setHomeWin(tokens[4]);
+                    j31.setAwayWin(tokens[5]);
+                    j31Samples.add(j31);
+                }
+
+
                 //***********FEBRUARY************
                 MatchesSample feb1 = new MatchesSample();
                 if (tokens[0].contains("Feb 1 2020")) {
