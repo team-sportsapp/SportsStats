@@ -252,6 +252,28 @@ public class HomeFragment extends Fragment {
 
                 //march
                 if(currMonth == 3){
+                    if (x == 1) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                marchOneSamples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
+                    if (x == 10) {
+                        Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
+                        //arrayadapter
+                        ArrayAdapter<MatchesSample> listViewAdapter = new ArrayAdapter<MatchesSample>(
+                                getActivity(),
+                                android.R.layout.simple_list_item_1,
+                                marchTenSamples
+                        );
+                        //tell list view to use adapter for screen
+                        listView.setAdapter(listViewAdapter);
+                    }
                     if (x == 11) {
                         Log.d("MyActivity", "Date Selected " + userDate  + "\n\n\n\n\n@@@@@@@@@@\n\n");
                         //arrayadapter
@@ -285,6 +307,16 @@ public class HomeFragment extends Fragment {
         //january
         //february
         //march
+        List<MatchesSample> marchOneSamples = new ArrayList<>();
+        List<MatchesSample> marchTwoSamples = new ArrayList<>();
+        List<MatchesSample> marchThreeSamples = new ArrayList<>();
+        List<MatchesSample> marchFourSamples = new ArrayList<>();
+        List<MatchesSample> marchFiveSamples = new ArrayList<>();
+        List<MatchesSample> marchSixSamples = new ArrayList<>();
+        List<MatchesSample> marchSevenSamples = new ArrayList<>();
+        List<MatchesSample> marchEightSamples = new ArrayList<>();
+        List<MatchesSample> marchNineSamples = new ArrayList<>();
+        List<MatchesSample> marchTenSamples = new ArrayList<>();
         List<MatchesSample> marchElevenSamples = new ArrayList<>();
 
 
@@ -358,7 +390,107 @@ public class HomeFragment extends Fragment {
                     decemberFifteenthSamples.add(decemberFifteen);
                 }
 
-                //march
+                //***********MARCH***************
+                MatchesSample marchOne = new MatchesSample();
+                if (tokens[0].contains("Mar 1 2020")) {
+                    marchOne.setDate(tokens[0]);
+                    marchOne.setTime(tokens[1]);
+                    marchOne.setAway(tokens[2]);
+                    marchOne.setHome(tokens[3]);
+                    marchOne.setHomeWin(tokens[4]);
+                    marchOne.setAwayWin(tokens[5]);
+                    marchOneSamples.add(marchOne);
+                }
+                MatchesSample marchTwo = new MatchesSample();
+                if (tokens[0].contains("Mar 2 2020")) {
+                    marchTwo.setDate(tokens[0]);
+                    marchTwo.setTime(tokens[1]);
+                    marchTwo.setAway(tokens[2]);
+                    marchTwo.setHome(tokens[3]);
+                    marchTwo.setHomeWin(tokens[4]);
+                    marchTwo.setAwayWin(tokens[5]);
+                    marchTwoSamples.add(marchTwo);
+                }
+                MatchesSample marchThree = new MatchesSample();
+                if (tokens[0].contains("Mar 3 2020")) {
+                    marchThree.setDate(tokens[0]);
+                    marchThree.setTime(tokens[1]);
+                    marchThree.setAway(tokens[2]);
+                    marchThree.setHome(tokens[3]);
+                    marchThree.setHomeWin(tokens[4]);
+                    marchThree.setAwayWin(tokens[5]);
+                    marchThreeSamples.add(marchThree);
+                }
+                MatchesSample marchFour = new MatchesSample();
+                if (tokens[0].contains("Mar 4 2020")) {
+                    marchFour.setDate(tokens[0]);
+                    marchFour.setTime(tokens[1]);
+                    marchFour.setAway(tokens[2]);
+                    marchFour.setHome(tokens[3]);
+                    marchFour.setHomeWin(tokens[4]);
+                    marchFour.setAwayWin(tokens[5]);
+                    marchFourSamples.add(marchFour);
+                }
+                MatchesSample marchFive = new MatchesSample();
+                if (tokens[0].contains("Mar 5 2020")) {
+                    marchFive.setDate(tokens[0]);
+                    marchFive.setTime(tokens[1]);
+                    marchFive.setAway(tokens[2]);
+                    marchFive.setHome(tokens[3]);
+                    marchFive.setHomeWin(tokens[4]);
+                    marchFive.setAwayWin(tokens[5]);
+                    marchFiveSamples.add(marchFive);
+                }
+                MatchesSample marchSix = new MatchesSample();
+                if (tokens[0].contains("Mar 6 2020")) {
+                    marchSix.setDate(tokens[0]);
+                    marchSix.setTime(tokens[1]);
+                    marchSix.setAway(tokens[2]);
+                    marchSix.setHome(tokens[3]);
+                    marchSix.setHomeWin(tokens[4]);
+                    marchSix.setAwayWin(tokens[5]);
+                    marchSixSamples.add(marchSix);
+                }
+                MatchesSample marchSeven = new MatchesSample();
+                if (tokens[0].contains("Mar 7 2020")) {
+                    marchSeven.setDate(tokens[0]);
+                    marchSeven.setTime(tokens[1]);
+                    marchSeven.setAway(tokens[2]);
+                    marchSeven.setHome(tokens[3]);
+                    marchSeven.setHomeWin(tokens[4]);
+                    marchSeven.setAwayWin(tokens[5]);
+                    marchSevenSamples.add(marchSeven);
+                }
+                MatchesSample marchEight = new MatchesSample();
+                if (tokens[0].contains("Mar 8 2020")) {
+                    marchEight.setDate(tokens[0]);
+                    marchEight.setTime(tokens[1]);
+                    marchEight.setAway(tokens[2]);
+                    marchEight.setHome(tokens[3]);
+                    marchEight.setHomeWin(tokens[4]);
+                    marchEight.setAwayWin(tokens[5]);
+                    marchEightSamples.add(marchEight);
+                }
+                MatchesSample marchNine = new MatchesSample();
+                if (tokens[0].contains("Mar 9 2020")) {
+                    marchNine.setDate(tokens[0]);
+                    marchNine.setTime(tokens[1]);
+                    marchNine.setAway(tokens[2]);
+                    marchNine.setHome(tokens[3]);
+                    marchNine.setHomeWin(tokens[4]);
+                    marchNine.setAwayWin(tokens[5]);
+                    marchNineSamples.add(marchNine);
+                }
+                MatchesSample marchTen = new MatchesSample();
+                if (tokens[0].contains("Mar 10 2020")) {
+                    marchTen.setDate(tokens[0]);
+                    marchTen.setTime(tokens[1]);
+                    marchTen.setAway(tokens[2]);
+                    marchTen.setHome(tokens[3]);
+                    marchTen.setHomeWin(tokens[4]);
+                    marchTen.setAwayWin(tokens[5]);
+                    marchTenSamples.add(marchTen);
+                }
                 MatchesSample marchEleven = new MatchesSample();
                 if (tokens[0].contains("Mar 11 2020")) {
                     marchEleven.setDate(tokens[0]);
