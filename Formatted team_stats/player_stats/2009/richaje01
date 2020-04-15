@@ -1,0 +1,13 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,date,defensive_rebounds,game_score,location,made_field_goals,made_free_throws,made_three_point_field_goals,offensive_rebounds,opponent,outcome,personal_fouls,plus_minus,points_scored,seconds_played,steals,team,turnovers
+0,0,1,0,0,0,2008-11-27,0,-0.7,Location.AWAY,0,0,0,0,Team.WASHINGTON_WIZARDS,Outcome.WIN,0,-4,0,145,0,Team.ORLANDO_MAGIC,0
+1,1,8,2,2,0,2009-01-09,0,1.9,Location.HOME,2,2,1,0,Team.ATLANTA_HAWKS,Outcome.WIN,0,-16,7,886,0,Team.ORLANDO_MAGIC,1
+2,0,3,0,2,0,2009-01-13,1,0.8,Location.AWAY,1,0,1,0,Team.SACRAMENTO_KINGS,Outcome.WIN,2,5,3,394,0,Team.ORLANDO_MAGIC,0
+3,0,3,0,0,0,2009-02-04,1,-0.1,Location.HOME,1,0,0,1,Team.LOS_ANGELES_CLIPPERS,Outcome.WIN,1,-5,2,319,0,Team.ORLANDO_MAGIC,1
+4,0,4,4,2,0,2009-02-18,0,2.8,Location.AWAY,2,1,1,0,Team.NEW_ORLEANS_HORNETS,Outcome.LOSS,0,-5,6,549,0,Team.ORLANDO_MAGIC,0
+5,0,1,0,0,0,2009-02-22,0,-0.7,Location.HOME,0,0,0,0,Team.MIAMI_HEAT,Outcome.WIN,0,2,0,98,0,Team.ORLANDO_MAGIC,0
+6,0,2,0,0,0,2009-02-24,1,-1.1,Location.AWAY,0,0,0,0,Team.CHICAGO_BULLS,Outcome.LOSS,0,-1,0,169,0,Team.ORLANDO_MAGIC,0
+7,0,6,0,5,0,2009-03-11,1,2.9,Location.HOME,2,0,2,0,Team.CHICAGO_BULLS,Outcome.WIN,0,-5,6,543,0,Team.ORLANDO_MAGIC,0
+8,0,1,0,0,0,2009-03-18,3,-0.2,Location.AWAY,0,0,0,0,Team.MILWAUKEE_BUCKS,Outcome.WIN,1,-2,0,174,0,Team.ORLANDO_MAGIC,0
+9,0,1,0,0,0,2009-03-27,0,1.7,Location.HOME,1,0,0,0,Team.MILWAUKEE_BUCKS,Outcome.WIN,0,-5,2,178,0,Team.ORLANDO_MAGIC,0
+10,1,14,0,5,0,2009-04-13,2,-4.5,Location.AWAY,2,0,0,0,Team.MILWAUKEE_BUCKS,Outcome.LOSS,2,-7,4,1483,0,Team.ORLANDO_MAGIC,0
+11,1,5,0,1,0,2009-04-15,4,5.6,Location.HOME,3,0,1,0,Team.CHARLOTTE_BOBCATS,Outcome.WIN,0,3,7,624,0,Team.ORLANDO_MAGIC,1

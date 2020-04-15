@@ -1,0 +1,4 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,date,defensive_rebounds,game_score,location,made_field_goals,made_free_throws,made_three_point_field_goals,offensive_rebounds,opponent,outcome,personal_fouls,plus_minus,points_scored,seconds_played,steals,team,turnovers
+0,0,0,0,0,0,2008-11-09,0,0.0,Location.AWAY,0,0,0,0,Team.LOS_ANGELES_LAKERS,Outcome.LOSS,0,-2,0,148,0,Team.HOUSTON_ROCKETS,0
+1,0,0,0,0,0,2008-11-29,1,0.3,Location.HOME,0,0,0,0,Team.SAN_ANTONIO_SPURS,Outcome.WIN,0,2,0,102,0,Team.HOUSTON_ROCKETS,0
+2,1,2,0,0,0,2008-12-22,0,1.7,Location.AWAY,1,0,0,0,Team.NEW_JERSEY_NETS,Outcome.WIN,0,-2,2,132,0,Team.HOUSTON_ROCKETS,0

@@ -1,0 +1,12 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,date,defensive_rebounds,game_score,location,made_field_goals,made_free_throws,made_three_point_field_goals,offensive_rebounds,opponent,outcome,personal_fouls,plus_minus,points_scored,seconds_played,steals,team,turnovers
+0,0,0,0,0,0,2009-02-20,0,0.0,Location.HOME,0,0,0,0,Team.ATLANTA_HAWKS,Outcome.WIN,0,-2,0,17,0,Team.PORTLAND_TRAIL_BLAZERS,0
+1,0,1,0,0,0,2009-02-22,2,-0.4,Location.HOME,0,0,0,1,Team.LOS_ANGELES_CLIPPERS,Outcome.WIN,0,2,0,204,0,Team.PORTLAND_TRAIL_BLAZERS,1
+2,0,0,0,0,0,2009-02-27,0,-0.4,Location.AWAY,0,0,0,0,Team.MINNESOTA_TIMBERWOLVES,Outcome.WIN,1,-1,0,168,0,Team.PORTLAND_TRAIL_BLAZERS,0
+3,0,2,0,0,0,2009-03-05,0,-1.1,Location.AWAY,0,0,0,1,Team.DENVER_NUGGETS,Outcome.LOSS,1,-1,0,158,0,Team.PORTLAND_TRAIL_BLAZERS,0
+4,0,0,2,0,0,2009-03-15,0,2.0,Location.AWAY,0,2,0,0,Team.ATLANTA_HAWKS,Outcome.LOSS,0,0,2,176,0,Team.PORTLAND_TRAIL_BLAZERS,0
+5,0,1,0,0,0,2009-03-26,0,0.6,Location.HOME,0,0,0,1,Team.PHOENIX_SUNS,Outcome.WIN,1,-4,0,153,1,Team.PORTLAND_TRAIL_BLAZERS,0
+6,0,0,0,0,0,2009-03-28,0,0.6,Location.HOME,0,0,0,0,Team.MEMPHIS_GRIZZLIES,Outcome.WIN,1,0,0,179,1,Team.PORTLAND_TRAIL_BLAZERS,0
+7,0,0,0,0,0,2009-03-31,1,-1.1,Location.HOME,0,0,0,0,Team.UTAH_JAZZ,Outcome.WIN,1,-4,0,159,0,Team.PORTLAND_TRAIL_BLAZERS,1
+8,0,0,0,0,0,2009-04-03,1,2.0,Location.AWAY,0,0,0,1,Team.OKLAHOMA_CITY_THUNDER,Outcome.WIN,0,6,0,194,1,Team.PORTLAND_TRAIL_BLAZERS,0
+9,0,2,0,0,1,2009-04-13,1,4.3,Location.HOME,2,0,0,1,Team.OKLAHOMA_CITY_THUNDER,Outcome.WIN,2,-5,4,382,0,Team.PORTLAND_TRAIL_BLAZERS,0
+10,0,1,0,0,0,2009-04-15,0,0.0,Location.HOME,0,0,0,1,Team.DENVER_NUGGETS,Outcome.WIN,0,-1,0,326,0,Team.PORTLAND_TRAIL_BLAZERS,0

@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,date,defensive_rebounds,game_score,location,made_field_goals,made_free_throws,made_three_point_field_goals,offensive_rebounds,opponent,outcome,personal_fouls,plus_minus,points_scored,seconds_played,steals,team,turnovers
+0,0,0,0,0,0,2009-02-22,0,0.0,Location.AWAY,0,0,0,0,Team.PHOENIX_SUNS,Outcome.WIN,0,0,0,84,0,Team.BOSTON_CELTICS,0
+1,0,3,0,0,0,2009-02-23,1,2.3,Location.AWAY,2,0,0,1,Team.DENVER_NUGGETS,Outcome.WIN,1,1,4,273,0,Team.BOSTON_CELTICS,1
+2,0,0,0,0,0,2009-03-01,0,0.0,Location.HOME,0,0,0,0,Team.DETROIT_PISTONS,Outcome.LOSS,0,0,0,19,0,Team.BOSTON_CELTICS,0
+3,0,0,0,0,0,2009-03-06,0,1.7,Location.HOME,0,0,0,1,Team.CLEVELAND_CAVALIERS,Outcome.WIN,0,0,0,50,1,Team.BOSTON_CELTICS,0
+4,0,0,0,0,0,2009-03-15,0,0.0,Location.AWAY,0,0,0,0,Team.MILWAUKEE_BUCKS,Outcome.LOSS,0,0,0,23,0,Team.BOSTON_CELTICS,0
+5,0,0,0,0,0,2009-03-17,0,0.0,Location.AWAY,0,0,0,0,Team.CHICAGO_BULLS,Outcome.LOSS,0,0,0,8,0,Team.BOSTON_CELTICS,0

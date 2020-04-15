@@ -1,0 +1,17 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,date,defensive_rebounds,game_score,location,made_field_goals,made_free_throws,made_three_point_field_goals,offensive_rebounds,opponent,outcome,personal_fouls,plus_minus,points_scored,seconds_played,steals,team,turnovers
+0,0,0,0,0,0,2008-11-11,0,0.0,Location.AWAY,0,0,0,0,Team.CHICAGO_BULLS,Outcome.WIN,0,0,0,94,0,Team.ATLANTA_HAWKS,0
+1,0,2,0,0,0,2008-11-15,0,1.7,Location.HOME,1,0,0,1,Team.NEW_JERSEY_NETS,Outcome.LOSS,0,3,2,135,0,Team.ATLANTA_HAWKS,0
+2,0,0,2,0,1,2008-11-18,0,-0.9,Location.AWAY,0,0,0,0,Team.INDIANA_PACERS,Outcome.LOSS,2,-3,0,298,0,Team.ATLANTA_HAWKS,0
+3,0,0,0,0,0,2008-11-19,0,0.0,Location.HOME,0,0,0,0,Team.WASHINGTON_WIZARDS,Outcome.WIN,0,3,0,26,0,Team.ATLANTA_HAWKS,0
+4,0,1,0,0,1,2008-11-22,0,3.1,Location.AWAY,1,0,0,1,Team.CLEVELAND_CAVALIERS,Outcome.LOSS,0,2,2,144,0,Team.ATLANTA_HAWKS,0
+5,0,1,2,0,1,2009-01-09,1,0.8,Location.AWAY,0,0,0,1,Team.ORLANDO_MAGIC,Outcome.LOSS,1,7,0,648,1,Team.ATLANTA_HAWKS,0
+6,0,1,0,0,0,2009-01-14,0,1.7,Location.AWAY,1,0,0,0,Team.LOS_ANGELES_CLIPPERS,Outcome.WIN,0,2,2,52,0,Team.ATLANTA_HAWKS,0
+7,0,1,0,0,0,2009-01-23,3,0.2,Location.HOME,0,0,0,0,Team.MILWAUKEE_BUCKS,Outcome.WIN,0,4,0,463,0,Team.ATLANTA_HAWKS,0
+8,0,1,0,0,0,2009-01-25,0,-0.7,Location.HOME,0,0,0,0,Team.PHOENIX_SUNS,Outcome.LOSS,0,-2,0,64,0,Team.ATLANTA_HAWKS,0
+9,0,0,0,0,0,2009-01-30,0,0.0,Location.HOME,0,0,0,0,Team.NEW_JERSEY_NETS,Outcome.WIN,0,0,0,72,0,Team.ATLANTA_HAWKS,0
+10,0,0,0,0,0,2009-03-21,0,1.4,Location.AWAY,0,0,0,2,Team.CLEVELAND_CAVALIERS,Outcome.LOSS,0,6,0,103,0,Team.ATLANTA_HAWKS,0
+11,0,0,0,0,0,2009-03-23,0,-0.4,Location.HOME,0,0,0,0,Team.MINNESOTA_TIMBERWOLVES,Outcome.WIN,1,-10,0,127,0,Team.ATLANTA_HAWKS,0
+12,0,0,0,0,0,2009-03-31,0,0.0,Location.AWAY,0,0,0,0,Team.PHILADELPHIA_76ERS,Outcome.LOSS,0,0,0,75,0,Team.ATLANTA_HAWKS,0
+13,0,0,0,0,0,2009-04-03,0,0.0,Location.AWAY,0,0,0,0,Team.BOSTON_CELTICS,Outcome.LOSS,0,5,0,161,0,Team.ATLANTA_HAWKS,0
+14,1,6,1,0,1,2009-04-14,5,7.4,Location.HOME,4,0,0,1,Team.MIAMI_HEAT,Outcome.WIN,3,14,8,1390,1,Team.ATLANTA_HAWKS,1
+15,0,7,0,0,1,2009-04-15,6,6.7,Location.AWAY,4,0,0,3,Team.MEMPHIS_GRIZZLIES,Outcome.LOSS,4,-8,8,1642,0,Team.ATLANTA_HAWKS,1

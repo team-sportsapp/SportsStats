@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,date,defensive_rebounds,game_score,location,made_field_goals,made_free_throws,made_three_point_field_goals,offensive_rebounds,opponent,outcome,personal_fouls,plus_minus,points_scored,seconds_played,steals,team,turnovers
+0,1,2,2,0,0,2009-04-14,0,-0.5,Location.HOME,0,1,0,0,Team.MIAMI_HEAT,Outcome.WIN,1,6,1,428,0,Team.ATLANTA_HAWKS,0
+1,2,5,0,0,0,2009-04-15,0,2.7,Location.AWAY,2,0,0,0,Team.MEMPHIS_GRIZZLIES,Outcome.LOSS,0,-11,4,477,0,Team.ATLANTA_HAWKS,0

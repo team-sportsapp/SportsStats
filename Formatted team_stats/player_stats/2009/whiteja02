@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,date,defensive_rebounds,game_score,location,made_field_goals,made_free_throws,made_three_point_field_goals,offensive_rebounds,opponent,outcome,personal_fouls,plus_minus,points_scored,seconds_played,steals,team,turnovers
+0,1,2,0,1,1,2009-03-20,0,3.0,Location.HOME,2,0,1,0,Team.MINNESOTA_TIMBERWOLVES,Outcome.WIN,2,-4,5,222,1,Team.HOUSTON_ROCKETS,3
+1,0,1,0,0,0,2009-03-24,0,1.7,Location.AWAY,1,0,0,0,Team.UTAH_JAZZ,Outcome.LOSS,0,2,2,93,0,Team.HOUSTON_ROCKETS,0
+2,0,1,0,0,0,2009-03-28,0,-0.7,Location.HOME,0,0,0,0,Team.LOS_ANGELES_CLIPPERS,Outcome.WIN,0,-7,0,269,0,Team.HOUSTON_ROCKETS,0
+3,0,1,0,1,0,2009-04-03,0,-0.7,Location.AWAY,0,0,0,0,Team.LOS_ANGELES_LAKERS,Outcome.LOSS,0,0,0,88,0,Team.HOUSTON_ROCKETS,0

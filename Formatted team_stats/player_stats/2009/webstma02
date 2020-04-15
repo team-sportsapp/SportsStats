@@ -1,0 +1,2 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,date,defensive_rebounds,game_score,location,made_field_goals,made_free_throws,made_three_point_field_goals,offensive_rebounds,opponent,outcome,personal_fouls,plus_minus,points_scored,seconds_played,steals,team,turnovers
+0,0,1,0,1,0,2008-12-07,0,-0.7,Location.AWAY,0,0,0,0,Team.TORONTO_RAPTORS,Outcome.WIN,0,-6,0,315,0,Team.PORTLAND_TRAIL_BLAZERS,0

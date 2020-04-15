@@ -1,0 +1,12 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,date,defensive_rebounds,game_score,location,made_field_goals,made_free_throws,made_three_point_field_goals,offensive_rebounds,opponent,outcome,personal_fouls,plus_minus,points_scored,seconds_played,steals,team,turnovers
+0,0,9,1,3,1,2008-10-29,2,9.2,Location.HOME,5,1,0,0,Team.LOS_ANGELES_LAKERS,Outcome.LOSS,2,-24,11,1657,2,Team.LOS_ANGELES_CLIPPERS,0
+1,3,18,4,4,0,2008-10-31,2,5.3,Location.HOME,5,3,1,4,Team.DENVER_NUGGETS,Outcome.LOSS,3,-14,14,2364,3,Team.LOS_ANGELES_CLIPPERS,5
+2,0,16,1,2,0,2008-11-01,1,9.5,Location.AWAY,9,1,1,2,Team.UTAH_JAZZ,Outcome.LOSS,4,-13,20,1818,0,Team.LOS_ANGELES_CLIPPERS,3
+3,1,15,0,4,0,2008-11-03,0,-1.0,Location.HOME,4,0,2,2,Team.UTAH_JAZZ,Outcome.LOSS,3,-7,10,2222,0,Team.LOS_ANGELES_CLIPPERS,3
+4,2,11,1,5,0,2008-11-05,1,5.0,Location.AWAY,4,1,2,0,Team.LOS_ANGELES_LAKERS,Outcome.LOSS,4,-4,11,2331,1,Team.LOS_ANGELES_CLIPPERS,1
+5,0,6,0,1,0,2008-11-07,1,-1.9,Location.HOME,2,0,0,0,Team.HOUSTON_ROCKETS,Outcome.LOSS,2,-12,4,1282,0,Team.LOS_ANGELES_CLIPPERS,2
+6,1,8,5,3,0,2008-11-09,2,5.3,Location.HOME,3,3,2,0,Team.DALLAS_MAVERICKS,Outcome.WIN,2,-4,11,1982,0,Team.LOS_ANGELES_CLIPPERS,1
+7,2,8,2,3,0,2008-11-12,4,9.2,Location.HOME,4,1,1,0,Team.SACRAMENTO_KINGS,Outcome.LOSS,0,-8,10,1836,1,Team.LOS_ANGELES_CLIPPERS,0
+8,2,17,2,4,0,2008-11-15,2,12.6,Location.HOME,8,2,1,1,Team.GOLDEN_STATE_WARRIORS,Outcome.LOSS,1,-10,19,2151,1,Team.LOS_ANGELES_CLIPPERS,1
+9,1,18,0,3,1,2008-11-17,3,10.9,Location.HOME,8,0,2,0,Team.SAN_ANTONIO_SPURS,Outcome.LOSS,0,2,18,2172,0,Team.LOS_ANGELES_CLIPPERS,0
+10,0,20,2,3,0,2008-11-19,2,18.6,Location.AWAY,11,1,0,0,Team.OKLAHOMA_CITY_THUNDER,Outcome.WIN,0,27,23,2062,7,Team.LOS_ANGELES_CLIPPERS,2

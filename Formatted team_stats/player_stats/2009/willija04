@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,date,defensive_rebounds,game_score,location,made_field_goals,made_free_throws,made_three_point_field_goals,offensive_rebounds,opponent,outcome,personal_fouls,plus_minus,points_scored,seconds_played,steals,team,turnovers
+0,0,1,0,0,0,2008-12-12,0,1.7,Location.HOME,1,0,0,0,Team.PHILADELPHIA_76ERS,Outcome.WIN,0,0,2,61,0,Team.CLEVELAND_CAVALIERS,0
+1,0,0,0,0,0,2008-12-17,0,1.0,Location.AWAY,0,0,0,0,Team.MINNESOTA_TIMBERWOLVES,Outcome.WIN,0,4,0,99,1,Team.CLEVELAND_CAVALIERS,0
+2,0,1,0,0,0,2008-12-19,0,-0.7,Location.AWAY,0,0,0,0,Team.DENVER_NUGGETS,Outcome.WIN,0,0,0,91,0,Team.CLEVELAND_CAVALIERS,0
+3,0,1,0,1,0,2009-01-13,0,-0.7,Location.AWAY,0,0,0,0,Team.MEMPHIS_GRIZZLIES,Outcome.WIN,0,-4,0,79,0,Team.CLEVELAND_CAVALIERS,0
+4,0,0,0,0,0,2009-01-16,0,0.0,Location.HOME,0,0,0,0,Team.NEW_ORLEANS_HORNETS,Outcome.WIN,0,0,0,21,0,Team.CLEVELAND_CAVALIERS,0
+5,0,0,0,0,0,2009-01-19,0,0.0,Location.AWAY,0,0,0,0,Team.LOS_ANGELES_LAKERS,Outcome.LOSS,0,-2,0,69,0,Team.CLEVELAND_CAVALIERS,0
+6,0,0,0,0,0,2009-01-23,0,0.0,Location.AWAY,0,0,0,0,Team.GOLDEN_STATE_WARRIORS,Outcome.WIN,0,-3,0,5,0,Team.CLEVELAND_CAVALIERS,0
+7,0,0,0,0,0,2009-01-29,0,0.0,Location.AWAY,0,0,0,0,Team.ORLANDO_MAGIC,Outcome.LOSS,0,3,0,81,0,Team.CLEVELAND_CAVALIERS,0
+8,0,3,0,0,0,2009-01-30,0,-0.1,Location.HOME,1,0,0,0,Team.LOS_ANGELES_CLIPPERS,Outcome.WIN,1,-2,2,121,0,Team.CLEVELAND_CAVALIERS,0
+9,0,6,0,5,0,2009-04-15,1,4.6,Location.HOME,3,0,2,1,Team.PHILADELPHIA_76ERS,Outcome.LOSS,1,7,8,590,0,Team.CLEVELAND_CAVALIERS,1

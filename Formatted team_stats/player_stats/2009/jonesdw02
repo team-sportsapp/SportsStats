@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,date,defensive_rebounds,game_score,location,made_field_goals,made_free_throws,made_three_point_field_goals,offensive_rebounds,opponent,outcome,personal_fouls,plus_minus,points_scored,seconds_played,steals,team,turnovers
+0,0,0,2,0,0,2008-11-29,1,-0.9,Location.HOME,0,1,0,0,Team.BOSTON_CELTICS,Outcome.LOSS,2,2,1,799,0,Team.CHARLOTTE_BOBCATS,1
+1,0,1,2,0,0,2008-12-01,1,1.5,Location.HOME,1,1,0,1,Team.MINNESOTA_TIMBERWOLVES,Outcome.WIN,2,0,3,438,0,Team.CHARLOTTE_BOBCATS,1
+2,0,2,2,0,0,2008-12-03,0,2.6,Location.HOME,1,2,0,0,Team.OKLAHOMA_CITY_THUNDER,Outcome.WIN,1,-5,4,357,0,Team.CHARLOTTE_BOBCATS,0
+3,0,3,0,0,1,2008-12-06,4,1.6,Location.HOME,1,0,0,2,Team.CLEVELAND_CAVALIERS,Outcome.LOSS,0,7,2,1054,0,Team.CHARLOTTE_BOBCATS,2
+4,0,1,0,0,0,2008-12-08,0,3.1,Location.AWAY,1,0,0,2,Team.MIAMI_HEAT,Outcome.LOSS,0,3,2,172,0,Team.CHARLOTTE_BOBCATS,0
+5,0,0,0,0,0,2008-12-10,0,0.3,Location.AWAY,0,0,0,1,Team.NEW_ORLEANS_HORNETS,Outcome.LOSS,1,-5,0,328,0,Team.CHARLOTTE_BOBCATS,0
