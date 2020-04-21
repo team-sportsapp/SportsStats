@@ -41,7 +41,7 @@ public class HomeFragment extends Fragment {
     TextView textView;
     ListView listView;
     Calendar instanceDate;
-    int i;
+    //int i;
 
 
 
