@@ -23,7 +23,7 @@ public class TeamsPopupFragment extends Fragment {
 
     public TeamsPopupFragment(){}
 
-    TextView tvtTeamNamePop, tvtGamesPlayedPop, tvtFieldGoalPercentPop, tvtPointsPop, tvtThreePointsMadePop, tvtFreeThrowPercentPop, tvtReboundsPop, tvtAssistsPop, tvtStealsPop, tvtBlocksPop, tvtTurnoversPop;
+    TextView tvtTeamNamePop, tvtGamesPlayedPop, tvtFieldGoalPercentPop,  tvtThreePointsMadePop, tvtPointsPop, tvtFreeThrowPercentPop, tvtReboundsPop, tvtAssistsPop, tvtStealsPop, tvtBlocksPop, tvtTurnoversPop;
     String teamName="";
 
     private static DecimalFormat df = new DecimalFormat("0.00");
@@ -42,59 +42,70 @@ public class TeamsPopupFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.players_popup, container, false);
+        View view = inflater.inflate(R.layout.teams_popup, container, false);
 
 
-        view.setBackgroundColor(Color.DKGRAY);
-        teamName = getArguments().getString("Key");
+        view.setBackgroundColor(Color.WHITE);
+        teamName = getArguments().getString("tKey");
         //textView.setText(key);
 
 
         readTeamDataPop(teamName);
 
-        tvtTeamNamePop.setText(teamName);
-        tvtTeamNamePop.setTextSize(30);
-        tvtTeamNamePop.setTextColor(Color.rgb(0,0,0));
+        TextView tName = (TextView)view.findViewById(R.id.tvtTeamNamePop);
+        tName.setText(teamName);
+        tName.setTextSize(30);
+        tName.setTextColor(Color.rgb(0,0,0));
 
-        tvtGamesPlayedPop.setText("GP: " +gamesPlayed);
-        tvtGamesPlayedPop.setTextSize(20);
-        tvtGamesPlayedPop.setTextColor(Color.rgb(0,0,0));
+        TextView gPlayed = (TextView)view.findViewById(R.id.tvtGamesPlayedPop);
+        gPlayed.setText("GP: " +gamesPlayed);
+        gPlayed.setTextSize(20);
+        gPlayed.setTextColor(Color.rgb(0,0,0));
 
-        tvtFieldGoalPercentPop.setText("FG %: " + String.valueOf(teamFieldGoalPercent));
-        tvtFieldGoalPercentPop.setTextSize(20);
-        tvtFieldGoalPercentPop.setTextColor(Color.rgb(0,0,0));
+        TextView fgPercent = (TextView)view.findViewById(R.id.tvtFieldGoalPercentPop);
+        fgPercent.setText("FG %: " + String.valueOf(teamFieldGoalPercent));
+        fgPercent.setTextSize(20);
+        fgPercent.setTextColor(Color.rgb(0,0,0));
 
-        tvtThreePointsMadePop.setText("3-Pointers: " +String.valueOf(teamThrees));
-        tvtThreePointsMadePop.setTextSize(20);
-        tvtThreePointsMadePop.setTextColor(Color.rgb(0,0,0));
+        TextView tpMade = (TextView)view.findViewById(R.id.tvtThreePointsMadePop);
+        tpMade.setText("3-Pointers: " +String.valueOf(teamThrees));
+        tpMade.setTextSize(20);
+        tpMade.setTextColor(Color.rgb(0,0,0));
 
-        tvtPointsPop.setText("Points: " +String.valueOf(teamPoints));
-        tvtPointsPop.setTextSize(20);
-        tvtPointsPop.setTextColor(Color.rgb(0,0,0));
+        TextView ptsPop = (TextView)view.findViewById(R.id.tvtPointsPop);
+        ptsPop.setText("Points: " +String.valueOf(teamPoints));
+        ptsPop.setTextSize(20);
+        ptsPop.setTextColor(Color.rgb(0,0,0));
 
-        tvtFreeThrowPercentPop.setText("FT %: " +String.valueOf(teamFreeThrowPercent));
-        tvtFreeThrowPercentPop.setTextSize(20);
-        tvtFreeThrowPercentPop.setTextColor(Color.rgb(0,0,0));
+        TextView ftPercent = (TextView)view.findViewById(R.id.tvtFreeThrowPercentPop);
+        ftPercent.setText("FT %: " +String.valueOf(teamFreeThrowPercent));
+        ftPercent.setTextSize(20);
+        ftPercent.setTextColor(Color.rgb(0,0,0));
 
-        tvtReboundsPop.setText("Rebounds: "+String.valueOf(teamRebounds));
-        tvtReboundsPop.setTextSize(20);
-        tvtReboundsPop.setTextColor(Color.rgb(0,0,0));
+        TextView rebPop = (TextView)view.findViewById(R.id.tvtReboundsPop);
+        rebPop.setText("Rebounds: "+String.valueOf(teamRebounds));
+        rebPop.setTextSize(20);
+        rebPop.setTextColor(Color.rgb(0,0,0));
 
-        tvtAssistsPop.setText("Assists: "+String.valueOf(teamAssist));
-        tvtAssistsPop.setTextSize(20);
-        tvtAssistsPop.setTextColor(Color.rgb(0,0,0));
+        TextView assistsPop = (TextView)view.findViewById(R.id.tvtAssistsPop);
+        assistsPop.setText("Assists: "+String.valueOf(teamAssist));
+        assistsPop.setTextSize(20);
+        assistsPop.setTextColor(Color.rgb(0,0,0));
 
-        tvtStealsPop.setText("Steals: "+String.valueOf(teamSteals));
-        tvtStealsPop.setTextSize(20);
-        tvtStealsPop.setTextColor(Color.rgb(0,0,0));
+        TextView stealsPop = (TextView)view.findViewById(R.id.tvtStealsPop);
+        stealsPop.setText("Steals: "+String.valueOf(teamSteals));
+        stealsPop.setTextSize(20);
+        stealsPop.setTextColor(Color.rgb(0,0,0));
 
-        tvtBlocksPop.setText("Blocks: "+String.valueOf(teamBlocks));
-        tvtBlocksPop.setTextSize(20);
-        tvtBlocksPop.setTextColor(Color.rgb(0,0,0));
+        TextView blocksPop = (TextView)view.findViewById(R.id.tvtBlocksPop);
+        blocksPop.setText("Blocks: "+String.valueOf(teamBlocks));
+        blocksPop.setTextSize(20);
+        blocksPop.setTextColor(Color.rgb(0,0,0));
 
-        tvtTurnoversPop.setText("Turnovers: "+String.valueOf(teamTurnovers));
-        tvtTurnoversPop.setTextSize(20);
-        tvtTurnoversPop.setTextColor(Color.rgb(0,0,0));
+        TextView turnPop = (TextView)view.findViewById(R.id.tvtTurnoversPop);
+        turnPop.setText("Turnovers: "+String.valueOf(teamTurnovers));
+        turnPop.setTextSize(20);
+        turnPop.setTextColor(Color.rgb(0,0,0));
 
         return view;
     }

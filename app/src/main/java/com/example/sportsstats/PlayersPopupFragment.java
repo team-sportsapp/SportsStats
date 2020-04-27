@@ -23,7 +23,7 @@ public class PlayersPopupFragment extends Fragment {
 
     public PlayersPopupFragment(){}
 
-    TextView tvPlayerNamePop, tvPositionPop, tvFieldGoalPercentPop, tvPointsPop, tvThreePointMakesPop, tvFreeThrowPercentPop, tvReboundsPop, tvAssistPop, tvStealsPop, tvBlocksPop, tvTurnoversPop;
+    TextView tvPlayerNamePop, tvPositionPop, tvFieldGoalPercentPop, tvThreePointMakesPop, tvPointsPop, tvFreeThrowPercentPop, tvReboundsPop, tvAssistPop, tvStealsPop, tvBlocksPop, tvTurnoversPop;
     String playerName= "";
     String playerPosition= "";
 
@@ -52,57 +52,67 @@ public class PlayersPopupFragment extends Fragment {
         String[] nameArray = key.split(", "); // [Adams, Steven]
         playerName = nameArray[1] + " " + nameArray[0]; // "Steven Adams"
 
-        //readPlayerDataPop(playerName);
+        readPlayerDataPop(playerName);
 
         TextView pName = (TextView)view.findViewById(R.id.tvPlayerNamePop);
         //tvPlayerNamePop = new TextView(getActivity());
         pName.setText(playerName);
         pName.setTextSize(30);
         pName.setTextColor(Color.rgb(0,0,0));
-/*
-        tvPositionPop.setText("Position: " +playerPosition);
-        tvPositionPop.setTextSize(20);
-        tvPositionPop.setTextColor(Color.rgb(0,0,0));
 
-        tvFieldGoalPercentPop.setText("FG %: " + String.valueOf(playerfieldGoalPercent));
-        tvFieldGoalPercentPop.setTextSize(20);
-        tvFieldGoalPercentPop.setTextColor(Color.rgb(0,0,0));
+        TextView posPop = (TextView)view.findViewById(R.id.tvPositionPop);
+        posPop.setText("Position: " +playerPosition);
+        posPop.setTextSize(20);
+        posPop.setTextColor(Color.rgb(0,0,0));
 
-        tvThreePointMakesPop.setText("3-Pointers: " +String.valueOf(playerThrees));
-        tvThreePointMakesPop.setTextSize(20);
-        tvThreePointMakesPop.setTextColor(Color.rgb(0,0,0));
+        TextView fgPercent = (TextView)view.findViewById(R.id.tvFieldGoalPercentPop);
+        fgPercent.setText("FG %: " + String.valueOf(playerfieldGoalPercent));
+        fgPercent.setTextSize(20);
+        fgPercent.setTextColor(Color.rgb(0,0,0));
 
-        tvPointsPop.setText("Points: " +String.valueOf(playerPoints));
-        tvPointsPop.setTextSize(20);
-        tvPointsPop.setTextColor(Color.rgb(0,0,0));
+        TextView tpMakes = (TextView)view.findViewById(R.id.tvThreePointMakesPop);
+        tpMakes.setText("3-Pointers: " +String.valueOf(playerThrees));
+        tpMakes.setTextSize(20);
+        tpMakes.setTextColor(Color.rgb(0,0,0));
 
-        tvFreeThrowPercentPop.setText("FT %: " +String.valueOf(playerFreeThrowPercent));
-        tvFreeThrowPercentPop.setTextSize(20);
-        tvFreeThrowPercentPop.setTextColor(Color.rgb(0,0,0));
+        TextView ptPop = (TextView)view.findViewById(R.id.tvPointsPop);
+        ptPop.setText("Points: " +String.valueOf(playerPoints));
+        ptPop.setTextSize(20);
+        ptPop.setTextColor(Color.rgb(0,0,0));
 
-        tvReboundsPop.setText("Rebounds: "+String.valueOf(playerRebounds));
-        tvReboundsPop.setTextSize(20);
-        tvReboundsPop.setTextColor(Color.rgb(0,0,0));
+        TextView ftPer = (TextView)view.findViewById(R.id.tvFreeThrowPercentPop);
+        ftPer.setText("FT %: " +String.valueOf(playerFreeThrowPercent));
+        ftPer.setTextSize(20);
+        ftPer.setTextColor(Color.rgb(0,0,0));
 
-        tvAssistPop.setText("Assists: "+String.valueOf(playerAssist));
-        tvAssistPop.setTextSize(20);
-        tvAssistPop.setTextColor(Color.rgb(0,0,0));
+        TextView reboundsPop = (TextView)view.findViewById(R.id.tvReboundsPop);
+        reboundsPop.setText("Rebounds: "+String.valueOf(playerRebounds));
+        reboundsPop.setTextSize(20);
+        reboundsPop.setTextColor(Color.rgb(0,0,0));
 
-        tvStealsPop.setText("Steals: "+String.valueOf(playerSteals));
-        tvStealsPop.setTextSize(20);
-        tvStealsPop.setTextColor(Color.rgb(0,0,0));
+        TextView assistPop = (TextView)view.findViewById(R.id.tvAssistPop);
+        assistPop.setText("Assists: "+String.valueOf(playerAssist));
+        assistPop.setTextSize(20);
+        assistPop.setTextColor(Color.rgb(0,0,0));
 
-        tvBlocksPop.setText("Blocks: "+String.valueOf(playerBlocks));
-        tvBlocksPop.setTextSize(20);
-        tvBlocksPop.setTextColor(Color.rgb(0,0,0));
+        TextView stealPop = (TextView)view.findViewById(R.id.tvStealsPop);
+        stealPop.setText("Steals: "+String.valueOf(playerSteals));
+        stealPop.setTextSize(20);
+        stealPop.setTextColor(Color.rgb(0,0,0));
 
-        tvTurnoversPop.setText("Turnovers: "+String.valueOf(playerTurnovers));
-        tvTurnoversPop.setTextSize(20);
-        tvTurnoversPop.setTextColor(Color.rgb(0,0,0));
-*/
+        TextView blockPop = (TextView)view.findViewById(R.id.tvBlocksPop);
+        blockPop.setText("Blocks: "+String.valueOf(playerBlocks));
+        blockPop.setTextSize(20);
+        blockPop.setTextColor(Color.rgb(0,0,0));
+
+        TextView turnPop = (TextView)view.findViewById(R.id.tvTurnoversPop);
+        turnPop.setText("Turnovers: "+String.valueOf(playerTurnovers));
+        turnPop.setTextSize(20);
+        turnPop.setTextColor(Color.rgb(0,0,0));
+
         return view;
     }
-/*
+
     private List<playerSample> playerSamples = new ArrayList<>();
 
     private void readPlayerDataPop(String correctPlayer) {
@@ -186,5 +196,5 @@ public class PlayersPopupFragment extends Fragment {
             e.printStackTrace();
         }
     }
-*/
+
 }

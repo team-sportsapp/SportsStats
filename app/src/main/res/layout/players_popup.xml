@@ -6,13 +6,13 @@
 
     <TextView
         android:id="@+id/tvPlayerNamePop"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="124dp"
-        android:layout_marginLeft="124dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
         android:layout_marginTop="35dp"
         android:gravity="center_horizontal"
         android:text="playerName"
@@ -25,9 +25,9 @@
         android:layout_below="@+id/tvPlayerNamePop"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_marginStart="120dp"
-        android:layout_marginLeft="120dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="35dp"
         android:text="Position"
         android:textSize="20sp"/>
 
@@ -38,9 +38,9 @@
         android:layout_below="@+id/tvPositionPop"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_marginStart="120dp"
-        android:layout_marginLeft="120dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="35dp"
         android:text="FG %"
         android:textSize="20sp"/>
 
@@ -51,9 +51,9 @@
         android:layout_below="@+id/tvFieldGoalPercentPop"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_marginStart="120dp"
-        android:layout_marginLeft="120dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="35dp"
         android:text="Points"
         android:textSize="20sp"/>
 
@@ -64,9 +64,9 @@
         android:layout_below="@+id/tvPointsPop"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_marginStart="120dp"
-        android:layout_marginLeft="120dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginStart="190dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="35dp"
         android:text="3-Pointers"
         android:textSize="20sp"/>
 
@@ -77,9 +77,9 @@
         android:layout_below="@+id/tvThreePointMakesPop"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_marginStart="120dp"
-        android:layout_marginLeft="120dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="35dp"
         android:text="FT %"
         android:textSize="20sp"/>
 
@@ -87,14 +87,14 @@
         android:id="@+id/tvReboundsPop"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/tvFreeThrowPercentPop"
+        android:layout_below="@+id/tvPlayerNamePop"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_marginStart="120dp"
-        android:layout_marginLeft="120dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginStart="190dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="35dp"
         android:text="Rebounds"
-        android:textSize="20sp"/>
+        android:textSize="20sp" />
 
     <TextView
         android:id="@+id/tvAssistPop"
@@ -103,9 +103,9 @@
         android:layout_below="@+id/tvReboundsPop"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_marginStart="120dp"
-        android:layout_marginLeft="120dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginStart="190dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="35dp"
         android:text="Assists"
         android:textSize="20sp"/>
 
@@ -116,9 +116,9 @@
         android:layout_below="@+id/tvAssistPop"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_marginStart="120dp"
-        android:layout_marginLeft="120dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginStart="190dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="35dp"
         android:text="Steals"
         android:textSize="20sp"/>
 
@@ -129,9 +129,9 @@
         android:layout_below="@+id/tvStealsPop"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_marginStart="120dp"
-        android:layout_marginLeft="120dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="35dp"
         android:text="Blocks"
         android:textSize="20sp"/>
 
@@ -142,9 +142,9 @@
         android:layout_below="@+id/tvBlocksPop"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_marginStart="120dp"
-        android:layout_marginLeft="120dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginStart="190dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="35dp"
         android:text="Turnovers"
         android:textSize="20sp"/>
 

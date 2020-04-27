@@ -55,7 +55,7 @@ public class TeamsFragment extends Fragment {
 
                 Fragment teamsPopupFragment = new TeamsPopupFragment();
                 Bundle args = new Bundle();
-                args.putString("Key", teams[i]);
+                args.putString("tKey", teams[i]);
 
                 teamsPopupFragment.setArguments(args);
                 getFragmentManager()

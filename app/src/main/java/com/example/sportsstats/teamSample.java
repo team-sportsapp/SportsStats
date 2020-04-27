@@ -16,8 +16,8 @@ class teamSample {
     public String getTeam(){
         return team;
     }
-    public void setTeam(String player){
-        this.team = player;
+    public void setTeam(String team){
+        this.team = team;
     }
 
     public double getGamesPlayed(){
@@ -93,7 +93,7 @@ class teamSample {
     public String toString() {
         return "playerSample{" +
                 "team='" + team + '\'' +
-                ", gamesPlayed='" + gamesPlayed + '\'' +
+                ", gamesPlayed='" + gamesPlayed  +
                 ", fieldGoalPercent=" + fieldGoalPercent +
                 ", freeThrowpercent=" + freeThrowpercent +
                 ", threePointersPerGame=" + threePointersPerGame +
