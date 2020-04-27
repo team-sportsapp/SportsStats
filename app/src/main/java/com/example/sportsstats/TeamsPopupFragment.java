@@ -130,7 +130,7 @@ public class TeamsPopupFragment extends Fragment {
 
                 //read data
                 teamSample team = new teamSample();
-                reader.readLine();
+                //reader.readLine();
 
                 team.setTeam(tokens[0]);
                 if(correctTeam.equals (tokens[0]))

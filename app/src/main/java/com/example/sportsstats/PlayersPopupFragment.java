@@ -133,7 +133,7 @@ public class PlayersPopupFragment extends Fragment {
 
                 //read data
                 playerSample player = new playerSample();
-                reader.readLine();
+                //reader.readLine();
 
                 player.setPlayer(tokens[0]);
                 if(correctPlayer.equals (tokens[0]))
