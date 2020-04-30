@@ -46,11 +46,11 @@ public class PlayersPopupFragment extends Fragment {
 
         //TextView textView = (TextView)view.findViewById(R.id.tvPlayerNamePop);
         view.setBackgroundColor(Color.WHITE);
-        String key = getArguments().getString("Key"); //ex: key = "Adams, Steven"
+        String playerName = getArguments().getString("Key"); //ex: key = "Adams, Steven"
         //textView.setText(key);
 
-        String[] nameArray = key.split(", "); // [Adams, Steven]
-        playerName = nameArray[1] + " " + nameArray[0]; // "Steven Adams"
+        //String[] nameArray = key.split(", "); // [Adams, Steven]
+        //playerName = nameArray[1] + " " + nameArray[0]; // "Steven Adams"
 
         readPlayerDataPop(playerName);
 
@@ -116,7 +116,7 @@ public class PlayersPopupFragment extends Fragment {
     private List<playerSample> playerSamples = new ArrayList<>();
 
     private void readPlayerDataPop(String correctPlayer) {
-        InputStream is = getResources().openRawResource(R.raw.neweststats);
+        InputStream is = getResources().openRawResource(R.raw.playerstatsas);
         BufferedReader reader = new BufferedReader(
                 new InputStreamReader(is, Charset.forName("UTF-8"))
         );
