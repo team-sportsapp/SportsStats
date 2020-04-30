@@ -18,6 +18,13 @@
         android:text="teamName"
         android:textSize="30sp" />
 
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="360dp"
+        android:background="#007959" />
+
     <TextView
         android:id="@+id/tvtGamesPlayedPop"
         android:layout_width="wrap_content"
@@ -27,7 +34,7 @@
         android:layout_alignParentLeft="true"
         android:layout_marginStart="30dp"
         android:layout_marginLeft="30dp"
-        android:layout_marginTop="35dp"
+        android:layout_marginTop="45dp"
         android:text="GP"
         android:textSize="20sp" />
 
@@ -92,7 +99,7 @@
         android:layout_alignParentLeft="true"
         android:layout_marginStart="190dp"
         android:layout_marginLeft="190dp"
-        android:layout_marginTop="35dp"
+        android:layout_marginTop="45dp"
         android:text="Rebounds"
         android:textSize="20sp" />
 
@@ -152,8 +159,10 @@
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TEAM"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
         android:gravity="center_horizontal"
+        android:text="TEAM"
         android:textSize="15sp" />
 
 </RelativeLayout>
