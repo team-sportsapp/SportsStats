@@ -26,7 +26,7 @@ public class Register extends AppCompatActivity {//test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_register);
+       // setContentView(R.layout.activity_register);
         mpassword = (EditText) findViewById(R.id.etPassword);
         memail = (EditText) findViewById(R.id.etUserName);
         regbtn = findViewById(R.id.regBtn);

@@ -1,0 +1,972 @@
+Date,Start (ET),Visitor/Neutral,Home/Neutral,home_perc,away_perc
+Tue Oct 22 2019,8:00p,New Orleans Pelicans,Toronto Raptors,73.65%,26.35%
+Tue Oct 22 2019,10:30p,Los Angeles Lakers,Los Angeles Clippers,73.15%,26.85%
+Wed Oct 23 2019,7:00p,Chicago Bulls,Charlotte Hornets,77.85%,22.15%
+Wed Oct 23 2019,7:00p,Detroit Pistons,Indiana Pacers,75.69%,24.31%
+Wed Oct 23 2019,7:00p,Cleveland Cavaliers,Orlando Magic,76.62%,23.38%
+Wed Oct 23 2019,7:30p,Minnesota Timberwolves,Brooklyn Nets,67.24%,32.76%
+Wed Oct 23 2019,7:30p,Memphis Grizzlies,Miami Heat,64.79%,35.21%
+Wed Oct 23 2019,7:30p,Boston Celtics,Philadelphia 76ers,62.50%,37.50%
+Wed Oct 23 2019,8:30p,Washington Wizards,Dallas Mavericks,62.15%,37.85%
+Wed Oct 23 2019,8:30p,New York Knicks,San Antonio Spurs,81.34%,18.66%
+Wed Oct 23 2019,9:00p,Oklahoma City Thunder,Utah Jazz,70.97%,29.03%
+Wed Oct 23 2019,10:00p,Sacramento Kings,Phoenix Suns,47.92%,52.08%
+Wed Oct 23 2019,10:00p,Denver Nuggets,Portland Trail Blazers,74.25%,25.75%
+Thu Oct 24 2019,7:00p,Atlanta Hawks,Detroit Pistons,67.19%,32.81%
+Thu Oct 24 2019,8:00p,Milwaukee Bucks,Houston Rockets,57.25%,42.75%
+Thu Oct 24 2019,10:30p,Los Angeles Clippers,Golden State Warriors,61.55%,38.45%
+Fri Oct 25 2019,7:00p,Toronto Raptors,Boston Celtics,49.58%,50.42%
+Fri Oct 25 2019,7:00p,Minnesota Timberwolves,Charlotte Hornets,60.36%,39.64%
+Fri Oct 25 2019,7:30p,New York Knicks,Brooklyn Nets,67.66%,32.34%
+Fri Oct 25 2019,8:00p,Chicago Bulls,Memphis Grizzlies,55.88%,44.12%
+Fri Oct 25 2019,8:00p,Dallas Mavericks,New Orleans Pelicans,44.76%,55.24%
+Fri Oct 25 2019,8:00p,Washington Wizards,Oklahoma City Thunder,63.32%,36.68%
+Fri Oct 25 2019,9:00p,Phoenix Suns,Denver Nuggets,56.72%,43.28%
+Fri Oct 25 2019,10:00p,Portland Trail Blazers,Sacramento Kings,54.38%,45.62%
+Fri Oct 25 2019,10:30p,Utah Jazz,Los Angeles Lakers,36.29%,63.71%
+Sat Oct 26 2019,5:00p,Miami Heat,Milwaukee Bucks,67.97%,32.03%
+Sat Oct 26 2019,7:00p,Philadelphia 76ers,Detroit Pistons,32.20%,67.80%
+Sat Oct 26 2019,7:30p,Orlando Magic,Atlanta Hawks,57.20%,42.80%
+Sat Oct 26 2019,7:30p,Boston Celtics,New York Knicks,32.59%,67.41%
+Sat Oct 26 2019,8:00p,Toronto Raptors,Chicago Bulls,41.41%,58.59%
+Sat Oct 26 2019,8:00p,Indiana Pacers,Cleveland Cavaliers,38.80%,61.20%
+Sat Oct 26 2019,8:00p,New Orleans Pelicans,Houston Rockets,62.73%,37.27%
+Sat Oct 26 2019,8:30p,Washington Wizards,San Antonio Spurs,78.60%,21.40%
+Sat Oct 26 2019,9:00p,Sacramento Kings,Utah Jazz,78.09%,21.91%
+Sat Oct 26 2019,10:00p,Los Angeles Clippers,Phoenix Suns,31.27%,68.73%
+Sun Oct 27 2019,3:30p,Golden State Warriors,Oklahoma City Thunder,44.45%,55.55%
+Sun Oct 27 2019,6:00p,Brooklyn Nets,Memphis Grizzlies,33.48%,66.52%
+Sun Oct 27 2019,7:00p,Portland Trail Blazers,Dallas Mavericks,68.79%,31.21%
+Sun Oct 27 2019,7:00p,Miami Heat,Minnesota Timberwolves,50.03%,49.97%
+Sun Oct 27 2019,9:30p,Charlotte Hornets,Los Angeles Lakers,68.76%,31.24%
+Mon Oct 28 2019,7:00p,Chicago Bulls,New York Knicks,46.82%,53.18%
+Mon Oct 28 2019,7:00p,Indiana Pacers,Detroit Pistons,60.24%,39.76%
+Mon Oct 28 2019,7:30p,Orlando Magic,Toronto Raptors,80.03%,19.97%
+Mon Oct 28 2019,7:30p,Philadelphia 76ers,Atlanta Hawks,47.47%,52.53%
+Mon Oct 28 2019,8:00p,Oklahoma City Thunder,Houston Rockets,70.91%,29.09%
+Mon Oct 28 2019,8:00p,Cleveland Cavaliers,Milwaukee Bucks,77.32%,22.68%
+Mon Oct 28 2019,8:00p,Golden State Warriors,New Orleans Pelicans,50.44%,49.56%
+Mon Oct 28 2019,8:30p,Portland Trail Blazers,San Antonio Spurs,71.70%,28.30%
+Mon Oct 28 2019,10:00p,Utah Jazz,Phoenix Suns,62.45%,37.55%
+Mon Oct 28 2019,10:00p,Denver Nuggets,Sacramento Kings,26.38%,73.62%
+Mon Oct 28 2019,10:30p,Charlotte Hornets,Los Angeles Clippers,82.02%,17.98%
+Tue Oct 29 2019,7:30p,Atlanta Hawks,Miami Heat,55.75%,44.25%
+Tue Oct 29 2019,9:00p,Dallas Mavericks,Denver Nuggets,68.68%,31.32%
+Tue Oct 29 2019,10:30p,Memphis Grizzlies,Los Angeles Lakers,79.52%,20.48%
+Wed Oct 30 2019,7:00p,Chicago Bulls,Cleveland Cavaliers,63.95%,36.05%
+Wed Oct 30 2019,7:00p,New York Knicks,Orlando Magic,77.00%,23.00%
+Wed Oct 30 2019,7:00p,Minnesota Timberwolves,Philadelphia 76ers,64.11%,35.89%
+Wed Oct 30 2019,7:30p,Milwaukee Bucks,Boston Celtics,42.42%,57.58%
+Wed Oct 30 2019,7:30p,Indiana Pacers,Brooklyn Nets,75.48%,24.52%
+Wed Oct 30 2019,7:30p,Detroit Pistons,Toronto Raptors,77.39%,22.61%
+Wed Oct 30 2019,8:00p,Portland Trail Blazers,Oklahoma City Thunder,50.82%,49.18%
+Wed Oct 30 2019,8:00p,Houston Rockets,Washington Wizards,40.35%,59.65%
+Wed Oct 30 2019,10:00p,Charlotte Hornets,Sacramento Kings,41.13%,58.87%
+Wed Oct 30 2019,10:00p,Los Angeles Clippers,Utah Jazz,52.65%,47.35%
+Wed Oct 30 2019,10:30p,Phoenix Suns,Golden State Warriors,60.08%,39.92%
+Thu Oct 31 2019,7:00p,Miami Heat,Atlanta Hawks,40.40%,59.60%
+Thu Oct 31 2019,9:30p,Denver Nuggets,New Orleans Pelicans,38.72%,61.28%
+Thu Oct 31 2019,10:30p,San Antonio Spurs,Los Angeles Clippers,70.90%,29.10%
+Fri Nov 1 2019,7:00p,Houston Rockets,Brooklyn Nets,30.19%,69.81%
+Fri Nov 1 2019,7:00p,Cleveland Cavaliers,Indiana Pacers,55.30%,44.70%
+Fri Nov 1 2019,7:00p,Milwaukee Bucks,Orlando Magic,41.06%,58.94%
+Fri Nov 1 2019,7:30p,New York Knicks,Boston Celtics,83.70%,16.30%
+Fri Nov 1 2019,8:00p,Detroit Pistons,Chicago Bulls,33.49%,66.51%
+Fri Nov 1 2019,9:30p,Los Angeles Lakers,Dallas Mavericks,58.34%,41.66%
+Fri Nov 1 2019,10:00p,Utah Jazz,Sacramento Kings,25.43%,74.57%
+Fri Nov 1 2019,10:30p,San Antonio Spurs,Golden State Warriors,51.98%,48.02%
+Sat Nov 2 2019,5:00p,New Orleans Pelicans,Oklahoma City Thunder,49.39%,50.61%
+Sat Nov 2 2019,7:00p,Brooklyn Nets,Detroit Pistons,41.44%,58.56%
+Sat Nov 2 2019,7:00p,Denver Nuggets,Orlando Magic,45.41%,54.59%
+Sat Nov 2 2019,8:00p,Phoenix Suns,Memphis Grizzlies,37.02%,62.98%
+Sat Nov 2 2019,8:00p,Toronto Raptors,Milwaukee Bucks,60.04%,39.96%
+Sat Nov 2 2019,8:00p,Minnesota Timberwolves,Washington Wizards,42.94%,57.06%
+Sat Nov 2 2019,8:30p,Charlotte Hornets,Golden State Warriors,54.45%,45.55%
+Sat Nov 2 2019,10:00p,Philadelphia 76ers,Portland Trail Blazers,35.94%,64.06%
+Sun Nov 3 2019,5:00p,Chicago Bulls,Indiana Pacers,70.25%,29.75%
+Sun Nov 3 2019,6:00p,Houston Rockets,Miami Heat,69.18%,30.82%
+Sun Nov 3 2019,6:00p,Sacramento Kings,New York Knicks,60.49%,39.51%
+Sun Nov 3 2019,7:00p,Los Angeles Lakers,San Antonio Spurs,66.58%,33.42%
+Sun Nov 3 2019,7:30p,Dallas Mavericks,Cleveland Cavaliers,37.33%,62.67%
+Sun Nov 3 2019,9:00p,Utah Jazz,Los Angeles Clippers,70.94%,29.06%
+Mon Nov 4 2019,7:00p,Detroit Pistons,Washington Wizards,46.15%,53.85%
+Mon Nov 4 2019,7:30p,New Orleans Pelicans,Brooklyn Nets,63.14%,36.86%
+Mon Nov 4 2019,8:00p,Houston Rockets,Memphis Grizzlies,34.55%,65.45%
+Mon Nov 4 2019,8:00p,Milwaukee Bucks,Minnesota Timberwolves,52.42%,47.58%
+Mon Nov 4 2019,9:00p,Philadelphia 76ers,Phoenix Suns,41.58%,58.42%
+Mon Nov 4 2019,10:30p,Portland Trail Blazers,Golden State Warriors,32.67%,67.33%
+Tue Nov 5 2019,7:00p,Indiana Pacers,Charlotte Hornets,53.94%,46.06%
+Tue Nov 5 2019,7:00p,Boston Celtics,Cleveland Cavaliers,34.77%,65.23%
+Tue Nov 5 2019,7:30p,San Antonio Spurs,Atlanta Hawks,40.90%,59.10%
+Tue Nov 5 2019,8:00p,Los Angeles Lakers,Chicago Bulls,31.98%,68.02%
+Tue Nov 5 2019,8:00p,Orlando Magic,Oklahoma City Thunder,68.61%,31.39%
+Tue Nov 5 2019,9:00p,Miami Heat,Denver Nuggets,35.41%,64.59%
+Wed Nov 6 2019,7:00p,New York Knicks,Detroit Pistons,77.26%,22.74%
+Wed Nov 6 2019,7:00p,Washington Wizards,Indiana Pacers,58.14%,41.86%
+Wed Nov 6 2019,7:30p,Chicago Bulls,Atlanta Hawks,70.65%,29.35%
+Wed Nov 6 2019,7:30p,Golden State Warriors,Houston Rockets,72.38%,27.62%
+Wed Nov 6 2019,7:30p,Sacramento Kings,Toronto Raptors,83.73%,16.27%
+Wed Nov 6 2019,8:00p,Minnesota Timberwolves,Memphis Grizzlies,33.91%,66.09%
+Wed Nov 6 2019,8:30p,Orlando Magic,Dallas Mavericks,79.43%,20.57%
+Wed Nov 6 2019,9:00p,Philadelphia 76ers,Utah Jazz,50.66%,49.34%
+Wed Nov 6 2019,10:00p,Milwaukee Bucks,Los Angeles Clippers,46.14%,53.86%
+Thu Nov 7 2019,8:00p,Boston Celtics,Charlotte Hornets,41.03%,58.97%
+Thu Nov 7 2019,8:30p,Oklahoma City Thunder,San Antonio Spurs,74.21%,25.79%
+Thu Nov 7 2019,9:00p,Miami Heat,Phoenix Suns,54.79%,45.21%
+Thu Nov 7 2019,10:30p,Portland Trail Blazers,Los Angeles Clippers,67.00%,33.00%
+Fri Nov 8 2019,7:00p,Detroit Pistons,Indiana Pacers,57.07%,42.93%
+Fri Nov 8 2019,7:00p,Memphis Grizzlies,Orlando Magic,60.30%,39.70%
+Fri Nov 8 2019,7:00p,Cleveland Cavaliers,Washington Wizards,68.58%,31.42%
+Fri Nov 8 2019,7:30p,Sacramento Kings,Atlanta Hawks,65.58%,34.42%
+Fri Nov 8 2019,8:00p,Golden State Warriors,Minnesota Timberwolves,74.65%,25.35%
+Fri Nov 8 2019,8:00p,Toronto Raptors,New Orleans Pelicans,33.01%,66.99%
+Fri Nov 8 2019,8:30p,New York Knicks,Dallas Mavericks,82.07%,17.93%
+Fri Nov 8 2019,9:00p,Philadelphia 76ers,Denver Nuggets,52.77%,47.23%
+Fri Nov 8 2019,9:00p,Milwaukee Bucks,Utah Jazz,37.12%,62.88%
+Fri Nov 8 2019,10:00p,Brooklyn Nets,Portland Trail Blazers,40.91%,59.09%
+Fri Nov 8 2019,10:30p,Miami Heat,Los Angeles Lakers,59.63%,40.37%
+Sat Nov 9 2019,5:00p,Boston Celtics,San Antonio Spurs,50.88%,49.12%
+Sat Nov 9 2019,7:00p,New Orleans Pelicans,Charlotte Hornets,56.09%,43.91%
+Sat Nov 9 2019,8:00p,Houston Rockets,Chicago Bulls,33.52%,66.48%
+Sat Nov 9 2019,8:00p,Dallas Mavericks,Memphis Grizzlies,31.05%,68.95%
+Sat Nov 9 2019,8:00p,Golden State Warriors,Oklahoma City Thunder,70.46%,29.54%
+Sun Nov 10 2019,3:30p,Denver Nuggets,Minnesota Timberwolves,60.52%,39.48%
+Sun Nov 10 2019,6:00p,Indiana Pacers,Orlando Magic,49.29%,50.71%
+Sun Nov 10 2019,6:00p,Charlotte Hornets,Philadelphia 76ers,77.28%,22.72%
+Sun Nov 10 2019,7:00p,Milwaukee Bucks,Oklahoma City Thunder,36.44%,63.56%
+Sun Nov 10 2019,7:30p,Cleveland Cavaliers,New York Knicks,48.96%,51.04%
+Sun Nov 10 2019,8:00p,Brooklyn Nets,Phoenix Suns,49.70%,50.30%
+Sun Nov 10 2019,9:00p,Atlanta Hawks,Portland Trail Blazers,59.68%,40.32%
+Sun Nov 10 2019,9:30p,Toronto Raptors,Los Angeles Lakers,54.99%,45.01%
+Mon Nov 11 2019,7:00p,Minnesota Timberwolves,Detroit Pistons,58.52%,41.48%
+Mon Nov 11 2019,7:30p,Dallas Mavericks,Boston Celtics,74.68%,25.32%
+Mon Nov 11 2019,7:30p,Memphis Grizzlies,San Antonio Spurs,78.23%,21.77%
+Mon Nov 11 2019,8:00p,Houston Rockets,New Orleans Pelicans,31.70%,68.30%
+Mon Nov 11 2019,10:30p,Utah Jazz,Golden State Warriors,37.81%,62.19%
+Mon Nov 11 2019,10:30p,Toronto Raptors,Los Angeles Clippers,42.40%,57.60%
+Tue Nov 12 2019,7:00p,Oklahoma City Thunder,Indiana Pacers,71.85%,28.15%
+Tue Nov 12 2019,7:00p,Cleveland Cavaliers,Philadelphia 76ers,78.26%,21.74%
+Tue Nov 12 2019,7:30p,Detroit Pistons,Miami Heat,78.71%,21.29%
+Tue Nov 12 2019,8:00p,New York Knicks,Chicago Bulls,62.85%,37.15%
+Tue Nov 12 2019,9:00p,Atlanta Hawks,Denver Nuggets,75.03%,24.97%
+Tue Nov 12 2019,9:00p,Los Angeles Lakers,Phoenix Suns,68.39%,31.61%
+Tue Nov 12 2019,9:00p,Brooklyn Nets,Utah Jazz,67.30%,32.70%
+Tue Nov 12 2019,10:00p,Portland Trail Blazers,Sacramento Kings,43.53%,56.47%
+Wed Nov 13 2019,7:00p,Memphis Grizzlies,Charlotte Hornets,54.82%,45.18%
+Wed Nov 13 2019,7:00p,Philadelphia 76ers,Orlando Magic,37.28%,62.72%
+Wed Nov 13 2019,7:30p,Washington Wizards,Boston Celtics,86.02%,13.98%
+Wed Nov 13 2019,7:30p,Los Angeles Clippers,Houston Rockets,74.47%,25.53%
+Wed Nov 13 2019,8:00p,San Antonio Spurs,Minnesota Timberwolves,71.05%,28.95%
+Wed Nov 13 2019,10:00p,Golden State Warriors,Los Angeles Lakers,82.38%,17.62%
+Wed Nov 13 2019,10:00p,Toronto Raptors,Portland Trail Blazers,33.59%,66.41%
+Thu Nov 14 2019,6:00p,Miami Heat,Cleveland Cavaliers,31.66%,68.34%
+Thu Nov 14 2019,8:00p,Chicago Bulls,Milwaukee Bucks,82.78%,17.22%
+Thu Nov 14 2019,8:00p,Los Angeles Clippers,New Orleans Pelicans,47.30%,52.70%
+Thu Nov 14 2019,8:00p,Dallas Mavericks,New York Knicks,27.20%,72.80%
+Thu Nov 14 2019,9:00p,Atlanta Hawks,Phoenix Suns,77.40%,22.60%
+Thu Nov 14 2019,10:30p,Brooklyn Nets,Denver Nuggets,56.35%,43.65%
+Fri Nov 15 2019,7:00p,Detroit Pistons,Charlotte Hornets,37.59%,62.41%
+Fri Nov 15 2019,7:00p,San Antonio Spurs,Orlando Magic,53.09%,46.91%
+Fri Nov 15 2019,8:00p,Indiana Pacers,Houston Rockets,80.41%,19.59%
+Fri Nov 15 2019,8:00p,Utah Jazz,Memphis Grizzlies,43.09%,56.91%
+Fri Nov 15 2019,8:00p,Washington Wizards,Minnesota Timberwolves,82.28%,17.72%
+Fri Nov 15 2019,8:00p,Philadelphia 76ers,Oklahoma City Thunder,50.39%,49.61%
+Fri Nov 15 2019,10:30p,Boston Celtics,Golden State Warriors,23.29%,76.71%
+Fri Nov 15 2019,10:30p,Sacramento Kings,Los Angeles Lakers,82.33%,17.67%
+Sat Nov 16 2019,6:00p,Brooklyn Nets,Chicago Bulls,41.12%,58.88%
+Sat Nov 16 2019,7:00p,Milwaukee Bucks,Indiana Pacers,42.11%,57.89%
+Sat Nov 16 2019,7:30p,Charlotte Hornets,New York Knicks,42.98%,57.02%
+Sat Nov 16 2019,8:00p,New Orleans Pelicans,Miami Heat,81.31%,18.69%
+Sat Nov 16 2019,8:00p,Houston Rockets,Minnesota Timberwolves,38.07%,61.93%
+Sat Nov 16 2019,8:30p,Toronto Raptors,Dallas Mavericks,39.99%,60.01%
+Sat Nov 16 2019,8:30p,Portland Trail Blazers,San Antonio Spurs,69.46%,30.54%
+Sat Nov 16 2019,10:30p,Atlanta Hawks,Los Angeles Clippers,75.17%,24.83%
+Sun Nov 17 2019,3:00p,Philadelphia 76ers,Cleveland Cavaliers,41.89%,58.11%
+Sun Nov 17 2019,3:30p,Boston Celtics,Sacramento Kings,26.00%,74.00%
+Sun Nov 17 2019,6:00p,Denver Nuggets,Memphis Grizzlies,50.53%,49.47%
+Sun Nov 17 2019,6:00p,Washington Wizards,Orlando Magic,61.34%,38.66%
+Sun Nov 17 2019,7:00p,Golden State Warriors,New Orleans Pelicans,72.22%,27.78%
+Sun Nov 17 2019,9:30p,Atlanta Hawks,Los Angeles Lakers,84.64%,15.36%
+Mon Nov 18 2019,7:00p,Cleveland Cavaliers,New York Knicks,54.29%,45.71%
+Mon Nov 18 2019,7:30p,Indiana Pacers,Brooklyn Nets,68.01%,31.99%
+Mon Nov 18 2019,7:30p,Charlotte Hornets,Toronto Raptors,79.81%,20.19%
+Mon Nov 18 2019,8:00p,Milwaukee Bucks,Chicago Bulls,24.85%,75.15%
+Mon Nov 18 2019,8:00p,Portland Trail Blazers,Houston Rockets,83.85%,16.15%
+Mon Nov 18 2019,8:30p,San Antonio Spurs,Dallas Mavericks,75.09%,24.91%
+Mon Nov 18 2019,9:00p,Boston Celtics,Phoenix Suns,53.53%,46.47%
+Mon Nov 18 2019,9:00p,Minnesota Timberwolves,Utah Jazz,68.42%,31.58%
+Mon Nov 18 2019,10:30p,Oklahoma City Thunder,Los Angeles Clippers,76.96%,23.04%
+Tue Nov 19 2019,8:00p,Golden State Warriors,Memphis Grizzlies,69.73%,30.27%
+Tue Nov 19 2019,8:00p,Portland Trail Blazers,New Orleans Pelicans,62.62%,37.38%
+Tue Nov 19 2019,10:00p,Phoenix Suns,Sacramento Kings,33.54%,66.46%
+Tue Nov 19 2019,10:30p,Oklahoma City Thunder,Los Angeles Lakers,82.90%,17.10%
+Wed Nov 20 2019,7:00p,New York Knicks,Philadelphia 76ers,81.07%,18.93%
+Wed Nov 20 2019,7:00p,San Antonio Spurs,Washington Wizards,59.82%,40.18%
+Wed Nov 20 2019,7:30p,Milwaukee Bucks,Atlanta Hawks,22.76%,77.24%
+Wed Nov 20 2019,7:30p,Charlotte Hornets,Brooklyn Nets,67.80%,32.20%
+Wed Nov 20 2019,7:30p,Golden State Warriors,Dallas Mavericks,80.82%,19.18%
+Wed Nov 20 2019,7:30p,Cleveland Cavaliers,Miami Heat,85.27%,14.73%
+Wed Nov 20 2019,7:30p,Orlando Magic,Toronto Raptors,83.75%,16.25%
+Wed Nov 20 2019,8:00p,Detroit Pistons,Chicago Bulls,39.16%,60.84%
+Wed Nov 20 2019,8:00p,Utah Jazz,Minnesota Timberwolves,61.27%,38.73%
+Wed Nov 20 2019,9:00p,Houston Rockets,Denver Nuggets,46.91%,53.09%
+Wed Nov 20 2019,10:00p,Boston Celtics,Los Angeles Clippers,52.03%,47.97%
+Thu Nov 21 2019,8:00p,Portland Trail Blazers,Milwaukee Bucks,85.36%,14.64%
+Thu Nov 21 2019,10:30p,New Orleans Pelicans,Phoenix Suns,64.13%,35.87%
+Fri Nov 22 2019,7:00p,Atlanta Hawks,Detroit Pistons,67.43%,32.57%
+Fri Nov 22 2019,7:00p,Charlotte Hornets,Washington Wizards,69.26%,30.74%
+Fri Nov 22 2019,7:30p,Sacramento Kings,Brooklyn Nets,59.95%,40.05%
+Fri Nov 22 2019,8:00p,Miami Heat,Chicago Bulls,28.39%,71.61%
+Fri Nov 22 2019,8:00p,Los Angeles Lakers,Oklahoma City Thunder,39.11%,60.89%
+Fri Nov 22 2019,8:00p,San Antonio Spurs,Philadelphia 76ers,77.82%,22.18%
+Fri Nov 22 2019,8:30p,Cleveland Cavaliers,Dallas Mavericks,82.69%,17.31%
+Fri Nov 22 2019,9:00p,Boston Celtics,Denver Nuggets,54.44%,45.56%
+Fri Nov 22 2019,9:00p,Golden State Warriors,Utah Jazz,80.05%,19.95%
+Fri Nov 22 2019,10:30p,Houston Rockets,Los Angeles Clippers,54.50%,45.50%
+Sat Nov 23 2019,5:00p,Phoenix Suns,Minnesota Timberwolves,45.95%,54.05%
+Sat Nov 23 2019,7:00p,Chicago Bulls,Charlotte Hornets,54.78%,45.22%
+Sat Nov 23 2019,7:00p,Orlando Magic,Indiana Pacers,74.87%,25.13%
+Sat Nov 23 2019,7:30p,Toronto Raptors,Atlanta Hawks,25.59%,74.41%
+Sat Nov 23 2019,7:30p,San Antonio Spurs,New York Knicks,50.59%,49.41%
+Sat Nov 23 2019,7:30p,Miami Heat,Philadelphia 76ers,42.89%,57.11%
+Sat Nov 23 2019,8:00p,Portland Trail Blazers,Cleveland Cavaliers,40.63%,59.37%
+Sat Nov 23 2019,8:00p,Los Angeles Lakers,Memphis Grizzlies,32.91%,67.09%
+Sat Nov 23 2019,8:30p,Detroit Pistons,Milwaukee Bucks,84.34%,15.66%
+Sat Nov 23 2019,9:00p,New Orleans Pelicans,Utah Jazz,64.52%,35.48%
+Sun Nov 24 2019,3:30p,Dallas Mavericks,Houston Rockets,63.50%,36.50%
+Sun Nov 24 2019,6:00p,Brooklyn Nets,New York Knicks,39.03%,60.97%
+Sun Nov 24 2019,6:00p,Sacramento Kings,Washington Wizards,70.19%,29.81%
+Sun Nov 24 2019,8:00p,Phoenix Suns,Denver Nuggets,58.50%,41.50%
+Sun Nov 24 2019,9:00p,New Orleans Pelicans,Los Angeles Clippers,71.25%,28.75%
+Mon Nov 25 2019,7:00p,Brooklyn Nets,Cleveland Cavaliers,35.42%,64.58%
+Mon Nov 25 2019,7:00p,Orlando Magic,Detroit Pistons,66.78%,33.22%
+Mon Nov 25 2019,7:00p,Memphis Grizzlies,Indiana Pacers,71.13%,28.87%
+Mon Nov 25 2019,7:30p,Minnesota Timberwolves,Atlanta Hawks,34.78%,65.22%
+Mon Nov 25 2019,7:30p,Sacramento Kings,Boston Celtics,78.03%,21.97%
+Mon Nov 25 2019,7:30p,Charlotte Hornets,Miami Heat,83.80%,16.20%
+Mon Nov 25 2019,7:30p,Philadelphia 76ers,Toronto Raptors,75.06%,24.94%
+Mon Nov 25 2019,8:00p,Portland Trail Blazers,Chicago Bulls,55.41%,44.59%
+Mon Nov 25 2019,8:00p,Utah Jazz,Milwaukee Bucks,79.51%,20.49%
+Mon Nov 25 2019,8:30p,Los Angeles Lakers,San Antonio Spurs,35.16%,64.84%
+Mon Nov 25 2019,10:30p,Oklahoma City Thunder,Golden State Warriors,46.63%,53.37%
+Tue Nov 26 2019,8:30p,Los Angeles Clippers,Dallas Mavericks,74.45%,25.55%
+Tue Nov 26 2019,9:00p,Washington Wizards,Denver Nuggets,73.40%,26.60%
+Wed Nov 27 2019,7:00p,Brooklyn Nets,Boston Celtics,76.98%,23.02%
+Wed Nov 27 2019,7:00p,Detroit Pistons,Charlotte Hornets,37.40%,62.60%
+Wed Nov 27 2019,7:00p,Orlando Magic,Cleveland Cavaliers,55.85%,44.15%
+Wed Nov 27 2019,7:00p,Utah Jazz,Indiana Pacers,60.96%,39.04%
+Wed Nov 27 2019,7:00p,Sacramento Kings,Philadelphia 76ers,74.11%,25.89%
+Wed Nov 27 2019,7:30p,New York Knicks,Toronto Raptors,85.67%,14.33%
+Wed Nov 27 2019,8:00p,Miami Heat,Houston Rockets,49.57%,50.43%
+Wed Nov 27 2019,8:00p,Los Angeles Clippers,Memphis Grizzlies,37.51%,62.49%
+Wed Nov 27 2019,8:00p,Atlanta Hawks,Milwaukee Bucks,87.22%,12.78%
+Wed Nov 27 2019,8:30p,Minnesota Timberwolves,San Antonio Spurs,45.95%,54.05%
+Wed Nov 27 2019,9:00p,Washington Wizards,Phoenix Suns,66.75%,33.25%
+Wed Nov 27 2019,9:30p,Los Angeles Lakers,New Orleans Pelicans,37.33%,62.67%
+Wed Nov 27 2019,10:00p,Oklahoma City Thunder,Portland Trail Blazers,57.43%,42.57%
+Wed Nov 27 2019,10:30p,Chicago Bulls,Golden State Warriors,47.00%,53.00%
+Fri Nov 29 2019,12:00p,Boston Celtics,Brooklyn Nets,49.66%,50.34%
+Fri Nov 29 2019,7:00p,Charlotte Hornets,Detroit Pistons,62.74%,37.26%
+Fri Nov 29 2019,7:00p,Toronto Raptors,Orlando Magic,34.80%,65.20%
+Fri Nov 29 2019,7:30p,Milwaukee Bucks,Cleveland Cavaliers,21.49%,78.51%
+Fri Nov 29 2019,7:30p,Philadelphia 76ers,New York Knicks,33.64%,66.36%
+Fri Nov 29 2019,8:00p,Atlanta Hawks,Indiana Pacers,83.08%,16.92%
+Fri Nov 29 2019,8:00p,Utah Jazz,Memphis Grizzlies,40.35%,59.65%
+Fri Nov 29 2019,8:00p,Golden State Warriors,Miami Heat,85.22%,14.78%
+Fri Nov 29 2019,8:00p,New Orleans Pelicans,Oklahoma City Thunder,55.05%,44.95%
+Fri Nov 29 2019,8:30p,Los Angeles Clippers,San Antonio Spurs,38.41%,61.59%
+Fri Nov 29 2019,9:00p,Dallas Mavericks,Phoenix Suns,39.49%,60.51%
+Fri Nov 29 2019,10:00p,Chicago Bulls,Portland Trail Blazers,68.73%,31.27%
+Fri Nov 29 2019,10:30p,Washington Wizards,Los Angeles Lakers,82.23%,17.77%
+Sat Nov 30 2019,5:00p,Denver Nuggets,Sacramento Kings,37.94%,62.06%
+Sat Nov 30 2019,7:00p,Indiana Pacers,Philadelphia 76ers,69.01%,30.99%
+Sat Nov 30 2019,8:00p,Atlanta Hawks,Houston Rockets,85.60%,14.40%
+Sat Nov 30 2019,8:00p,Charlotte Hornets,Milwaukee Bucks,85.54%,14.46%
+Sun Dec 1 2019,3:00p,Miami Heat,Brooklyn Nets,40.89%,59.11%
+Sun Dec 1 2019,3:30p,Memphis Grizzlies,Minnesota Timberwolves,73.69%,26.31%
+Sun Dec 1 2019,3:30p,Boston Celtics,New York Knicks,32.66%,67.34%
+Sun Dec 1 2019,4:00p,Dallas Mavericks,Los Angeles Lakers,74.92%,25.08%
+Sun Dec 1 2019,5:00p,San Antonio Spurs,Detroit Pistons,58.11%,41.89%
+Sun Dec 1 2019,5:00p,Oklahoma City Thunder,New Orleans Pelicans,60.13%,39.87%
+Sun Dec 1 2019,6:00p,Golden State Warriors,Orlando Magic,76.30%,23.70%
+Sun Dec 1 2019,6:00p,Utah Jazz,Toronto Raptors,80.25%,19.75%
+Sun Dec 1 2019,10:30p,Washington Wizards,Los Angeles Clippers,75.01%,24.99%
+Mon Dec 2 2019,7:00p,Phoenix Suns,Charlotte Hornets,37.03%,62.97%
+Mon Dec 2 2019,7:00p,Utah Jazz,Philadelphia 76ers,74.03%,25.97%
+Mon Dec 2 2019,7:30p,Golden State Warriors,Atlanta Hawks,49.09%,50.91%
+Mon Dec 2 2019,8:00p,Indiana Pacers,Memphis Grizzlies,46.77%,53.23%
+Mon Dec 2 2019,8:00p,New York Knicks,Milwaukee Bucks,88.03%,11.97%
+Mon Dec 2 2019,10:00p,Chicago Bulls,Sacramento Kings,64.99%,35.01%
+Tue Dec 3 2019,7:00p,Detroit Pistons,Cleveland Cavaliers,34.18%,65.82%
+Tue Dec 3 2019,7:00p,Orlando Magic,Washington Wizards,69.55%,30.45%
+Tue Dec 3 2019,7:30p,Dallas Mavericks,New Orleans Pelicans,35.15%,64.85%
+Tue Dec 3 2019,7:30p,Miami Heat,Toronto Raptors,69.80%,30.20%
+Tue Dec 3 2019,8:30p,Houston Rockets,San Antonio Spurs,35.46%,64.54%
+Tue Dec 3 2019,9:00p,Los Angeles Lakers,Denver Nuggets,50.55%,49.45%
+Tue Dec 3 2019,10:00p,Portland Trail Blazers,Los Angeles Clippers,79.86%,20.14%
+Wed Dec 4 2019,7:00p,Golden State Warriors,Charlotte Hornets,66.59%,33.41%
+Wed Dec 4 2019,7:00p,Milwaukee Bucks,Detroit Pistons,29.54%,70.46%
+Wed Dec 4 2019,7:00p,Phoenix Suns,Orlando Magic,54.84%,45.16%
+Wed Dec 4 2019,7:30p,Brooklyn Nets,Atlanta Hawks,31.81%,68.19%
+Wed Dec 4 2019,7:30p,Miami Heat,Boston Celtics,51.02%,48.98%
+Wed Dec 4 2019,8:00p,Memphis Grizzlies,Chicago Bulls,50.66%,49.34%
+Wed Dec 4 2019,8:00p,Indiana Pacers,Oklahoma City Thunder,53.18%,46.82%
+Wed Dec 4 2019,8:30p,Minnesota Timberwolves,Dallas Mavericks,74.61%,25.39%
+Wed Dec 4 2019,9:00p,Los Angeles Lakers,Utah Jazz,44.00%,56.00%
+Wed Dec 4 2019,10:00p,Sacramento Kings,Portland Trail Blazers,65.57%,34.43%
+Thu Dec 5 2019,7:00p,Philadelphia 76ers,Washington Wizards,41.10%,58.90%
+Thu Dec 5 2019,7:30p,Denver Nuggets,New York Knicks,33.47%,66.53%
+Thu Dec 5 2019,7:30p,Houston Rockets,Toronto Raptors,70.67%,29.33%
+Thu Dec 5 2019,8:00p,Phoenix Suns,New Orleans Pelicans,45.12%,54.88%
+Fri Dec 6 2019,7:00p,Brooklyn Nets,Charlotte Hornets,36.24%,63.76%
+Fri Dec 6 2019,7:00p,Orlando Magic,Cleveland Cavaliers,38.20%,61.80%
+Fri Dec 6 2019,7:00p,Indiana Pacers,Detroit Pistons,49.75%,50.25%
+Fri Dec 6 2019,8:00p,Denver Nuggets,Boston Celtics,69.50%,30.50%
+Fri Dec 6 2019,8:00p,Golden State Warriors,Chicago Bulls,72.21%,27.79%
+Fri Dec 6 2019,8:00p,Washington Wizards,Miami Heat,79.81%,20.19%
+Fri Dec 6 2019,8:00p,Minnesota Timberwolves,Oklahoma City Thunder,54.57%,45.43%
+Fri Dec 6 2019,8:30p,Los Angeles Clippers,Milwaukee Bucks,79.55%,20.45%
+Fri Dec 6 2019,8:30p,Sacramento Kings,San Antonio Spurs,70.60%,29.40%
+Fri Dec 6 2019,10:30p,Los Angeles Lakers,Portland Trail Blazers,40.45%,59.55%
+Sat Dec 7 2019,2:00p,New Orleans Pelicans,Dallas Mavericks,82.09%,17.91%
+Sat Dec 7 2019,7:30p,Indiana Pacers,New York Knicks,33.66%,66.34%
+Sat Dec 7 2019,7:30p,Cleveland Cavaliers,Philadelphia 76ers,83.70%,16.30%
+Sat Dec 7 2019,8:00p,Phoenix Suns,Houston Rockets,73.82%,26.18%
+Sat Dec 7 2019,10:00p,Memphis Grizzlies,Utah Jazz,71.25%,28.75%
+Sun Dec 8 2019,3:00p,Denver Nuggets,Brooklyn Nets,60.67%,39.33%
+Sun Dec 8 2019,5:00p,Atlanta Hawks,Charlotte Hornets,64.84%,35.16%
+Sun Dec 8 2019,6:00p,Chicago Bulls,Miami Heat,81.04%,18.96%
+Sun Dec 8 2019,6:00p,Toronto Raptors,Philadelphia 76ers,63.75%,36.25%
+Sun Dec 8 2019,6:00p,Los Angeles Clippers,Washington Wizards,41.95%,58.05%
+Sun Dec 8 2019,7:00p,Sacramento Kings,Dallas Mavericks,84.19%,15.81%
+Sun Dec 8 2019,9:00p,Oklahoma City Thunder,Portland Trail Blazers,60.91%,39.09%
+Sun Dec 8 2019,9:30p,Minnesota Timberwolves,Los Angeles Lakers,83.37%,16.63%
+Mon Dec 9 2019,7:00p,Los Angeles Clippers,Indiana Pacers,62.92%,37.08%
+Mon Dec 9 2019,7:30p,Cleveland Cavaliers,Boston Celtics,85.50%,14.50%
+Mon Dec 9 2019,8:00p,Toronto Raptors,Chicago Bulls,31.56%,68.44%
+Mon Dec 9 2019,8:00p,Sacramento Kings,Houston Rockets,82.44%,17.56%
+Mon Dec 9 2019,8:00p,Orlando Magic,Milwaukee Bucks,85.39%,14.61%
+Mon Dec 9 2019,8:00p,Detroit Pistons,New Orleans Pelicans,41.97%,58.03%
+Mon Dec 9 2019,9:00p,Minnesota Timberwolves,Phoenix Suns,54.17%,45.83%
+Mon Dec 9 2019,9:00p,Oklahoma City Thunder,Utah Jazz,65.80%,34.20%
+Mon Dec 9 2019,10:30p,Memphis Grizzlies,Golden State Warriors,47.69%,52.31%
+Tue Dec 10 2019,7:00p,Washington Wizards,Charlotte Hornets,43.07%,56.93%
+Tue Dec 10 2019,8:00p,Atlanta Hawks,Miami Heat,84.62%,15.38%
+Tue Dec 10 2019,8:00p,Denver Nuggets,Philadelphia 76ers,75.57%,24.43%
+Tue Dec 10 2019,10:00p,New York Knicks,Portland Trail Blazers,77.55%,22.45%
+Wed Dec 11 2019,7:00p,Houston Rockets,Cleveland Cavaliers,23.49%,76.51%
+Wed Dec 11 2019,7:00p,Boston Celtics,Indiana Pacers,56.54%,43.46%
+Wed Dec 11 2019,7:00p,Los Angeles Lakers,Orlando Magic,33.66%,66.34%
+Wed Dec 11 2019,7:00p,Los Angeles Clippers,Toronto Raptors,71.30%,28.70%
+Wed Dec 11 2019,7:30p,Charlotte Hornets,Brooklyn Nets,73.97%,26.03%
+Wed Dec 11 2019,8:00p,Atlanta Hawks,Chicago Bulls,62.13%,37.87%
+Wed Dec 11 2019,8:00p,Utah Jazz,Minnesota Timberwolves,57.35%,42.65%
+Wed Dec 11 2019,9:00p,Memphis Grizzlies,Phoenix Suns,72.41%,27.59%
+Wed Dec 11 2019,9:30p,New Orleans Pelicans,Milwaukee Bucks,86.92%,13.08%
+Wed Dec 11 2019,10:00p,Oklahoma City Thunder,Sacramento Kings,49.26%,50.74%
+Wed Dec 11 2019,10:30p,New York Knicks,Golden State Warriors,63.90%,36.10%
+Thu Dec 12 2019,8:00p,Philadelphia 76ers,Boston Celtics,64.93%,35.07%
+Thu Dec 12 2019,8:30p,Cleveland Cavaliers,San Antonio Spurs,79.08%,20.92%
+Thu Dec 12 2019,9:00p,Dallas Mavericks,Detroit Pistons,40.48%,59.52%
+Thu Dec 12 2019,10:30p,Portland Trail Blazers,Denver Nuggets,69.88%,30.12%
+Fri Dec 13 2019,7:00p,Los Angeles Lakers,Miami Heat,59.97%,40.03%
+Fri Dec 13 2019,7:00p,Houston Rockets,Orlando Magic,42.65%,57.35%
+Fri Dec 13 2019,7:00p,New Orleans Pelicans,Philadelphia 76ers,83.86%,16.14%
+Fri Dec 13 2019,7:30p,Indiana Pacers,Atlanta Hawks,36.68%,63.32%
+Fri Dec 13 2019,8:00p,Charlotte Hornets,Chicago Bulls,51.27%,48.73%
+Fri Dec 13 2019,8:00p,Milwaukee Bucks,Memphis Grizzlies,23.19%,76.81%
+Fri Dec 13 2019,9:00p,Golden State Warriors,Utah Jazz,76.65%,23.35%
+Fri Dec 13 2019,9:30p,Los Angeles Clippers,Minnesota Timberwolves,39.53%,60.47%
+Fri Dec 13 2019,10:00p,New York Knicks,Sacramento Kings,75.31%,24.69%
+Sat Dec 14 2019,5:00p,San Antonio Spurs,Phoenix Suns,69.04%,30.96%
+Sat Dec 14 2019,7:30p,Brooklyn Nets,Toronto Raptors,72.33%,27.67%
+Sat Dec 14 2019,8:00p,Los Angeles Clippers,Chicago Bulls,31.02%,68.98%
+Sat Dec 14 2019,8:00p,Washington Wizards,Memphis Grizzlies,52.45%,47.55%
+Sat Dec 14 2019,8:30p,Miami Heat,Dallas Mavericks,61.90%,38.10%
+Sat Dec 14 2019,8:30p,Cleveland Cavaliers,Milwaukee Bucks,88.21%,11.79%
+Sat Dec 14 2019,9:00p,Oklahoma City Thunder,Denver Nuggets,64.48%,35.52%
+Sat Dec 14 2019,9:00p,Detroit Pistons,Houston Rockets,78.07%,21.93%
+Sun Dec 15 2019,3:30p,Orlando Magic,New Orleans Pelicans,51.09%,48.91%
+Sun Dec 15 2019,5:00p,Charlotte Hornets,Indiana Pacers,74.34%,25.66%
+Sun Dec 15 2019,6:00p,Los Angeles Lakers,Atlanta Hawks,24.56%,75.44%
+Sun Dec 15 2019,6:00p,Philadelphia 76ers,Brooklyn Nets,44.52%,55.48%
+Sun Dec 15 2019,8:00p,New York Knicks,Denver Nuggets,79.00%,21.00%
+Sun Dec 15 2019,8:30p,Sacramento Kings,Golden State Warriors,44.66%,55.34%
+Mon Dec 16 2019,7:00p,Washington Wizards,Detroit Pistons,70.15%,29.85%
+Mon Dec 16 2019,7:30p,Cleveland Cavaliers,Toronto Raptors,83.96%,16.04%
+Mon Dec 16 2019,8:00p,San Antonio Spurs,Houston Rockets,80.51%,19.49%
+Mon Dec 16 2019,8:00p,Miami Heat,Memphis Grizzlies,35.19%,64.81%
+Mon Dec 16 2019,8:00p,Dallas Mavericks,Milwaukee Bucks,79.89%,20.11%
+Mon Dec 16 2019,8:00p,Chicago Bulls,Oklahoma City Thunder,74.03%,25.97%
+Mon Dec 16 2019,9:00p,Portland Trail Blazers,Phoenix Suns,61.84%,38.16%
+Tue Dec 17 2019,7:00p,Sacramento Kings,Charlotte Hornets,49.02%,50.98%
+Tue Dec 17 2019,7:00p,Los Angeles Lakers,Indiana Pacers,41.91%,58.09%
+Tue Dec 17 2019,7:30p,Atlanta Hawks,New York Knicks,55.26%,44.74%
+Tue Dec 17 2019,8:00p,Brooklyn Nets,New Orleans Pelicans,38.06%,61.94%
+Tue Dec 17 2019,9:00p,Orlando Magic,Utah Jazz,67.19%,32.81%
+Tue Dec 17 2019,10:30p,Phoenix Suns,Los Angeles Clippers,75.67%,24.33%
+Wed Dec 18 2019,7:00p,Charlotte Hornets,Cleveland Cavaliers,34.86%,65.14%
+Wed Dec 18 2019,7:00p,Toronto Raptors,Detroit Pistons,42.60%,57.40%
+Wed Dec 18 2019,7:00p,Miami Heat,Philadelphia 76ers,62.87%,37.13%
+Wed Dec 18 2019,7:00p,Chicago Bulls,Washington Wizards,64.79%,35.21%
+Wed Dec 18 2019,8:00p,New Orleans Pelicans,Minnesota Timberwolves,68.87%,31.13%
+Wed Dec 18 2019,8:00p,Memphis Grizzlies,Oklahoma City Thunder,70.54%,29.46%
+Wed Dec 18 2019,9:00p,Orlando Magic,Denver Nuggets,69.36%,30.64%
+Wed Dec 18 2019,9:30p,Boston Celtics,Dallas Mavericks,69.75%,30.25%
+Wed Dec 18 2019,10:00p,Golden State Warriors,Portland Trail Blazers,78.60%,21.40%
+Thu Dec 19 2019,7:30p,Utah Jazz,Atlanta Hawks,30.25%,69.75%
+Thu Dec 19 2019,8:00p,Los Angeles Lakers,Milwaukee Bucks,72.26%,27.74%
+Thu Dec 19 2019,8:30p,Brooklyn Nets,San Antonio Spurs,55.03%,44.97%
+Thu Dec 19 2019,10:30p,Houston Rockets,Los Angeles Clippers,57.80%,42.20%
+Fri Dec 20 2019,7:00p,Memphis Grizzlies,Cleveland Cavaliers,36.59%,63.41%
+Fri Dec 20 2019,7:00p,Sacramento Kings,Indiana Pacers,77.06%,22.94%
+Fri Dec 20 2019,7:30p,Detroit Pistons,Boston Celtics,76.95%,23.05%
+Fri Dec 20 2019,7:30p,Washington Wizards,Toronto Raptors,80.65%,19.35%
+Fri Dec 20 2019,8:00p,New York Knicks,Miami Heat,85.19%,14.81%
+Fri Dec 20 2019,8:00p,Phoenix Suns,Oklahoma City Thunder,70.49%,29.51%
+Fri Dec 20 2019,8:00p,Dallas Mavericks,Philadelphia 76ers,62.52%,37.48%
+Fri Dec 20 2019,9:00p,Minnesota Timberwolves,Denver Nuggets,71.87%,28.13%
+Fri Dec 20 2019,10:00p,Orlando Magic,Portland Trail Blazers,69.45%,30.55%
+Fri Dec 20 2019,10:30p,New Orleans Pelicans,Golden State Warriors,39.70%,60.30%
+Sat Dec 21 2019,5:00p,Utah Jazz,Charlotte Hornets,36.87%,63.13%
+Sat Dec 21 2019,6:00p,Atlanta Hawks,Brooklyn Nets,77.45%,22.55%
+Sat Dec 21 2019,7:00p,Chicago Bulls,Detroit Pistons,63.91%,36.09%
+Sat Dec 21 2019,7:00p,Washington Wizards,Philadelphia 76ers,77.99%,22.01%
+Sat Dec 21 2019,7:30p,Milwaukee Bucks,New York Knicks,22.69%,77.31%
+Sat Dec 21 2019,8:00p,Sacramento Kings,Memphis Grizzlies,62.87%,37.13%
+Sat Dec 21 2019,8:30p,Los Angeles Clippers,San Antonio Spurs,49.79%,50.21%
+Sat Dec 21 2019,9:00p,Houston Rockets,Phoenix Suns,34.46%,65.54%
+Sat Dec 21 2019,10:00p,Minnesota Timberwolves,Portland Trail Blazers,72.36%,27.64%
+Sun Dec 22 2019,3:30p,Dallas Mavericks,Toronto Raptors,58.53%,41.47%
+Sun Dec 22 2019,6:00p,Charlotte Hornets,Boston Celtics,80.73%,19.27%
+Sun Dec 22 2019,7:00p,Indiana Pacers,Milwaukee Bucks,81.92%,18.08%
+Sun Dec 22 2019,7:00p,Los Angeles Clippers,Oklahoma City Thunder,57.84%,42.16%
+Sun Dec 22 2019,9:30p,Denver Nuggets,Los Angeles Lakers,76.58%,23.42%
+Mon Dec 23 2019,7:00p,Atlanta Hawks,Cleveland Cavaliers,60.31%,39.69%
+Mon Dec 23 2019,7:00p,Philadelphia 76ers,Detroit Pistons,43.22%,56.78%
+Mon Dec 23 2019,7:00p,Toronto Raptors,Indiana Pacers,54.46%,45.54%
+Mon Dec 23 2019,7:00p,Washington Wizards,New York Knicks,44.60%,55.40%
+Mon Dec 23 2019,7:00p,Chicago Bulls,Orlando Magic,64.36%,35.64%
+Mon Dec 23 2019,7:30p,Utah Jazz,Miami Heat,76.55%,23.45%
+Mon Dec 23 2019,8:00p,San Antonio Spurs,Memphis Grizzlies,58.87%,41.13%
+Mon Dec 23 2019,9:00p,Denver Nuggets,Phoenix Suns,45.15%,54.85%
+Mon Dec 23 2019,10:00p,New Orleans Pelicans,Portland Trail Blazers,76.21%,23.79%
+Mon Dec 23 2019,10:00p,Houston Rockets,Sacramento Kings,29.25%,70.75%
+Mon Dec 23 2019,10:30p,Minnesota Timberwolves,Golden State Warriors,42.35%,57.65%
+Wed Dec 25 2019,12:00p,Boston Celtics,Toronto Raptors,67.34%,32.66%
+Wed Dec 25 2019,2:30p,Milwaukee Bucks,Philadelphia 76ers,44.70%,55.30%
+Wed Dec 25 2019,5:00p,Houston Rockets,Golden State Warriors,26.21%,73.79%
+Wed Dec 25 2019,8:00p,Los Angeles Clippers,Los Angeles Lakers,70.79%,29.21%
+Wed Dec 25 2019,10:30p,New Orleans Pelicans,Denver Nuggets,78.10%,21.90%
+Thu Dec 26 2019,7:00p,Washington Wizards,Detroit Pistons,53.46%,46.54%
+Thu Dec 26 2019,7:30p,New York Knicks,Brooklyn Nets,77.42%,22.58%
+Thu Dec 26 2019,8:00p,San Antonio Spurs,Dallas Mavericks,76.22%,23.78%
+Thu Dec 26 2019,8:00p,Memphis Grizzlies,Oklahoma City Thunder,74.35%,25.65%
+Thu Dec 26 2019,10:00p,Minnesota Timberwolves,Sacramento Kings,51.24%,48.76%
+Thu Dec 26 2019,10:30p,Portland Trail Blazers,Utah Jazz,67.65%,32.35%
+Fri Dec 27 2019,4:00p,Cleveland Cavaliers,Boston Celtics,83.74%,16.26%
+Fri Dec 27 2019,7:00p,Oklahoma City Thunder,Charlotte Hornets,44.46%,55.54%
+Fri Dec 27 2019,7:00p,Philadelphia 76ers,Orlando Magic,42.37%,57.63%
+Fri Dec 27 2019,7:30p,Milwaukee Bucks,Atlanta Hawks,21.29%,78.71%
+Fri Dec 27 2019,8:00p,Indiana Pacers,Miami Heat,76.20%,23.80%
+Fri Dec 27 2019,10:30p,Phoenix Suns,Golden State Warriors,44.48%,55.52%
+Sat Dec 28 2019,5:00p,Memphis Grizzlies,Denver Nuggets,67.80%,32.20%
+Sat Dec 28 2019,7:00p,Toronto Raptors,Boston Celtics,69.75%,30.25%
+Sat Dec 28 2019,7:00p,Indiana Pacers,New Orleans Pelicans,45.53%,54.47%
+Sat Dec 28 2019,8:00p,Atlanta Hawks,Chicago Bulls,71.76%,28.24%
+Sat Dec 28 2019,8:00p,Brooklyn Nets,Houston Rockets,76.67%,23.33%
+Sat Dec 28 2019,8:00p,Philadelphia 76ers,Miami Heat,72.66%,27.34%
+Sat Dec 28 2019,8:00p,Cleveland Cavaliers,Minnesota Timberwolves,69.35%,30.65%
+Sat Dec 28 2019,8:00p,New York Knicks,Washington Wizards,66.93%,33.07%
+Sat Dec 28 2019,8:30p,Dallas Mavericks,Golden State Warriors,30.50%,69.50%
+Sat Dec 28 2019,8:30p,Orlando Magic,Milwaukee Bucks,85.44%,14.56%
+Sat Dec 28 2019,8:30p,Detroit Pistons,San Antonio Spurs,67.55%,32.45%
+Sat Dec 28 2019,9:00p,Phoenix Suns,Sacramento Kings,44.32%,55.68%
+Sat Dec 28 2019,10:00p,Los Angeles Lakers,Portland Trail Blazers,44.66%,55.34%
+Sat Dec 28 2019,10:30p,Utah Jazz,Los Angeles Clippers,69.53%,30.47%
+Sun Dec 29 2019,6:00p,Oklahoma City Thunder,Toronto Raptors,75.08%,24.92%
+Sun Dec 29 2019,8:00p,Sacramento Kings,Denver Nuggets,78.67%,21.33%
+Sun Dec 29 2019,8:00p,Charlotte Hornets,Memphis Grizzlies,66.35%,33.65%
+Sun Dec 29 2019,8:00p,Houston Rockets,New Orleans Pelicans,34.69%,65.31%
+Sun Dec 29 2019,9:30p,Dallas Mavericks,Los Angeles Lakers,60.46%,39.54%
+Mon Dec 30 2019,7:00p,Atlanta Hawks,Orlando Magic,80.67%,19.33%
+Mon Dec 30 2019,7:00p,Miami Heat,Washington Wizards,30.95%,69.05%
+Mon Dec 30 2019,8:00p,Milwaukee Bucks,Chicago Bulls,26.23%,73.77%
+Mon Dec 30 2019,8:00p,Brooklyn Nets,Minnesota Timberwolves,45.31%,54.69%
+Mon Dec 30 2019,9:00p,Detroit Pistons,Utah Jazz,73.33%,26.67%
+Mon Dec 30 2019,10:00p,Phoenix Suns,Portland Trail Blazers,66.42%,33.58%
+Tue Dec 31 2019,3:00p,Boston Celtics,Charlotte Hornets,34.67%,65.33%
+Tue Dec 31 2019,3:00p,Philadelphia 76ers,Indiana Pacers,59.06%,40.94%
+Tue Dec 31 2019,5:00p,Los Angeles Clippers,Sacramento Kings,33.15%,66.85%
+Tue Dec 31 2019,7:00p,Denver Nuggets,Houston Rockets,71.28%,28.72%
+Tue Dec 31 2019,7:00p,Golden State Warriors,San Antonio Spurs,77.94%,22.06%
+Tue Dec 31 2019,7:00p,Cleveland Cavaliers,Toronto Raptors,80.29%,19.71%
+Tue Dec 31 2019,8:00p,Dallas Mavericks,Oklahoma City Thunder,47.16%,52.84%
+Wed Jan 1 2020,6:00p,Orlando Magic,Washington Wizards,65.34%,34.66%
+Wed Jan 1 2020,7:30p,Portland Trail Blazers,New York Knicks,42.04%,57.96%
+Wed Jan 1 2020,8:00p,Minnesota Timberwolves,Milwaukee Bucks,86.09%,13.91%
+Wed Jan 1 2020,10:30p,Phoenix Suns,Los Angeles Lakers,79.15%,20.85%
+Thu Jan 2 2020,7:00p,Charlotte Hornets,Cleveland Cavaliers,49.97%,50.03%
+Thu Jan 2 2020,7:00p,Denver Nuggets,Indiana Pacers,64.45%,35.55%
+Thu Jan 2 2020,7:30p,Toronto Raptors,Miami Heat,66.14%,33.86%
+Thu Jan 2 2020,8:00p,Utah Jazz,Chicago Bulls,37.82%,62.18%
+Thu Jan 2 2020,8:00p,Golden State Warriors,Minnesota Timberwolves,69.21%,30.79%
+Thu Jan 2 2020,8:30p,Brooklyn Nets,Dallas Mavericks,75.71%,24.29%
+Thu Jan 2 2020,8:30p,Oklahoma City Thunder,San Antonio Spurs,65.85%,34.15%
+Thu Jan 2 2020,10:00p,Memphis Grizzlies,Sacramento Kings,39.05%,60.95%
+Thu Jan 2 2020,10:30p,Detroit Pistons,Los Angeles Clippers,77.58%,22.42%
+Fri Jan 3 2020,7:00p,Atlanta Hawks,Boston Celtics,85.57%,14.43%
+Fri Jan 3 2020,7:00p,Miami Heat,Orlando Magic,37.30%,62.70%
+Fri Jan 3 2020,7:00p,Portland Trail Blazers,Washington Wizards,58.07%,41.93%
+Fri Jan 3 2020,8:00p,Philadelphia 76ers,Houston Rockets,74.74%,25.26%
+Fri Jan 3 2020,9:00p,New York Knicks,Phoenix Suns,62.89%,37.11%
+Fri Jan 3 2020,10:30p,New Orleans Pelicans,Los Angeles Lakers,79.67%,20.33%
+Sat Jan 4 2020,3:30p,Memphis Grizzlies,Los Angeles Clippers,75.24%,24.76%
+Sat Jan 4 2020,6:00p,Toronto Raptors,Brooklyn Nets,43.48%,56.52%
+Sat Jan 4 2020,7:00p,Utah Jazz,Orlando Magic,46.07%,53.93%
+Sat Jan 4 2020,7:30p,Indiana Pacers,Atlanta Hawks,33.73%,66.27%
+Sat Jan 4 2020,7:30p,Oklahoma City Thunder,Cleveland Cavaliers,38.02%,61.98%
+Sat Jan 4 2020,8:00p,Boston Celtics,Chicago Bulls,37.71%,62.29%
+Sat Jan 4 2020,8:00p,Denver Nuggets,Washington Wizards,43.84%,56.16%
+Sat Jan 4 2020,8:30p,Charlotte Hornets,Dallas Mavericks,81.28%,18.72%
+Sat Jan 4 2020,8:30p,Detroit Pistons,Golden State Warriors,47.29%,52.71%
+Sat Jan 4 2020,8:30p,San Antonio Spurs,Milwaukee Bucks,83.97%,16.03%
+Sat Jan 4 2020,10:00p,New Orleans Pelicans,Sacramento Kings,41.66%,58.34%
+Sun Jan 5 2020,3:30p,New York Knicks,Los Angeles Clippers,80.50%,19.50%
+Sun Jan 5 2020,6:00p,Portland Trail Blazers,Miami Heat,80.16%,19.84%
+Sun Jan 5 2020,7:30p,Minnesota Timberwolves,Cleveland Cavaliers,42.49%,57.51%
+Sun Jan 5 2020,8:00p,Memphis Grizzlies,Phoenix Suns,52.10%,47.90%
+Sun Jan 5 2020,10:00p,Detroit Pistons,Los Angeles Lakers,81.32%,18.68%
+Mon Jan 6 2020,7:00p,Indiana Pacers,Charlotte Hornets,41.69%,58.31%
+Mon Jan 6 2020,7:00p,Brooklyn Nets,Orlando Magic,65.75%,34.25%
+Mon Jan 6 2020,7:00p,Oklahoma City Thunder,Philadelphia 76ers,61.00%,39.00%
+Mon Jan 6 2020,7:00p,Boston Celtics,Washington Wizards,39.10%,60.90%
+Mon Jan 6 2020,7:30p,Denver Nuggets,Atlanta Hawks,35.35%,64.65%
+Mon Jan 6 2020,8:00p,Utah Jazz,New Orleans Pelicans,40.47%,59.53%
+Mon Jan 6 2020,8:30p,Chicago Bulls,Dallas Mavericks,77.29%,22.71%
+Mon Jan 6 2020,8:30p,Milwaukee Bucks,San Antonio Spurs,34.34%,65.66%
+Mon Jan 6 2020,10:00p,Golden State Warriors,Sacramento Kings,56.19%,43.81%
+Tue Jan 7 2020,7:00p,Detroit Pistons,Cleveland Cavaliers,38.45%,61.55%
+Tue Jan 7 2020,7:00p,Portland Trail Blazers,Toronto Raptors,78.88%,21.12%
+Tue Jan 7 2020,7:30p,Oklahoma City Thunder,Brooklyn Nets,51.26%,48.74%
+Tue Jan 7 2020,8:00p,Minnesota Timberwolves,Memphis Grizzlies,61.35%,38.65%
+Tue Jan 7 2020,9:00p,Sacramento Kings,Phoenix Suns,64.20%,35.80%
+Tue Jan 7 2020,10:30p,New York Knicks,Los Angeles Lakers,84.77%,15.23%
+Wed Jan 8 2020,7:00p,San Antonio Spurs,Boston Celtics,77.52%,22.48%
+Wed Jan 8 2020,7:00p,Toronto Raptors,Charlotte Hornets,33.78%,66.22%
+Wed Jan 8 2020,7:00p,Miami Heat,Indiana Pacers,49.93%,50.07%
+Wed Jan 8 2020,7:00p,Washington Wizards,Orlando Magic,70.52%,29.48%
+Wed Jan 8 2020,7:30p,Houston Rockets,Atlanta Hawks,26.07%,73.93%
+Wed Jan 8 2020,7:30p,Denver Nuggets,Dallas Mavericks,68.50%,31.50%
+Wed Jan 8 2020,8:00p,Chicago Bulls,New Orleans Pelicans,63.71%,36.29%
+Wed Jan 8 2020,9:00p,New York Knicks,Utah Jazz,82.06%,17.94%
+Wed Jan 8 2020,10:00p,Milwaukee Bucks,Golden State Warriors,24.34%,75.66%
+Thu Jan 9 2020,7:00p,Cleveland Cavaliers,Detroit Pistons,70.32%,29.68%
+Thu Jan 9 2020,7:00p,Boston Celtics,Philadelphia 76ers,63.25%,36.75%
+Thu Jan 9 2020,8:00p,Portland Trail Blazers,Minnesota Timberwolves,56.69%,43.31%
+Thu Jan 9 2020,9:30p,Houston Rockets,Oklahoma City Thunder,49.73%,50.27%
+Fri Jan 10 2020,7:00p,Atlanta Hawks,Washington Wizards,74.47%,25.53%
+Fri Jan 10 2020,7:15p,New Orleans Pelicans,New York Knicks,39.34%,60.66%
+Fri Jan 10 2020,7:30p,Miami Heat,Brooklyn Nets,33.83%,66.17%
+Fri Jan 10 2020,8:00p,Indiana Pacers,Chicago Bulls,45.54%,54.46%
+Fri Jan 10 2020,8:00p,San Antonio Spurs,Memphis Grizzlies,56.61%,43.39%
+Fri Jan 10 2020,9:00p,Orlando Magic,Phoenix Suns,56.59%,43.41%
+Fri Jan 10 2020,9:00p,Charlotte Hornets,Utah Jazz,80.31%,19.69%
+Fri Jan 10 2020,9:45p,Los Angeles Lakers,Dallas Mavericks,51.53%,48.47%
+Fri Jan 10 2020,10:00p,Milwaukee Bucks,Sacramento Kings,25.51%,74.49%
+Fri Jan 10 2020,10:30p,Golden State Warriors,Los Angeles Clippers,81.17%,18.83%
+Sat Jan 11 2020,5:00p,Minnesota Timberwolves,Houston Rockets,77.83%,22.17%
+Sat Jan 11 2020,7:00p,New Orleans Pelicans,Boston Celtics,74.30%,25.70%
+Sat Jan 11 2020,7:00p,Chicago Bulls,Detroit Pistons,61.94%,38.06%
+Sat Jan 11 2020,8:00p,Los Angeles Lakers,Oklahoma City Thunder,49.15%,50.85%
+Sat Jan 11 2020,8:30p,Philadelphia 76ers,Dallas Mavericks,63.85%,36.15%
+Sat Jan 11 2020,9:00p,Cleveland Cavaliers,Denver Nuggets,78.30%,21.70%
+Sat Jan 11 2020,10:00p,Milwaukee Bucks,Portland Trail Blazers,29.27%,70.73%
+Sun Jan 12 2020,3:30p,Miami Heat,New York Knicks,29.61%,70.39%
+Sun Jan 12 2020,3:30p,Utah Jazz,Washington Wizards,37.35%,62.65%
+Sun Jan 12 2020,6:00p,Atlanta Hawks,Brooklyn Nets,72.18%,27.82%
+Sun Jan 12 2020,6:00p,Golden State Warriors,Memphis Grizzlies,77.26%,22.74%
+Sun Jan 12 2020,6:00p,San Antonio Spurs,Toronto Raptors,70.81%,29.19%
+Sun Jan 12 2020,8:00p,Los Angeles Clippers,Denver Nuggets,54.50%,45.50%
+Sun Jan 12 2020,8:00p,Charlotte Hornets,Phoenix Suns,66.22%,33.78%
+Mon Jan 13 2020,7:00p,New Orleans Pelicans,Detroit Pistons,46.65%,53.35%
+Mon Jan 13 2020,7:00p,Philadelphia 76ers,Indiana Pacers,60.22%,39.78%
+Mon Jan 13 2020,7:30p,Chicago Bulls,Boston Celtics,78.70%,21.30%
+Mon Jan 13 2020,8:00p,Oklahoma City Thunder,Minnesota Timberwolves,52.10%,47.90%
+Mon Jan 13 2020,10:00p,Charlotte Hornets,Portland Trail Blazers,68.58%,31.42%
+Mon Jan 13 2020,10:00p,Orlando Magic,Sacramento Kings,50.56%,49.44%
+Mon Jan 13 2020,10:30p,Cleveland Cavaliers,Los Angeles Lakers,84.81%,15.19%
+Tue Jan 14 2020,7:30p,Phoenix Suns,Atlanta Hawks,35.35%,64.65%
+Tue Jan 14 2020,7:30p,Utah Jazz,Brooklyn Nets,35.48%,64.52%
+Tue Jan 14 2020,8:00p,Houston Rockets,Memphis Grizzlies,46.11%,53.89%
+Tue Jan 14 2020,8:00p,New York Knicks,Milwaukee Bucks,87.39%,12.61%
+Tue Jan 14 2020,10:30p,Dallas Mavericks,Golden State Warriors,28.04%,71.96%
+Tue Jan 14 2020,10:30p,Cleveland Cavaliers,Los Angeles Clippers,80.99%,19.01%
+Wed Jan 15 2020,7:00p,Detroit Pistons,Boston Celtics,78.77%,21.23%
+Wed Jan 15 2020,7:00p,Brooklyn Nets,Philadelphia 76ers,76.56%,23.44%
+Wed Jan 15 2020,7:30p,San Antonio Spurs,Miami Heat,74.61%,25.39%
+Wed Jan 15 2020,8:00p,Washington Wizards,Chicago Bulls,48.43%,51.57%
+Wed Jan 15 2020,8:00p,Indiana Pacers,Minnesota Timberwolves,56.38%,43.62%
+Wed Jan 15 2020,8:00p,Toronto Raptors,Oklahoma City Thunder,64.35%,35.65%
+Wed Jan 15 2020,9:00p,Charlotte Hornets,Denver Nuggets,77.97%,22.03%
+Wed Jan 15 2020,9:30p,Portland Trail Blazers,Houston Rockets,80.64%,19.36%
+Wed Jan 15 2020,10:00p,Dallas Mavericks,Sacramento Kings,30.27%,69.73%
+Wed Jan 15 2020,10:30p,Orlando Magic,Los Angeles Lakers,82.04%,17.96%
+Thu Jan 16 2020,7:30p,Phoenix Suns,New York Knicks,42.76%,57.24%
+Thu Jan 16 2020,8:00p,Boston Celtics,Milwaukee Bucks,81.36%,18.64%
+Thu Jan 16 2020,8:00p,Utah Jazz,New Orleans Pelicans,38.76%,61.24%
+Thu Jan 16 2020,10:30p,Denver Nuggets,Golden State Warriors,34.57%,65.43%
+Thu Jan 16 2020,10:30p,Orlando Magic,Los Angeles Clippers,74.27%,25.73%
+Fri Jan 17 2020,7:00p,Minnesota Timberwolves,Indiana Pacers,74.81%,25.19%
+Fri Jan 17 2020,7:00p,Chicago Bulls,Philadelphia 76ers,75.06%,24.94%
+Fri Jan 17 2020,7:00p,Washington Wizards,Toronto Raptors,76.78%,23.22%
+Fri Jan 17 2020,8:00p,Cleveland Cavaliers,Memphis Grizzlies,79.86%,20.14%
+Fri Jan 17 2020,8:00p,Miami Heat,Oklahoma City Thunder,51.34%,48.66%
+Fri Jan 17 2020,8:30p,Atlanta Hawks,San Antonio Spurs,81.24%,18.76%
+Fri Jan 17 2020,9:30p,Portland Trail Blazers,Dallas Mavericks,77.44%,22.56%
+Sat Jan 18 2020,3:30p,Los Angeles Clippers,New Orleans Pelicans,46.02%,53.98%
+Sat Jan 18 2020,6:00p,Milwaukee Bucks,Brooklyn Nets,26.37%,73.63%
+Sat Jan 18 2020,7:00p,Phoenix Suns,Boston Celtics,73.15%,26.85%
+Sat Jan 18 2020,7:30p,Detroit Pistons,Atlanta Hawks,42.74%,57.26%
+Sat Jan 18 2020,7:30p,Philadelphia 76ers,New York Knicks,37.01%,62.99%
+Sat Jan 18 2020,8:00p,Cleveland Cavaliers,Chicago Bulls,64.38%,35.62%
+Sat Jan 18 2020,8:00p,Toronto Raptors,Minnesota Timberwolves,38.36%,61.64%
+Sat Jan 18 2020,8:30p,Orlando Magic,Golden State Warriors,42.19%,57.81%
+Sat Jan 18 2020,8:30p,Los Angeles Lakers,Houston Rockets,46.12%,53.88%
+Sat Jan 18 2020,9:00p,Portland Trail Blazers,Oklahoma City Thunder,74.57%,25.43%
+Sat Jan 18 2020,9:00p,Sacramento Kings,Utah Jazz,79.96%,20.04%
+Sun Jan 19 2020,3:00p,Miami Heat,San Antonio Spurs,48.19%,51.81%
+Sun Jan 19 2020,8:00p,Indiana Pacers,Denver Nuggets,65.59%,34.41%
+Mon Jan 20 2020,2:00p,Detroit Pistons,Washington Wizards,50.99%,49.01%
+Mon Jan 20 2020,2:30p,Toronto Raptors,Atlanta Hawks,29.69%,70.31%
+Mon Jan 20 2020,3:00p,Philadelphia 76ers,Brooklyn Nets,44.40%,55.60%
+Mon Jan 20 2020,5:00p,Orlando Magic,Charlotte Hornets,45.23%,54.77%
+Mon Jan 20 2020,5:00p,New York Knicks,Cleveland Cavaliers,53.01%,46.99%
+Mon Jan 20 2020,5:00p,Oklahoma City Thunder,Houston Rockets,69.74%,30.26%
+Mon Jan 20 2020,5:00p,New Orleans Pelicans,Memphis Grizzlies,70.37%,29.63%
+Mon Jan 20 2020,5:00p,Sacramento Kings,Miami Heat,80.41%,19.59%
+Mon Jan 20 2020,5:00p,Chicago Bulls,Milwaukee Bucks,85.87%,14.13%
+Mon Jan 20 2020,7:30p,Los Angeles Lakers,Boston Celtics,45.87%,54.13%
+Mon Jan 20 2020,8:00p,Denver Nuggets,Minnesota Timberwolves,48.18%,51.82%
+Mon Jan 20 2020,9:00p,San Antonio Spurs,Phoenix Suns,60.11%,39.89%
+Mon Jan 20 2020,9:00p,Indiana Pacers,Utah Jazz,72.39%,27.61%
+Mon Jan 20 2020,10:00p,Golden State Warriors,Portland Trail Blazers,76.96%,23.04%
+Tue Jan 21 2020,8:30p,Los Angeles Clippers,Dallas Mavericks,64.50%,35.50%
+Wed Jan 22 2020,7:00p,Sacramento Kings,Detroit Pistons,66.82%,33.18%
+Wed Jan 22 2020,7:00p,Oklahoma City Thunder,Orlando Magic,59.32%,40.68%
+Wed Jan 22 2020,7:00p,Philadelphia 76ers,Toronto Raptors,70.52%,29.48%
+Wed Jan 22 2020,7:30p,Los Angeles Clippers,Atlanta Hawks,29.09%,70.91%
+Wed Jan 22 2020,7:30p,Memphis Grizzlies,Boston Celtics,66.74%,33.26%
+Wed Jan 22 2020,7:30p,Washington Wizards,Miami Heat,80.33%,19.67%
+Wed Jan 22 2020,7:30p,Los Angeles Lakers,New York Knicks,28.76%,71.24%
+Wed Jan 22 2020,8:00p,Minnesota Timberwolves,Chicago Bulls,51.38%,48.62%
+Wed Jan 22 2020,8:00p,Denver Nuggets,Houston Rockets,67.24%,32.76%
+Wed Jan 22 2020,9:00p,Indiana Pacers,Phoenix Suns,55.78%,44.22%
+Wed Jan 22 2020,9:30p,San Antonio Spurs,New Orleans Pelicans,60.59%,39.41%
+Wed Jan 22 2020,10:00p,Utah Jazz,Golden State Warriors,27.68%,72.32%
+Thu Jan 23 2020,7:00p,Washington Wizards,Cleveland Cavaliers,40.29%,59.71%
+Thu Jan 23 2020,8:00p,Los Angeles Lakers,Brooklyn Nets,33.85%,66.15%
+Thu Jan 23 2020,10:30p,Dallas Mavericks,Portland Trail Blazers,43.73%,56.27%
+Fri Jan 24 2020,3:00p,Milwaukee Bucks,Charlotte Hornets,21.41%,78.59%
+Fri Jan 24 2020,7:00p,Memphis Grizzlies,Detroit Pistons,51.72%,48.28%
+Fri Jan 24 2020,7:00p,Boston Celtics,Orlando Magic,52.35%,47.65%
+Fri Jan 24 2020,7:30p,Toronto Raptors,New York Knicks,29.25%,70.75%
+Fri Jan 24 2020,8:00p,Sacramento Kings,Chicago Bulls,62.28%,37.72%
+Fri Jan 24 2020,8:00p,Los Angeles Clippers,Miami Heat,70.16%,29.84%
+Fri Jan 24 2020,8:00p,Houston Rockets,Minnesota Timberwolves,34.95%,65.05%
+Fri Jan 24 2020,8:00p,Denver Nuggets,New Orleans Pelicans,57.68%,42.32%
+Fri Jan 24 2020,8:00p,Atlanta Hawks,Oklahoma City Thunder,81.40%,18.60%
+Fri Jan 24 2020,8:30p,Phoenix Suns,San Antonio Spurs,71.73%,28.27%
+Fri Jan 24 2020,10:30p,Indiana Pacers,Golden State Warriors,35.15%,64.85%
+Sat Jan 25 2020,5:00p,Dallas Mavericks,Utah Jazz,67.26%,32.74%
+Sat Jan 25 2020,7:00p,Brooklyn Nets,Detroit Pistons,64.93%,35.07%
+Sat Jan 25 2020,8:00p,Chicago Bulls,Cleveland Cavaliers,45.39%,54.61%
+Sat Jan 25 2020,8:00p,Oklahoma City Thunder,Minnesota Timberwolves,41.67%,58.33%
+Sat Jan 25 2020,8:30p,Los Angeles Lakers,Philadelphia 76ers,50.72%,49.28%
+Sun Jan 26 2020,3:30p,Houston Rockets,Denver Nuggets,57.81%,42.19%
+Sun Jan 26 2020,4:00p,Toronto Raptors,San Antonio Spurs,50.56%,49.44%
+Sun Jan 26 2020,6:00p,Washington Wizards,Atlanta Hawks,42.70%,57.30%
+Sun Jan 26 2020,6:00p,Phoenix Suns,Memphis Grizzlies,67.34%,32.66%
+Sun Jan 26 2020,6:00p,Boston Celtics,New Orleans Pelicans,47.17%,52.83%
+Sun Jan 26 2020,6:00p,Brooklyn Nets,New York Knicks,39.87%,60.13%
+Sun Jan 26 2020,6:00p,Los Angeles Clippers,Orlando Magic,42.60%,57.40%
+Sun Jan 26 2020,9:00p,Indiana Pacers,Portland Trail Blazers,47.55%,52.45%
+Mon Jan 27 2020,7:00p,Cleveland Cavaliers,Detroit Pistons,73.93%,26.07%
+Mon Jan 27 2020,7:30p,Orlando Magic,Miami Heat,78.46%,21.54%
+Mon Jan 27 2020,8:00p,San Antonio Spurs,Chicago Bulls,46.21%,53.79%
+Mon Jan 27 2020,8:00p,Sacramento Kings,Minnesota Timberwolves,60.45%,39.55%
+Mon Jan 27 2020,8:00p,Dallas Mavericks,Oklahoma City Thunder,59.75%,40.25%
+Mon Jan 27 2020,9:00p,Houston Rockets,Utah Jazz,71.86%,28.14%
+Tue Jan 28 2020,7:00p,New York Knicks,Charlotte Hornets,51.21%,48.79%
+Tue Jan 28 2020,7:00p,Golden State Warriors,Philadelphia 76ers,82.71%,17.29%
+Tue Jan 28 2020,7:30p,New Orleans Pelicans,Cleveland Cavaliers,34.20%,65.80%
+Tue Jan 28 2020,7:30p,Atlanta Hawks,Toronto Raptors,84.00%,16.00%
+Tue Jan 28 2020,8:00p,Denver Nuggets,Memphis Grizzlies,62.97%,37.03%
+Tue Jan 28 2020,8:00p,Boston Celtics,Miami Heat,69.98%,30.02%
+Tue Jan 28 2020,8:00p,Washington Wizards,Milwaukee Bucks,86.12%,13.88%
+Tue Jan 28 2020,8:30p,Phoenix Suns,Dallas Mavericks,75.57%,24.43%
+Wed Jan 29 2020,7:00p,Chicago Bulls,Indiana Pacers,76.06%,23.94%
+Wed Jan 29 2020,7:30p,Detroit Pistons,Brooklyn Nets,54.78%,45.22%
+Wed Jan 29 2020,7:30p,Memphis Grizzlies,New York Knicks,35.66%,64.34%
+Wed Jan 29 2020,8:30p,Utah Jazz,San Antonio Spurs,49.39%,50.61%
+Wed Jan 29 2020,10:00p,Houston Rockets,Portland Trail Blazers,47.92%,52.08%
+Wed Jan 29 2020,10:00p,Oklahoma City Thunder,Sacramento Kings,41.56%,58.44%
+Thu Jan 30 2020,7:00p,Toronto Raptors,Cleveland Cavaliers,25.81%,74.19%
+Thu Jan 30 2020,7:00p,Charlotte Hornets,Washington Wizards,70.00%,30.00%
+Thu Jan 30 2020,7:30p,Philadelphia 76ers,Atlanta Hawks,35.53%,64.47%
+Thu Jan 30 2020,8:00p,Golden State Warriors,Boston Celtics,83.86%,16.14%
+Thu Jan 30 2020,10:30p,Utah Jazz,Denver Nuggets,53.46%,46.54%
+Thu Jan 30 2020,10:30p,Sacramento Kings,Los Angeles Clippers,81.09%,18.91%
+Fri Jan 31 2020,7:00p,Toronto Raptors,Detroit Pistons,33.56%,66.44%
+Fri Jan 31 2020,7:30p,Chicago Bulls,Brooklyn Nets,65.39%,34.61%
+Fri Jan 31 2020,7:30p,Dallas Mavericks,Houston Rockets,53.20%,46.80%
+Fri Jan 31 2020,8:00p,Memphis Grizzlies,New Orleans Pelicans,50.77%,49.23%
+Fri Jan 31 2020,9:00p,Denver Nuggets,Milwaukee Bucks,82.13%,17.87%
+Fri Jan 31 2020,9:00p,Oklahoma City Thunder,Phoenix Suns,49.34%,50.66%
+Fri Jan 31 2020,10:30p,Portland Trail Blazers,Los Angeles Lakers,81.91%,18.09%
+Sat Feb 1 2020,3:30p,Minnesota Timberwolves,Los Angeles Clippers,80.00%,20.00%
+Sat Feb 1 2020,7:00p,New York Knicks,Indiana Pacers,83.92%,16.08%
+Sat Feb 1 2020,7:00p,Miami Heat,Orlando Magic,37.16%,62.84%
+Sat Feb 1 2020,8:00p,Golden State Warriors,Cleveland Cavaliers,52.23%,47.77%
+Sat Feb 1 2020,8:00p,Brooklyn Nets,Washington Wizards,59.45%,40.55%
+Sat Feb 1 2020,8:30p,Philadelphia 76ers,Boston Celtics,69.78%,30.22%
+Sat Feb 1 2020,8:30p,Atlanta Hawks,Dallas Mavericks,81.46%,18.54%
+Sat Feb 1 2020,9:00p,Charlotte Hornets,San Antonio Spurs,80.60%,19.40%
+Sat Feb 1 2020,10:00p,Los Angeles Lakers,Sacramento Kings,33.12%,66.88%
+Sat Feb 1 2020,10:30p,Utah Jazz,Portland Trail Blazers,52.75%,47.25%
+Sun Feb 2 2020,12:30p,Denver Nuggets,Detroit Pistons,45.60%,54.40%
+Sun Feb 2 2020,2:00p,New Orleans Pelicans,Houston Rockets,68.86%,31.14%
+Sun Feb 2 2020,2:00p,Phoenix Suns,Milwaukee Bucks,84.92%,15.08%
+Sun Feb 2 2020,3:00p,Chicago Bulls,Toronto Raptors,81.45%,18.55%
+Mon Feb 3 2020,7:00p,Orlando Magic,Charlotte Hornets,43.41%,56.59%
+Mon Feb 3 2020,7:00p,New York Knicks,Cleveland Cavaliers,46.26%,53.74%
+Mon Feb 3 2020,7:00p,Dallas Mavericks,Indiana Pacers,61.99%,38.01%
+Mon Feb 3 2020,7:00p,Golden State Warriors,Washington Wizards,74.46%,25.54%
+Mon Feb 3 2020,7:30p,Boston Celtics,Atlanta Hawks,35.08%,64.92%
+Mon Feb 3 2020,7:30p,Phoenix Suns,Brooklyn Nets,55.25%,44.75%
+Mon Feb 3 2020,7:30p,Philadelphia 76ers,Miami Heat,71.13%,28.87%
+Mon Feb 3 2020,8:00p,Detroit Pistons,Memphis Grizzlies,70.15%,29.85%
+Mon Feb 3 2020,10:00p,Minnesota Timberwolves,Sacramento Kings,51.72%,48.28%
+Mon Feb 3 2020,10:30p,San Antonio Spurs,Los Angeles Clippers,73.92%,26.08%
+Tue Feb 4 2020,7:30p,Milwaukee Bucks,New Orleans Pelicans,31.99%,68.01%
+Tue Feb 4 2020,8:00p,Charlotte Hornets,Houston Rockets,83.57%,16.43%
+Tue Feb 4 2020,9:00p,Portland Trail Blazers,Denver Nuggets,71.79%,28.21%
+Tue Feb 4 2020,10:00p,San Antonio Spurs,Los Angeles Lakers,77.31%,22.69%
+Wed Feb 5 2020,7:00p,Phoenix Suns,Detroit Pistons,50.60%,49.40%
+Wed Feb 5 2020,7:30p,Orlando Magic,Boston Celtics,80.12%,19.88%
+Wed Feb 5 2020,7:30p,Golden State Warriors,Brooklyn Nets,70.96%,29.04%
+Wed Feb 5 2020,7:30p,Indiana Pacers,Toronto Raptors,80.03%,19.97%
+Wed Feb 5 2020,8:00p,Atlanta Hawks,Minnesota Timberwolves,62.48%,37.52%
+Wed Feb 5 2020,8:00p,Cleveland Cavaliers,Oklahoma City Thunder,82.70%,17.30%
+Wed Feb 5 2020,8:30p,Memphis Grizzlies,Dallas Mavericks,69.01%,30.99%
+Wed Feb 5 2020,9:00p,Denver Nuggets,Utah Jazz,65.08%,34.92%
+Wed Feb 5 2020,10:00p,Miami Heat,Los Angeles Clippers,60.15%,39.85%
+Thu Feb 6 2020,7:30p,Orlando Magic,New York Knicks,50.24%,49.76%
+Thu Feb 6 2020,8:00p,New Orleans Pelicans,Chicago Bulls,39.85%,60.15%
+Thu Feb 6 2020,8:00p,Philadelphia 76ers,Milwaukee Bucks,82.06%,17.94%
+Thu Feb 6 2020,10:00p,San Antonio Spurs,Portland Trail Blazers,66.26%,33.74%
+Thu Feb 6 2020,10:30p,Houston Rockets,Los Angeles Lakers,71.13%,28.87%
+Fri Feb 7 2020,7:00p,Memphis Grizzlies,Philadelphia 76ers,59.19%,40.81%
+Fri Feb 7 2020,7:00p,Dallas Mavericks,Washington Wizards,39.82%,60.18%
+Fri Feb 7 2020,7:30p,Atlanta Hawks,Boston Celtics,84.37%,15.63%
+Fri Feb 7 2020,8:00p,Toronto Raptors,Indiana Pacers,42.92%,57.08%
+Fri Feb 7 2020,8:00p,Detroit Pistons,Oklahoma City Thunder,78.56%,21.44%
+Fri Feb 7 2020,9:00p,Houston Rockets,Phoenix Suns,36.35%,63.65%
+Fri Feb 7 2020,10:00p,Miami Heat,Sacramento Kings,33.56%,66.44%
+Fri Feb 7 2020,10:30p,Portland Trail Blazers,Utah Jazz,70.19%,29.81%
+Sat Feb 8 2020,5:00p,Milwaukee Bucks,Orlando Magic,25.65%,74.35%
+Sat Feb 8 2020,7:00p,Dallas Mavericks,Charlotte Hornets,27.02%,72.98%
+Sat Feb 8 2020,7:00p,New York Knicks,Detroit Pistons,68.78%,31.22%
+Sat Feb 8 2020,7:30p,New Orleans Pelicans,Indiana Pacers,62.86%,37.14%
+Sat Feb 8 2020,7:30p,Brooklyn Nets,Toronto Raptors,81.13%,18.87%
+Sat Feb 8 2020,8:00p,Los Angeles Clippers,Minnesota Timberwolves,31.43%,68.57%
+Sat Feb 8 2020,8:30p,Los Angeles Lakers,Golden State Warriors,30.13%,69.87%
+Sat Feb 8 2020,9:00p,Denver Nuggets,Phoenix Suns,47.30%,52.70%
+Sat Feb 8 2020,10:00p,San Antonio Spurs,Sacramento Kings,46.95%,53.05%
+Sun Feb 9 2020,3:30p,Boston Celtics,Oklahoma City Thunder,65.16%,34.84%
+Sun Feb 9 2020,6:00p,New York Knicks,Atlanta Hawks,57.18%,42.82%
+Sun Feb 9 2020,6:00p,Chicago Bulls,Philadelphia 76ers,75.15%,24.85%
+Sun Feb 9 2020,6:00p,Memphis Grizzlies,Washington Wizards,51.83%,48.17%
+Sun Feb 9 2020,7:00p,Utah Jazz,Houston Rockets,68.67%,31.33%
+Sun Feb 9 2020,7:30p,Los Angeles Clippers,Cleveland Cavaliers,27.79%,72.21%
+Sun Feb 9 2020,9:00p,Miami Heat,Portland Trail Blazers,48.24%,51.76%
+Mon Feb 10 2020,7:00p,Charlotte Hornets,Detroit Pistons,69.02%,30.98%
+Mon Feb 10 2020,7:00p,Brooklyn Nets,Indiana Pacers,67.04%,32.96%
+Mon Feb 10 2020,7:00p,Atlanta Hawks,Orlando Magic,69.50%,30.50%
+Mon Feb 10 2020,7:30p,Minnesota Timberwolves,Toronto Raptors,83.89%,16.11%
+Mon Feb 10 2020,8:00p,Sacramento Kings,Milwaukee Bucks,85.29%,14.71%
+Mon Feb 10 2020,8:30p,Utah Jazz,Dallas Mavericks,63.04%,36.96%
+Mon Feb 10 2020,9:00p,San Antonio Spurs,Denver Nuggets,73.13%,26.87%
+Mon Feb 10 2020,10:30p,Miami Heat,Golden State Warriors,30.67%,69.33%
+Mon Feb 10 2020,10:30p,Phoenix Suns,Los Angeles Lakers,80.93%,19.07%
+Tue Feb 11 2020,7:00p,Los Angeles Clippers,Philadelphia 76ers,57.84%,42.16%
+Tue Feb 11 2020,7:00p,Chicago Bulls,Washington Wizards,68.83%,31.17%
+Tue Feb 11 2020,8:00p,Portland Trail Blazers,New Orleans Pelicans,58.91%,41.09%
+Tue Feb 11 2020,8:00p,San Antonio Spurs,Oklahoma City Thunder,75.10%,24.90%
+Tue Feb 11 2020,9:30p,Boston Celtics,Houston Rockets,58.88%,41.12%
+Wed Feb 12 2020,7:00p,Atlanta Hawks,Cleveland Cavaliers,42.78%,57.22%
+Wed Feb 12 2020,7:00p,Detroit Pistons,Orlando Magic,61.91%,38.09%
+Wed Feb 12 2020,7:30p,Toronto Raptors,Brooklyn Nets,34.87%,65.13%
+Wed Feb 12 2020,7:30p,Milwaukee Bucks,Indiana Pacers,30.90%,69.10%
+Wed Feb 12 2020,7:30p,Washington Wizards,New York Knicks,49.14%,50.86%
+Wed Feb 12 2020,8:00p,Portland Trail Blazers,Memphis Grizzlies,71.70%,28.30%
+Wed Feb 12 2020,8:00p,Charlotte Hornets,Minnesota Timberwolves,66.99%,33.01%
+Wed Feb 12 2020,8:30p,Sacramento Kings,Dallas Mavericks,73.46%,26.54%
+Wed Feb 12 2020,9:00p,Golden State Warriors,Phoenix Suns,68.53%,31.47%
+Wed Feb 12 2020,9:00p,Miami Heat,Utah Jazz,54.71%,45.29%
+Wed Feb 12 2020,10:00p,Los Angeles Lakers,Denver Nuggets,54.07%,45.93%
+Thu Feb 13 2020,8:00p,Los Angeles Clippers,Boston Celtics,71.21%,28.79%
+Thu Feb 13 2020,8:00p,Oklahoma City Thunder,New Orleans Pelicans,56.18%,43.82%
+Thu Feb 20 2020,7:00p,Milwaukee Bucks,Detroit Pistons,25.60%,74.40%
+Thu Feb 20 2020,7:30p,Miami Heat,Atlanta Hawks,32.27%,67.73%
+Thu Feb 20 2020,8:00p,Charlotte Hornets,Chicago Bulls,60.54%,39.46%
+Thu Feb 20 2020,8:00p,Brooklyn Nets,Philadelphia 76ers,69.96%,30.04%
+Thu Feb 20 2020,10:00p,Memphis Grizzlies,Sacramento Kings,44.50%,55.50%
+Thu Feb 20 2020,10:30p,Houston Rockets,Golden State Warriors,30.42%,69.58%
+Fri Feb 21 2020,7:00p,Dallas Mavericks,Orlando Magic,39.35%,60.65%
+Fri Feb 21 2020,7:00p,Cleveland Cavaliers,Washington Wizards,77.64%,22.36%
+Fri Feb 21 2020,7:30p,Indiana Pacers,New York Knicks,42.81%,57.19%
+Fri Feb 21 2020,7:30p,Phoenix Suns,Toronto Raptors,81.52%,18.48%
+Fri Feb 21 2020,8:00p,Boston Celtics,Minnesota Timberwolves,35.40%,64.60%
+Fri Feb 21 2020,8:00p,Denver Nuggets,Oklahoma City Thunder,66.04%,33.96%
+Fri Feb 21 2020,9:00p,San Antonio Spurs,Utah Jazz,71.35%,28.65%
+Fri Feb 21 2020,10:30p,Memphis Grizzlies,Los Angeles Lakers,75.20%,24.80%
+Fri Feb 21 2020,10:30p,New Orleans Pelicans,Portland Trail Blazers,64.46%,35.54%
+Sat Feb 22 2020,3:30p,Sacramento Kings,Los Angeles Clippers,76.07%,23.93%
+Sat Feb 22 2020,7:00p,Brooklyn Nets,Charlotte Hornets,39.46%,60.54%
+Sat Feb 22 2020,7:30p,Dallas Mavericks,Atlanta Hawks,30.68%,69.32%
+Sat Feb 22 2020,8:00p,Phoenix Suns,Chicago Bulls,43.86%,56.14%
+Sat Feb 22 2020,8:00p,Cleveland Cavaliers,Miami Heat,81.40%,18.60%
+Sat Feb 22 2020,8:30p,Philadelphia 76ers,Milwaukee Bucks,81.92%,18.08%
+Sat Feb 22 2020,9:00p,Houston Rockets,Utah Jazz,51.41%,48.59%
+Sun Feb 23 2020,3:30p,Boston Celtics,Los Angeles Lakers,69.19%,30.81%
+Sun Feb 23 2020,6:00p,Minnesota Timberwolves,Denver Nuggets,78.69%,21.31%
+Sun Feb 23 2020,6:00p,Indiana Pacers,Toronto Raptors,80.24%,19.76%
+Sun Feb 23 2020,7:00p,Washington Wizards,Chicago Bulls,44.70%,55.30%
+Sun Feb 23 2020,7:00p,San Antonio Spurs,Oklahoma City Thunder,70.66%,29.34%
+Sun Feb 23 2020,8:30p,New Orleans Pelicans,Golden State Warriors,31.92%,68.08%
+Sun Feb 23 2020,9:00p,Detroit Pistons,Portland Trail Blazers,72.36%,27.64%
+Mon Feb 24 2020,7:00p,Miami Heat,Cleveland Cavaliers,29.07%,70.93%
+Mon Feb 24 2020,7:00p,Atlanta Hawks,Philadelphia 76ers,78.56%,21.44%
+Mon Feb 24 2020,7:00p,Milwaukee Bucks,Washington Wizards,30.28%,69.72%
+Mon Feb 24 2020,7:30p,Orlando Magic,Brooklyn Nets,68.03%,31.97%
+Mon Feb 24 2020,8:00p,New York Knicks,Houston Rockets,84.03%,15.97%
+Mon Feb 24 2020,8:30p,Minnesota Timberwolves,Dallas Mavericks,79.03%,20.97%
+Mon Feb 24 2020,9:00p,Phoenix Suns,Utah Jazz,69.65%,30.35%
+Mon Feb 24 2020,10:30p,Memphis Grizzlies,Los Angeles Clippers,67.32%,32.68%
+Tue Feb 25 2020,7:00p,Charlotte Hornets,Indiana Pacers,75.85%,24.15%
+Tue Feb 25 2020,7:30p,Milwaukee Bucks,Toronto Raptors,52.24%,47.76%
+Tue Feb 25 2020,8:00p,Oklahoma City Thunder,Chicago Bulls,35.33%,64.67%
+Tue Feb 25 2020,9:00p,Detroit Pistons,Denver Nuggets,78.30%,21.70%
+Tue Feb 25 2020,10:00p,New Orleans Pelicans,Los Angeles Lakers,75.27%,24.73%
+Tue Feb 25 2020,10:00p,Boston Celtics,Portland Trail Blazers,49.03%,50.97%
+Tue Feb 25 2020,10:30p,Sacramento Kings,Golden State Warriors,41.59%,58.41%
+Wed Feb 26 2020,7:00p,New York Knicks,Charlotte Hornets,48.37%,51.63%
+Wed Feb 26 2020,7:00p,Philadelphia 76ers,Cleveland Cavaliers,36.21%,63.79%
+Wed Feb 26 2020,7:00p,Brooklyn Nets,Washington Wizards,58.53%,41.47%
+Wed Feb 26 2020,7:30p,Orlando Magic,Atlanta Hawks,50.90%,49.10%
+Wed Feb 26 2020,7:30p,Minnesota Timberwolves,Miami Heat,79.50%,20.50%
+Wed Feb 26 2020,8:00p,Memphis Grizzlies,Houston Rockets,78.34%,21.66%
+Wed Feb 26 2020,8:30p,Dallas Mavericks,San Antonio Spurs,52.82%,47.18%
+Wed Feb 26 2020,9:00p,Los Angeles Clippers,Phoenix Suns,42.38%,57.62%
+Wed Feb 26 2020,10:30p,Boston Celtics,Utah Jazz,52.42%,47.58%
+Thu Feb 27 2020,7:00p,New York Knicks,Philadelphia 76ers,81.04%,18.96%
+Thu Feb 27 2020,8:00p,Portland Trail Blazers,Indiana Pacers,71.42%,28.58%
+Thu Feb 27 2020,8:00p,Sacramento Kings,Oklahoma City Thunder,77.90%,22.10%
+Thu Feb 27 2020,10:30p,Los Angeles Lakers,Golden State Warriors,25.96%,74.04%
+Fri Feb 28 2020,7:00p,Minnesota Timberwolves,Orlando Magic,70.53%,29.47%
+Fri Feb 28 2020,7:30p,Brooklyn Nets,Atlanta Hawks,42.74%,57.26%
+Fri Feb 28 2020,7:30p,Charlotte Hornets,Toronto Raptors,83.66%,16.34%
+Fri Feb 28 2020,8:00p,Sacramento Kings,Memphis Grizzlies,65.84%,34.16%
+Fri Feb 28 2020,8:00p,Dallas Mavericks,Miami Heat,55.66%,44.34%
+Fri Feb 28 2020,8:00p,Oklahoma City Thunder,Milwaukee Bucks,80.77%,19.23%
+Fri Feb 28 2020,8:00p,Cleveland Cavaliers,New Orleans Pelicans,75.86%,24.14%
+Fri Feb 28 2020,9:00p,Detroit Pistons,Phoenix Suns,61.81%,38.19%
+Fri Feb 28 2020,9:00p,Washington Wizards,Utah Jazz,69.47%,30.53%
+Fri Feb 28 2020,10:30p,Denver Nuggets,Los Angeles Clippers,65.39%,34.61%
+Sat Feb 29 2020,5:00p,Chicago Bulls,New York Knicks,58.08%,41.92%
+Sat Feb 29 2020,7:30p,Portland Trail Blazers,Atlanta Hawks,47.37%,52.63%
+Sat Feb 29 2020,7:30p,Brooklyn Nets,Miami Heat,74.94%,25.06%
+Sat Feb 29 2020,8:00p,Indiana Pacers,Cleveland Cavaliers,37.22%,62.78%
+Sat Feb 29 2020,8:00p,Los Angeles Lakers,Memphis Grizzlies,37.34%,62.66%
+Sat Feb 29 2020,8:30p,Houston Rockets,Boston Celtics,65.63%,34.37%
+Sat Feb 29 2020,8:30p,Orlando Magic,San Antonio Spurs,67.30%,32.70%
+Sat Feb 29 2020,9:00p,Golden State Warriors,Phoenix Suns,71.01%,28.99%
+Sun Mar 1 2020,1:00p,Milwaukee Bucks,Charlotte Hornets,22.81%,77.19%
+Sun Mar 1 2020,3:30p,Philadelphia 76ers,Los Angeles Clippers,69.79%,30.21%
+Sun Mar 1 2020,3:30p,Dallas Mavericks,Minnesota Timberwolves,33.19%,66.81%
+Sun Mar 1 2020,6:00p,Toronto Raptors,Denver Nuggets,53.80%,46.20%
+Sun Mar 1 2020,6:00p,Detroit Pistons,Sacramento Kings,63.38%,36.62%
+Sun Mar 1 2020,8:00p,Los Angeles Lakers,New Orleans Pelicans,43.92%,56.08%
+Sun Mar 1 2020,8:30p,Washington Wizards,Golden State Warriors,41.94%,58.06%
+Mon Mar 2 2020,7:00p,Utah Jazz,Cleveland Cavaliers,30.24%,69.76%
+Mon Mar 2 2020,7:00p,Houston Rockets,New York Knicks,30.85%,69.15%
+Mon Mar 2 2020,7:00p,Portland Trail Blazers,Orlando Magic,69.90%,30.10%
+Mon Mar 2 2020,7:30p,Memphis Grizzlies,Atlanta Hawks,47.45%,52.55%
+Mon Mar 2 2020,7:30p,Milwaukee Bucks,Miami Heat,39.19%,60.81%
+Mon Mar 2 2020,8:00p,Dallas Mavericks,Chicago Bulls,27.86%,72.14%
+Mon Mar 2 2020,8:30p,Indiana Pacers,San Antonio Spurs,61.98%,38.02%
+Tue Mar 3 2020,7:00p,San Antonio Spurs,Charlotte Hornets,39.41%,60.59%
+Tue Mar 3 2020,7:30p,Brooklyn Nets,Boston Celtics,79.46%,20.54%
+Tue Mar 3 2020,8:00p,Minnesota Timberwolves,New Orleans Pelicans,70.10%,29.90%
+Tue Mar 3 2020,8:00p,Los Angeles Clippers,Oklahoma City Thunder,63.77%,36.23%
+Tue Mar 3 2020,9:00p,Golden State Warriors,Denver Nuggets,82.48%,17.52%
+Tue Mar 3 2020,9:00p,Toronto Raptors,Phoenix Suns,39.23%,60.77%
+Tue Mar 3 2020,10:00p,Philadelphia 76ers,Los Angeles Lakers,76.76%,23.24%
+Tue Mar 3 2020,10:00p,Washington Wizards,Sacramento Kings,58.06%,41.94%
+Wed Mar 4 2020,7:00p,Boston Celtics,Cleveland Cavaliers,32.47%,67.53%
+Wed Mar 4 2020,7:00p,Oklahoma City Thunder,Detroit Pistons,40.48%,59.52%
+Wed Mar 4 2020,7:00p,Indiana Pacers,Milwaukee Bucks,81.62%,18.38%
+Wed Mar 4 2020,7:30p,Memphis Grizzlies,Brooklyn Nets,53.70%,46.30%
+Wed Mar 4 2020,7:30p,Utah Jazz,New York Knicks,76.66%,23.34%
+Wed Mar 4 2020,7:30p,Orlando Magic,Miami Heat,33.70%,66.30%
+Wed Mar 4 2020,8:00p,Chicago Bulls,Minnesota Timberwolves,66.36%,33.64%
+Wed Mar 4 2020,9:30p,New Orleans Pelicans,Dallas Mavericks,68.82%,31.18%
+Wed Mar 4 2020,10:00p,Washington Wizards,Portland Trail Blazers,65.14%,34.86%
+Thu Mar 5 2020,7:00p,Denver Nuggets,Charlotte Hornets,36.98%,63.02%
+Thu Mar 5 2020,8:00p,Los Angeles Clippers,Houston Rockets,68.31%,31.69%
+Thu Mar 5 2020,10:00p,Philadelphia 76ers,Sacramento Kings,51.85%,48.15%
+Thu Mar 5 2020,10:30p,Toronto Raptors,Golden State Warriors,30.16%,69.84%
+Fri Mar 6 2020,7:00p,Atlanta Hawks,Washington Wizards,69.86%,30.14%
+Fri Mar 6 2020,7:30p,San Antonio Spurs,Brooklyn Nets,54.62%,45.38%
+Fri Mar 6 2020,7:30p,Oklahoma City Thunder,New York Knicks,36.88%,63.12%
+Fri Mar 6 2020,8:00p,Indiana Pacers,Chicago Bulls,68.13%,31.87%
+Fri Mar 6 2020,8:00p,Orlando Magic,Minnesota Timberwolves,40.71%,59.29%
+Fri Mar 6 2020,8:00p,Miami Heat,New Orleans Pelicans,58.01%,41.99%
+Fri Mar 6 2020,8:00p,Utah Jazz,Boston Celtics,43.54%,56.46%
+Fri Mar 6 2020,8:30p,Memphis Grizzlies,Dallas Mavericks,72.09%,27.91%
+Fri Mar 6 2020,9:00p,Portland Trail Blazers,Phoenix Suns,50.29%,49.71%
+Fri Mar 6 2020,10:30p,Milwaukee Bucks,Los Angeles Lakers,56.56%,43.44%
+Sat Mar 7 2020,5:00p,Houston Rockets,Charlotte Hornets,30.53%,69.47%
+Sat Mar 7 2020,7:00p,Utah Jazz,Detroit Pistons,30.87%,69.13%
+Sat Mar 7 2020,7:30p,Denver Nuggets,Cleveland Cavaliers,35.36%,64.64%
+Sat Mar 7 2020,8:00p,Atlanta Hawks,Memphis Grizzlies,75.04%,24.96%
+Sat Mar 7 2020,8:30p,Philadelphia 76ers,Golden State Warriors,35.47%,64.53%
+Sat Mar 7 2020,10:00p,Sacramento Kings,Portland Trail Blazers,65.61%,34.39%
+Sun Mar 8 2020,3:00p,Chicago Bulls,Brooklyn Nets,70.29%,29.71%
+Sun Mar 8 2020,3:30p,New Orleans Pelicans,Minnesota Timberwolves,55.68%,44.32%
+Sun Mar 8 2020,3:30p,Los Angeles Lakers,Los Angeles Clippers,41.90%,58.10%
+Sun Mar 8 2020,6:00p,Oklahoma City Thunder,Boston Celtics,65.79%,34.21%
+Sun Mar 8 2020,6:00p,Milwaukee Bucks,Phoenix Suns,29.86%,70.14%
+Sun Mar 8 2020,7:00p,Miami Heat,Washington Wizards,73.80%,26.20%
+Sun Mar 8 2020,7:00p,Indiana Pacers,Dallas Mavericks,76.61%,23.39%
+Sun Mar 8 2020,7:00p,Orlando Magic,Houston Rockets,40.92%,59.08%
+Sun Mar 8 2020,7:30p,Detroit Pistons,New York Knicks,38.30%,61.70%
+Sun Mar 8 2020,7:30p,San Antonio Spurs,Cleveland Cavaliers,47.79%,52.21%
+Sun Mar 8 2020,9:00p,Toronto Raptors,Sacramento Kings,41.46%,58.54%
+Mon Mar 9 2020,7:30p,Charlotte Hornets,Atlanta Hawks,59.59%,40.41%
+Mon Mar 9 2020,9:00p,Milwaukee Bucks,Denver Nuggets,38.11%,61.89%
+Mon Mar 9 2020,9:00p,Toronto Raptors,Utah Jazz,53.78%,46.22%
+Tue Mar 10 2020,7:00p,New York Knicks,Washington Wizards,65.83%,34.17%
+Tue Mar 10 2020,7:00p,Boston Celtics,Indiana Pacers,73.48%,26.52%
+Tue Mar 10 2020,8:00p,Minnesota Timberwolves,Houston Rockets,57.68%,42.32%
+Tue Mar 10 2020,8:00p,Dallas Mavericks,San Antonio Spurs,78.97%,21.03%
+Tue Mar 10 2020,8:00p,Orlando Magic,Memphis Grizzlies,63.53%,36.47%
+Tue Mar 10 2020,8:00p,Cleveland Cavaliers,Chicago Bulls,52.52%,47.48%
+Tue Mar 10 2020,10:00p,Phoenix Suns,Portland Trail Blazers,61.04%,38.96%
+Tue Mar 10 2020,10:30p,Brooklyn Nets,Los Angeles Lakers,31.45%,68.55%
+Tue Mar 10 2020,10:30p,Los Angeles Clippers,Golden State Warriors,82.52%,17.48%
+Wed Mar 11 2020,7:00p,Detroit Pistons,Philadelphia 76ers,78.94%,21.06%
+Wed Mar 11 2020,7:30p,New York Knicks,Atlanta Hawks,67.32%,32.68%
+Wed Mar 11 2020,7:30p,Charlotte Hornets,Miami Heat,82.58%,17.42%
+Wed Mar 11 2020,8:00p,Denver Nuggets,Dallas Mavericks,67.72%,32.28%

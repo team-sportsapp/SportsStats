@@ -60,8 +60,8 @@ public class MatchesSample{
     public String toString() {
         return "Date: " + date + '\n' +
                 "Time(EST): " + time + '\n' +
-                "Home: " + home + "     Win Rate: " + homeWin + "%" + '\n' +
-                "Away: " + away + "     Win Rate: " + awayWin + "%" ;
+                "Home: " + home + "     Win Rate: " + homeWin  + '\n' +
+                "Away: " + away + "     Win Rate: " + awayWin  ;
 
           /*
         return "MatchesSample{" +

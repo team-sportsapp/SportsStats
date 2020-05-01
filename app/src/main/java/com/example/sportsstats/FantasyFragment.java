@@ -208,12 +208,12 @@ public class FantasyFragment extends Fragment {
                     tvTeamBlocks.setText(String.valueOf(totalBlocks));
                     tvTeamTurnovers.setText(String.valueOf(totalTurnovers));
                 }
-
-            }
-
+                }
 
 
-        });
+
+        }
+        );
 
         return view;
 
