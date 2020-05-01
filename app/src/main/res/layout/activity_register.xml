@@ -6,34 +6,47 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/gradient"
-    >
+    tools:context=".Register">
 
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="120dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="40dp"
+        app:srcCompat="@drawable/samplelogo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
 
     <EditText
-        android:id="@+id/etUserName"
+        android:id="@+id/memail"
         android:layout_width="250dp"
         android:layout_height="40dp"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="35dp"
+        android:layout_above="@+id/mpassword"
+        android:layout_marginBottom="30dp"
         android:background="#11000000"
         android:drawableLeft="@drawable/ic_action_user"
         android:ems="10"
-        android:hint="Username"
+        android:layout_centerHorizontal="true"
+        android:hint="Email"
         android:inputType="textPersonName"
         android:textSize="16dp" />
 
     <EditText
-        android:id="@+id/etPassword"
+        android:id="@+id/mpassword"
         android:layout_width="250dp"
         android:layout_height="40dp"
         android:layout_above="@+id/regBtn"
-        android:layout_marginBottom="115dp"
+        android:layout_alignStart="@+id/etUserName"
+        android:layout_alignLeft="@+id/etUserName"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="26dp"
         android:background="#11000000"
         android:drawableLeft="@drawable/ic_action_password"
         android:ems="10"
+        android:layout_centerHorizontal="true"
         android:hint="Password"
-        android:inputType="textPassword"
-        android:layout_centerHorizontal="true"/>
+        android:inputType="textPassword" />
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -65,18 +78,16 @@
             app:srcCompat="@drawable/facebook" />
     </LinearLayout>
 
+
     <Button
         android:id="@+id/regBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/linearLayout"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginEnd="70dp"
-        android:layout_marginRight="93dp"
-        android:layout_marginBottom="130dp"
-        android:onClick="OpenReg"
+        android:layout_marginBottom="129dp"
         android:text="Register"
         android:textColor="#fff"
+        android:layout_centerHorizontal="true"
         android:textSize="18sp" />
+
 </RelativeLayout>

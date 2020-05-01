@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {//test
             @Override
             public void onClick(View view) {
 
-                //startActivity(new Intent(getApplicationContext(),Register.class));
+                startActivity(new Intent(getApplicationContext(), Register.class));
                 String email = memail.getText().toString().trim();
                 String password = mpassword.getText().toString().trim();
                 if (TextUtils.isEmpty(email)) {
@@ -64,7 +64,6 @@ public class MainActivity extends AppCompatActivity {//test
 
                     }
                 });//passes email and password to database.
-
             }
         });
         loginBtn.setOnClickListener(new View.OnClickListener() {

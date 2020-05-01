@@ -12,7 +12,7 @@
         android:id="@+id/logo"
         android:layout_width="120dp"
         android:layout_height="150dp"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="100dp"
         app:srcCompat="@drawable/samplelogo"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
@@ -22,31 +22,26 @@
         android:layout_width="250dp"
         android:layout_height="40dp"
         android:layout_above="@+id/etPassword"
-        android:layout_below="@+id/logo"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="89dp"
-        android:layout_marginBottom="35dp"
+        android:layout_marginBottom="10dp"
         android:background="#11000000"
         android:drawableLeft="@drawable/ic_action_user"
         android:ems="10"
         android:hint="Username"
         android:inputType="textPersonName"
+        android:layout_centerHorizontal="true"
         android:textSize="16dp" />
 
     <EditText
         android:id="@+id/etPassword"
         android:layout_width="250dp"
         android:layout_height="40dp"
-        android:layout_above="@+id/loginBtn"
-        android:layout_alignStart="@+id/etUserName"
-        android:layout_alignLeft="@+id/etUserName"
-        android:layout_marginStart="2dp"
-        android:layout_marginLeft="2dp"
-        android:layout_marginBottom="31dp"
+        android:layout_above="@+id/regBtn"
+        android:layout_marginBottom="26dp"
         android:background="#11000000"
         android:drawableLeft="@drawable/ic_action_password"
         android:ems="10"
         android:hint="Password"
+        android:layout_centerHorizontal="true"
         android:inputType="textPassword" />
 
     <LinearLayout

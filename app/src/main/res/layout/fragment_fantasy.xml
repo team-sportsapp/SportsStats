@@ -28,7 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="414dp"
         android:layout_below="@+id/addPlayer"
-        android:layout_marginTop="46dp">
+        android:layout_marginTop="4dp">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -159,7 +159,7 @@
                             <TextView
                                 android:id="@+id/teamstats"
                                 android:layout_width="100dp"
-                                android:layout_height="wrap_content"
+                                android:layout_height="35dp"
                                 android:text="Team Stats"
                                 android:textColor="#0C0C0C"
                                 android:textSize="14sp" />
@@ -259,14 +259,6 @@
                                 android:layout_width="100dp"
                                 android:layout_height="wrap_content"
                                 android:text="Player Name"
-                                android:textColor="#0C0C0C"
-                                android:textSize="14sp" />
-
-                            <TextView
-                                android:id="@+id/Remove"
-                                android:layout_width="60dp"
-                                android:layout_height="wrap_content"
-                                android:text=""
                                 android:textColor="#0C0C0C"
                                 android:textSize="14sp" />
 
