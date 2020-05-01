@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
     android:background="@drawable/gradient"
     >
 
@@ -15,6 +15,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="159dp"
+        android:gravity="center"
         android:layout_marginLeft="159dp"
         android:layout_marginTop="351dp"
         android:text="Logout" />
@@ -27,6 +28,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerInParent="true"
         android:layout_marginStart="137dp"
+        android:gravity="center"
         android:layout_marginLeft="137dp"
         android:layout_marginTop="184dp"
         android:text="Notifications" />
