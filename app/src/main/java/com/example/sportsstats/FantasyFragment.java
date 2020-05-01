@@ -225,7 +225,7 @@ public class FantasyFragment extends Fragment {
     private List<playerSample> playerSamples = new ArrayList<>();
 
     private void readPlayerData(String correctPlayer) {
-        InputStream is = getResources().openRawResource(R.raw.neweststats);
+        InputStream is = getResources().openRawResource(R.raw.predictedstats);
         BufferedReader reader = new BufferedReader(
                 new InputStreamReader(is, Charset.forName("UTF-8"))
         );

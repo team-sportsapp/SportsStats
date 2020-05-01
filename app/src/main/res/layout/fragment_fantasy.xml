@@ -12,7 +12,7 @@
         android:layout_marginRight="21dp"
         android:layout_toStartOf="@+id/btnTest"
         android:layout_toLeftOf="@+id/btnTest"
-        android:hint="Player Name" />
+        android:hint="Player Name (First Last)" />
 
     <Button
         android:id="@+id/btnTest"
@@ -245,7 +245,7 @@
                     <TableLayout
                         android:id="@+id/table"
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent">
+                        android:layout_height="33dp">
 
                         <TableRow
                             android:id="@+id/tr1"
